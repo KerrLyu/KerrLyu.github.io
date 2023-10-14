@@ -5,7 +5,6 @@ module.exports = {
   important: true,
   darkMode: "class",
   content: [
-    themeDir + "hugo_stats.json",
     themeDir + "layouts/**/*.html",
     themeDir + "exampleSite/content/**/*.html",
     "layouts/**/*.html",
