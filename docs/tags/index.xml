@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eureka Demo</title>
-    <link>/tags/</link>
+    <link>https://KerrLyu.github.io/tags/</link>
     <description>Recent content in Tags on Eureka Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;WANG Chucheng&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;MA Ruiqi&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://KerrLyu.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>image</title>
-      <link>/tags/image/</link>
+      <link>https://KerrLyu.github.io/tags/image/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/image/</guid>
+      <guid>https://KerrLyu.github.io/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>/tags/css/</link>
+      <link>https://KerrLyu.github.io/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>https://KerrLyu.github.io/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>/tags/html/</link>
+      <link>https://KerrLyu.github.io/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>https://KerrLyu.github.io/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>/tags/markdown/</link>
+      <link>https://KerrLyu.github.io/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>https://KerrLyu.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/tags/themes/</link>
+      <link>https://KerrLyu.github.io/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/themes/</guid>
+      <guid>https://KerrLyu.github.io/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>/tags/text/</link>
+      <link>https://KerrLyu.github.io/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/text/</guid>
+      <guid>https://KerrLyu.github.io/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>/tags/emoji/</link>
+      <link>https://KerrLyu.github.io/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/emoji/</guid>
+      <guid>https://KerrLyu.github.io/tags/emoji/</guid>
       <description></description>
     </item>
     
