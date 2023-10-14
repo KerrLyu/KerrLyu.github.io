@@ -1,4 +1,4 @@
 ---
-title: Docs
+title: Teaching
 layout: doc-list
 ---

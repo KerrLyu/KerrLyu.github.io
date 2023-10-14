@@ -1,6 +1,6 @@
 ---
-title: Example Doc
-description: This is an example doc layout of Eureka theme
+title: ECON 103 Introduction to Macroeconomics
+description: Instructor
 toc: true
 authors:
 tags:
