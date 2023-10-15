@@ -1,66 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Eureka Demo</title>
+    <title>Research on Eureka Demo</title>
     <link>https://KerrLyu.github.io/posts/</link>
-    <description>Recent content in Posts on Eureka Demo</description>
+    <description>Recent content in Research on Eureka Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;WANG Chucheng&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;MA Ruiqi&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Wed, 31 Mar 2021 13:11:22 +0800</lastBuildDate><atom:link href="https://KerrLyu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Dec 1969 16:33:43 -0800</lastBuildDate><atom:link href="https://KerrLyu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Diagram Support</title>
-      <link>https://KerrLyu.github.io/posts/diagram-support/</link>
-      <pubDate>Wed, 31 Mar 2021 13:11:22 +0800</pubDate>
+      <title>Social Capital and Self-employment Dynamics in China</title>
+      <link>https://KerrLyu.github.io/posts/2023-social-capital/</link>
+      <pubDate>Wed, 31 Dec 1969 16:33:43 -0800</pubDate>
       
-      <guid>https://KerrLyu.github.io/posts/diagram-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of diagrams by using Mermaid.&lt;/p&gt;</description>
+      <guid>https://KerrLyu.github.io/posts/2023-social-capital/</guid>
+      <description>Abstract Abstract: Opportunity-driven entrepreneurship could stimulate economic growth and foster technology innovation while subsistence-driven self-employment could have the opposite eﬀect. In China, a country with a typical relational society, and a middle-income status, the nature of nonagricultural self-employment remains contentious. Examining the influence of social capital on entrepreneurial activities could provide insight into the nature of entrepreneurial activities in China, though this issue has received relatively little attention in the literature. To address this gap, this study employs multivariate discrete choice modeling on national representative samples from the China Family Panel Studies dataset to assess the relationship between social capital and entrepreneurship dynamics.</description>
     </item>
     
     <item>
-      <title>Math Support</title>
-      <link>https://KerrLyu.github.io/posts/math-support/</link>
-      <pubDate>Fri, 20 Nov 2020 22:52:56 +0800</pubDate>
+      <title>Economic and Environmental Effects of Resource Tax Reform in China: A Computable General Equilibrium</title>
+      <link>https://KerrLyu.github.io/posts/2019-tax/</link>
+      <pubDate>Wed, 31 Dec 1969 16:33:39 -0800</pubDate>
       
-      <guid>https://KerrLyu.github.io/posts/math-support/</guid>
-      <description>&lt;p&gt;Eureka supports the rendering of mathematical formulas by using KaTeX.&lt;/p&gt;</description>
+      <guid>https://KerrLyu.github.io/posts/2019-tax/</guid>
+      <description>Download paper here
+Lyu, K., &amp;amp; Sun, J. (2019, December). Economic and Environmental Effects of Resource Tax Reform in China: A Computable General Equilibrium. In 2nd International Symposium on Social Science and Management Innovation (SSMI 2019) (pp. 447-454). Atlantis Press.</description>
     </item>
     
     <item>
-      <title>Featured Image</title>
-      <link>https://KerrLyu.github.io/posts/featured-image/</link>
-      <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
+      <title>Reanalysis of Empirical Research for Return to Schooling: a Weak Instrument Variable Problem</title>
+      <link>https://KerrLyu.github.io/posts/2019-education/</link>
+      <pubDate>Wed, 31 Dec 1969 16:33:39 -0800</pubDate>
       
-      <guid>https://KerrLyu.github.io/posts/featured-image/</guid>
-      <description>&lt;p&gt;Maecenas maximus, elit in ornare porttitor, nisi eros hendrerit nisl, sed fermentum nulla urna blandit tellus.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://KerrLyu.github.io/posts/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://KerrLyu.github.io/posts/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://KerrLyu.github.io/posts/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://KerrLyu.github.io/posts/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://KerrLyu.github.io/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://KerrLyu.github.io/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://KerrLyu.github.io/posts/2019-education/</guid>
+      <description>Download paper here
+Jiang, Z., &amp;amp; Lyu, K. (2019). Reanalysis of Empirical Research for Return to Schooling: a Weak Instrument Variable Problem.</description>
     </item>
     
   </channel>
