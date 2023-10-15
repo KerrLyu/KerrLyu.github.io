@@ -4,4 +4,4 @@ layout: doc-list
 ---
 
 
-[Click here to download my CV](/pdf/main_cv.pdf)
+Here is my latest [CV](/pdf/main_cv.pdf). References are available upon request.
