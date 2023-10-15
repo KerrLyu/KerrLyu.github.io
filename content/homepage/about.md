@@ -8,7 +8,7 @@ organization:
   name: University of Nevada, Reno
   url: https://www.unr.edu/business/departments-and-disciplines/economics
 social:
-  - icon: google
+  - icon: google-scholar
     iconPack: fab
     url: https://scholar.google.com/citations?user=6GMuXIwAAAAJ&hl=en
   - icon: orcid
