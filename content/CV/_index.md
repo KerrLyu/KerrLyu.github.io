@@ -1,4 +1,4 @@
 ---
-title: Teaching
+title: CV
 layout: doc-list
 ---
