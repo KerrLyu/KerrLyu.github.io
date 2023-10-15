@@ -6,8 +6,7 @@ permalink: /publication/22023-Social Capital
 date: 2023
 venue: 'The Chinese Economy'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Lyu, K. (2023). Social capital and Self-employment Dynamics in China. The Chinese Economy. https://doi.org/10.1080/10971475.2023.2227028
-'
+citation: 'Ke Lyu (2023) Social Capital and Self-Employment Dynamics in China, The Chinese Economy, 56:6, 459-485, DOI: 10.1080/10971475.2023.2227028'
 ---
 ## Abstract
 

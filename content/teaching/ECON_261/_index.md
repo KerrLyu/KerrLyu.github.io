@@ -1,5 +1,5 @@
 ---
-title: ECON 261 Introduction to Macroeconomics
+title: ECON 261 Principles of Statistics I
 description: Instructor
 toc: true
 # authors:

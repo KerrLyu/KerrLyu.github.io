@@ -1,5 +1,5 @@
 ---
-title: ECON 103 Introduction to Macroeconomics
+title: ECON 103 Principles of Macroeconomics
 description: Instructor
 toc: true
 authors:

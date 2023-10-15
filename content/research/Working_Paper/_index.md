@@ -1,5 +1,5 @@
 ---
-title: Working Paper
+title: Work in Progress
 description: Instructor
 toc: true
 authors:
