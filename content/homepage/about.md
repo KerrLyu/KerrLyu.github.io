@@ -2,7 +2,7 @@
 title: Ke (Kerr) Lyu
 draft: false
 role: Ph.D. Candidate in Economics
-avatar: images/icon.png
+avatar: /jpg/portrait.jpg
 bio: 1664 N. Virginia Street, The National Judicial College Office 118B, Reno, NV 89557
 organization:
   name: University of Nevada, Reno
