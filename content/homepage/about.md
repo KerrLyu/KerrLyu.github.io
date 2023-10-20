@@ -47,6 +47,4 @@ widget:
 
 ## Self Introduction
 
-I am currently in my fourth year as a Ph.D. candidate in the Department of Economics at the University of Nevada, Reno (UNR). My primary research interests include entrepreneurship, labor economics, and health economics. I have a broad interest in both developed and developing countries, especially in the area of self-employment.
-
-Prior to joining UNR, I earned an MSc in Economics from the University of Edinburgh in the UK.
+I am currently in my fourth year as a Ph.D. candidate in the Department of Economics at the University of Nevada, Reno (UNR), with plans to enter the job market in the 2024-2025 academic year. My primary research interests are in entrepreneurship, labor economics, and health economics, with a particular focus on self-employment in both developed and developing countries. Prior to joining UNR, I earned an MSc in Economics from the University of Edinburgh in the UK.
