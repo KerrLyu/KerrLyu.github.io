@@ -1,3 +1,4 @@
 
 .vscode/
 assets/jsconfig.json
+node_modules/
