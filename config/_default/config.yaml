@@ -15,7 +15,7 @@ copyright: >
   href="https://www.ruiqima.com/">MA Ruiqi</a>
 enableEmoji: true
 enableGitInfo: false
-enableRobotsTXT: true
+# enableRobotsTXT: true
 summaryLength: 75
 
 defaultContentLanguage: en
