@@ -1,3 +1,3 @@
-article p {
+article p, .prose p, .prose li {
     text-align: justify;
 }
