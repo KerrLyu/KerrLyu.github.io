@@ -1,9 +1,6 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-{{/*  Google verify  */}}
-<meta name="google-site-verification" content="PTEf9xHeI3vwp1JPxn275j26uyPQS9EkO9F96-ATt0U" />
-
 {{ define "partials/get-title" }}
 {{ $separator := .Site.Params.titleSeparator | default "|" }}
 {{ $primarySep := $separator }}
@@ -55,6 +52,8 @@
 {{ end }}
 <title>{{ partial "get-title" . }}</title>
 
+{{/* Google verify */}}
+<meta name="google-site-verification" content="dpymyxYMLzClXP7y7t23MfdEGHLanDqQGgRr-q1e6TY" />
 <meta name="generator" content="Hugo Eureka {{ .Site.Data.eureka.version }}" />
 
 {{- $eurekaCSS := resources.Get "css/eureka.css" | postCSS (dict "config" "./assets/css/postcss.config.js" "inlineImports" true) | resources.ExecuteAsTemplate "css/eureka.css" . | minify | fingerprint "sha384" }}
