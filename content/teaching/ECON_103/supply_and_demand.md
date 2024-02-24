@@ -18,13 +18,13 @@ selling behavior, taking into account their costs and available money.
 <!--more-->
 
 ## Download Here!
-[Introduction](http://KerrLyu.github.io/static/pdf/game1_intro.pdf) 
+[Introduction](https://KerrLyu.github.io/static/pdf/game1_intro.pdf) 
 
-[Slides](http://KerrLyu.github.io/static/pdf/game1_slides.pdf) 
+[Slides](https://KerrLyu.github.io/static/pdf/game1_slides.pdf) 
 
-[Card](http://KerrLyu.github.io/static/pdf/game1_card.pdf)
+[Card](https://KerrLyu.github.io/static/pdf/game1_card.pdf)
 
-[ID Card](http://KerrLyu.github.io/static/pdf/game1_ID_card.pdf)
+[ID Card](https://KerrLyu.github.io/static/pdf/game1_ID_card.pdf)
 
 ### Game Rules
 
