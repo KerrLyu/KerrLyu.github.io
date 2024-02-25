@@ -18,11 +18,11 @@ of lenders, attempting to maximize their returns while considering their competi
 <!--more-->
 
 ## Download Here!
-[Introduction](https://KerrLyu.github.io/static/pdf/game3_intro.pdf) 
+[Introduction](https://KerrLyu.github.io/pdf/game3_intro.pdf) 
 
-[Slides](https://KerrLyu.github.io/static/pdf/game3_slides.pdf) 
+[Slides](https://KerrLyu.github.io/pdf/game3_slides.pdf) 
 
-[Bingo Card](https://KerrLyu.github.io/static/pdf/game3_auction_card.pdf)
+[Bingo Card](https://KerrLyu.github.io/pdf/game3_auction_card.pdf)
 
 ### Game Insturctions
 
