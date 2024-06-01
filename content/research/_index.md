@@ -9,11 +9,7 @@ title: Research
 2. **Liu, X., Jia, X., Lyu, K. et al. (2024)** The impact of low-carbon city pilot policy on urban energy transition: an analysis of multiple mediating effects based on “government–enterprise–resident”. Energy, Ecology and Environment, 1-20, 2024. [link](https://link.springer.com/article/10.1007/s40974-024-00316-w)
 
 3. **Liu, X., Jia, X., Lyu, K. et al. (2024)** Towards sustainable
-development: The spatial spillover effects of low-carbon city pilot policy on urban energy transition. Conditionally accepted: Envrionment, Development and Sustainablity.
-
-4. **Lyu, K., & Jiang, Z. (2019).** Reanalysis of Empirical Research for Return to Schooling: a Weak Instrument Variable Problem. In Proceedings of the 2019 International Seminar on Education, Teaching, Business and Management (ISETBM 2019), Moscow, Russia, November 2-3, 2019. [link](https://webofproceedings.org/proceedings_series/ESSP/ISETBM%202019/T1049.pdf)
-
-5. **Lyu, K., & Sun, J. (2019).** Economic and Environmental Effects of Resource Tax Reform in China: A Computable General Equilibrium. In 2nd International Symposium on Social Science and Management Innovation (SSMI 2019) (pp. 447-454). Atlantis Press. [link](https://www.atlantis-press.com/proceedings/ssmi-19/125925364)
+development: The spatial spillover effects of low-carbon city pilot policy on urban energy transition. Envrionment, Development and Sustainablity, 1-34, 2024. [link](https://link.springer.com/article/10.1007/s10668-024-04816-x)
 
 ## Working Papers
 
