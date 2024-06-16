@@ -1,5 +1,5 @@
 ---
-title: ECON 103 Principles of Macroeconomics-Class Games
+title: Principles of Macroeconomics-Class Games
 description: Instructor
 toc: true
 authors:
