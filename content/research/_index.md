@@ -23,4 +23,4 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
  
 ## Work in Progress
 
-1. **Lyu, K. (2023).** Bridging the Divide: How Urban-Rural Health Insurance Integration Influences Migrant Workers’ Employment Choices in China. In Progress. 
+1. The Impacts of Local Business Tax Credits and Other Policies on Startup Creation, Survival and Job Creation: Evidence from the Comprehensive Startup Panel that covers the universe of U.S. Startups (with [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank), [Robert Fairlie](https://rfairlie.sites.ucsc.edu/), and [Andrew Johnston](https://economics.ucmerced.edu/content/andrew-johnston)) 
