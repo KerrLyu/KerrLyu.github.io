@@ -4,7 +4,7 @@ title: Research
 
 ## Publications
 
-1. **Lyu, K. (2023).** Social capital and self-Employment dynamics in China, The Chinese Economy, 56:6, 459-485, 2023. [link](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028)
+1. **Lyu, K. (2023).** Social capital and self-employment dynamics in China, The Chinese Economy, 56:6, 459-485, 2023. [link](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028)
 
 2. **Liu, X., Jia, X., Lyu, K. et al. (2024)** The impact of low-carbon city pilot policy on urban energy transition: an analysis of multiple mediating effects based on “government–enterprise–resident”. Energy, Ecology and Environment, 1-20, 2024. [link](https://link.springer.com/article/10.1007/s40974-024-00316-w)
 
