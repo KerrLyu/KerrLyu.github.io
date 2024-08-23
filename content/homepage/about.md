@@ -47,4 +47,10 @@ widget:
 
 ## Self Introduction
 
-I am currently in my fifth year as a Ph.D. candidate in the Department of Economics at the University of Nevada, Reno (UNR), with plans to enter the job market in the 2025-2026 academic year. My primary research interests are in entrepreneurship, labor economics, and health economics, with a particular focus on self-employment in both developed and developing countries. Prior to joining UNR, I earned an MSc in Economics from the University of Edinburgh in the UK.
+I am currently in my fifth year as a Ph.D. candidate in the Department of Economics at the University of Nevada, Reno (UNR), with plans to enter the job market in the 2025-2026 academic year. Prior to joining UNR, I earned an MSc in Economics from the University of Edinburgh in the UK. Two key questions drive my research:
+
+❓What drives solo self-employment? Is it primarily dominated and driven by opportunity or by necessity in both high- and middle-income countries?
+
+❓To what extent can policies designed to promote self-employment effectively enhance social welfare?
+
+These questions shape my primary research interests in entrepreneurship, labor economics, and health economics, with a particular focus on self-employment in both developed and developing countries.
