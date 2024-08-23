@@ -53,4 +53,4 @@ I am currently in my fifth year as a Ph.D. candidate in the Department of Econom
 
 ❓To what extent can policies designed to promote self-employment effectively enhance social welfare?
 
-These questions shape my primary research interests in entrepreneurship, labor economics, and health economics, with a particular focus on self-employment in both developed and developing countries.
+These questions shape my primary research interests in entrepreneurship, labor economics, and health economics, with a particular focus on solo self-employment, also known as nonemployer businesses.
