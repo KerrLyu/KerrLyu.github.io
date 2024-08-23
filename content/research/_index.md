@@ -31,4 +31,4 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
 
 2. How Artificial Intelligence Enhances Labor Investment Efficiency (with Mengfei Zhang)
 
-3. The "Broadband China" Pilot Policy and New Firm Entry: Evidence from China 
+3. The "Broadband China" Pilot Policy and New Firm Entry: Evidence from China (with Chao Lu)
