@@ -9,6 +9,7 @@ series:
 date: '2023-10-14'
 lastmod: '2023-10-14'
 draft: false
+hidden: true
 ---
 
 This game is designed to help freshmen university students understand the credit market and
