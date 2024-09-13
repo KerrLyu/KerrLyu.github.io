@@ -7,7 +7,7 @@ date: '2023-10-16'
 ## University of Nevada, Reno (2020-Present)
 **Instructor**
 
-1. **ECON 261 Principles of Statistics** Summer 2023, Fall 2022 [Class Game Materials](/path/to/macroeconomics-class-games)
+1. **ECON 261 Principles of Statistics** Summer 2023, Fall 2022 [Class Game Materials](/teaching/ECON_103)
 
 2. **ECON 103 Principles of Macroeconomics** Spring 2023 [Class Game Materials](/path/to/macroeconomics-class-games)
 
