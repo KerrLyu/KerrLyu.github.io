@@ -49,4 +49,3 @@ and interest rates. The five winners are the lenders with the top five highest r
 7. Debrief and discuss the game as a class. Reflect on the role of game theory in the credit market and how it
 influenced bidding strategies and decisions. Encourage students to share their experiences and insights
 from the game.
-
