@@ -10,7 +10,7 @@ layout: single
 
 2. **ECON 103 Principles of Macroeconomics** Spring 2023 
    - [🔥 Supply and Demand Class Game (Most Downloaded)](https://KerrLyu.github.io/teaching/econ_103/supply_and_demand/)
-   - [Credit Market Auction Class Game](https://KerrLyu.github.io/teaching/eco_103/credit_market_auction/)
+   - [Credit Market Auction Class Game](https://KerrLyu.github.io/teaching/econ_103/credit_market_auction/)
    - [Job Market Bingo Class Game](https://KerrLyu.github.io/teaching/econ_103/job_market_bingo/) 
 
 3. **Math Camp for Incoming Master’s and Ph.D. Students in the Economics Department** Summer 2023, 2022
