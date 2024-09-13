@@ -1,7 +1,5 @@
 ---
 title: Teaching
-layout: doc-list
-date: '2023-10-16'
 ---
 
 ## University of Nevada, Reno (2020-Present)
