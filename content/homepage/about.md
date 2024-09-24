@@ -63,4 +63,4 @@ I am delighted to announce my acceptance into the [**"Successfully Navigating Yo
 
 ### Presented at Southern Economic Association 94th Annual Meeting  
 **11/23/2024 - 11/25/2024**  
-Our paper entitled *"How do Minimum Wages Affect Nonemployer Business Establishments in the United States"* has been accepted for presentation at the [**Southern Economic Association 94th Annual Meeting**](https://sea.mymeetingsavvy.net/program).
+Our paper entitled *"How do Minimum Wages Affect Nonemployer Business Establishments in the United States?"* has been accepted for presentation at the [**Southern Economic Association 94th Annual Meeting**](https://sea.mymeetingsavvy.net/program).
