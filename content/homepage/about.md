@@ -60,3 +60,7 @@ These questions shape my primary research interests in entrepreneurship, labor e
 ### Accepted to "Successfully Navigating Your Economics PhD" Workshop  
 **11/22/2024**  
 I am delighted to announce my acceptance into the [**"Successfully Navigating Your Economics PhD"**](https://www.aeaweb.org/about-aea/committees/cswep/programs/resources/events/econ-workshop) workshop, to be held in Washington, D.C.
+
+### Presented at Southern Economic Association 94th Annual Meeting  
+**11/23/2024 - 11/25/2024**  
+Our paper entitled *"How do Minimum Wages Affect Nonemployer Business Establishments in the United States"* has been accepted for presentation at the [**Southern Economic Association 94th Annual Meeting**](https://sea.mymeetingsavvy.net/program).
