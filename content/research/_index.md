@@ -32,3 +32,5 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
 1. The Impacts of Local Business Tax Credits and Other Policies on Startup Creation, Survival and Job Creation: Evidence from the Comprehensive Startup Panel that covers the universe of U.S. Startups (with [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank), [Robert Fairlie](https://rfairlie.sites.ucsc.edu/), and [Andrew Johnston](https://economics.ucmerced.edu/content/andrew-johnston)) 
 
 2. How Artificial Intelligence Enhances Labor Investment Efficiency (with Mengfei Zhang)
+
+3. Elderly Care and Nursing Homes (with Quansheng Xuan)
