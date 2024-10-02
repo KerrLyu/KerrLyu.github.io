@@ -17,8 +17,10 @@ layout: single
 
 **Teaching Assistant**
 
-1. **ECON 365 Labor Economics** Spring 2022
+1. **ECON 743 AppliedMicroeconometric Methods** Fall 2024
 
-2. **ECON 702 Advanced Microeconomics** Fall 2021
+2. **ECON 365 Labor Economics** Spring 2022
 
-3. **ECON 261 Principles of Statistics** Fall 2021
+3. **ECON 702 Advanced Microeconomics** Fall 2021
+
+4. **ECON 261 Principles of Statistics** Fall 2021
