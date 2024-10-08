@@ -33,4 +33,4 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
 
 2. How Artificial Intelligence Enhances Labor Investment Efficiency (with [Shunfeng Song](https://www.unr.edu/business/faculty-and-staff/song-shunfeng), and Mengfei Zhang)
 
-3. Elderly Care and Nursing Homes (with [Quansheng Xuan](https://scholar.google.com.hk/citations?user=tJ03IJwAAAAJ&hl=zh-CN)) 
+3. Elderly Care Services and Nursing Homes (with [Quansheng Xuan](https://scholar.google.com.hk/citations?user=tJ03IJwAAAAJ&hl=zh-CN)) 
