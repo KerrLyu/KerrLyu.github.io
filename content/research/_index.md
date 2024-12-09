@@ -25,7 +25,7 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
 
 3. **Can, E., Lyu, K., Pham, H., & Yang, J. (2024)** The effects of the 2012 Kansas Income Tax Reform on different types of entrepreneurship.Unpublished.
    
-   <span style="font-size: 0.9em;">*Presented at 117th Annual Conference on Taxation 2024*</span>
+   <span style="font-size: 0.9em;">*Presented at 117th NTA Annual Conference on Taxation 2024*</span>
 
 4. **Liu, X., Jia, X., Lyu, K. et al. (2024)** Building resilient cities: The role of network infrastructure construction in shaping urban ecological resilience. Submitted. 
 {{< collapse summary="Abstract">}}
