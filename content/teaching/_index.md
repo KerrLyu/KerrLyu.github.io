@@ -17,7 +17,7 @@ layout: single
 
 **Teaching Assistant**
 
-1. **ECON 743 AppliedMicroeconometric Methods** Fall 2024
+1. **ECON 743 Applied Microeconometric Methods** Fall 2024
 
 2. **ECON 365 Labor Economics** Spring 2022
 
