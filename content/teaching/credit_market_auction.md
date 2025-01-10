@@ -6,8 +6,8 @@ authors:
 tags:
 categories:
 series:
-date: '2023-10-14'
-lastmod: '2023-10-14'
+date: '2025-10-14'
+lastmod: '2025-10-14'
 draft: false
 ---
 
