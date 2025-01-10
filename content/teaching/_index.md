@@ -11,7 +11,6 @@ read_time: false
 1. **ECON 261 Principles of Statistics** Summer 2023, Fall 2022
 
 2. **ECON 103 Principles of Macroeconomics** Spring 2023 
-   - [🔥 Supply and Demand Class Game (Most Downloaded)](https://KerrLyu.github.io/content/teaching/supply_and_demand/)
    - [🔥 Supply and Demand Class Game (Most Downloaded)](https://KerrLyu.github.io/teaching/econ_103/supply_and_demand/)
    - [Credit Market Auction Class Game](https://KerrLyu.github.io/teaching/econ_103/credit_market_auction/)
    - [Job Market Bingo Class Game](https://KerrLyu.github.io/teaching/econ_103/job_market_bingo/) 
