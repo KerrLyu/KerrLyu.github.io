@@ -59,10 +59,12 @@ These questions shape my primary research interests in entrepreneurship, labor e
 
 <div class="news-item" style="background-color: #e7f3fe; padding: 10px; margin-bottom: 10px;">
   <em>03/14/2025</em> - <strong>Presented at the 5th Winter UCLA Price Research Conference</strong><br>
-  Our paper, entitled <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, has been accepted for presentation at the <a href="https://www.anderson.ucla.edu/about/centers/impactanderson/events">5th Winter Price Research Conference, hosted by UCLA Anderson School of Management.</a>
+  Our paper, entitled <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, has been accepted for presentation at the 
+  <a href="https://www.anderson.ucla.edu/about/centers/impactanderson/events"><span style="text-decoration: underline;">5th</span> Winter Price Research Conference</a>, hosted by UCLA Anderson School of Management.
 </div>
 
 <div class="news-item" style="background-color: #e7f3fe; padding: 10px; margin-bottom: 10px;">
   <em>06/04/2025–06/07/2025</em> - <strong>Presented at the 45th Babson College Entrepreneurship Research Conference</strong><br>
-  Our paper, entitled <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/">45th BCERC, hosted by Babson College.</a>
+  Our paper, entitled <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the 
+  <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/"><span style="text-decoration: underline;">45th</span> BCERC</a>, hosted by Babson College.
 </div>
