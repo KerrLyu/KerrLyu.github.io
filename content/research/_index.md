@@ -4,11 +4,11 @@ title: Research
 
 ## Publications
 
-1. <span style="color: #0f172a;"><strong>Lyu, K. (2023).</strong></span>  [<span style="color: #1e3a8a; text-decoration: underline;">Social capital and self-employment dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), The Chinese Economy, 56:6, 459-485, 2023.
+1. <span style="color: #0f172a;"><strong>Lyu, K. (2023).</strong></span>  [<span style="color: #6E8798; text-decoration: underline;">Social capital and self-employment dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), The Chinese Economy, 56:6, 459-485, 2023.
 
-2. <span style="color: #0f172a;"><strong>Liu, X., Jia, X., Lyu, K. et al. (2024).</strong></span> [<span style="color: #1e3a8a; text-decoration: underline;">The impact of low-carbon city pilot policy on urban energy transition: an analysis of multiple mediating effects based on “government–enterprise–resident”</span>](https://link.springer.com/article/10.1007/s40974-024-00316-w), Energy, Ecology and Environment, 1-20, 2024.
+2. <span style="color: #0f172a;"><strong>Liu, X., Jia, X., Lyu, K. et al. (2024).</strong></span> [<span style="color: #6E8798; text-decoration: underline;">The impact of low-carbon city pilot policy on urban energy transition: an analysis of multiple mediating effects based on “government–enterprise–resident”</span>](https://link.springer.com/article/10.1007/s40974-024-00316-w), Energy, Ecology and Environment, 1-20, 2024.
 
-3. <span style="color: #0f172a;"><strong>Liu, X., Jia, X., Lyu, K. et al. (2024).</strong></span> [<span style="color: #1e3a8a; text-decoration: underline;">Towards sustainable development: The spatial spillover effects of low-carbon city pilot policy on urban energy transition</span>](https://link.springer.com/article/10.1007/s10668-024-04816-x), Environment, Development and Sustainability, 1-34, 2024.
+3. <span style="color: #0f172a;"><strong>Liu, X., Jia, X., Lyu, K. et al. (2024).</strong></span> [<span style="color: #6E8798; text-decoration: underline;">Towards sustainable development: The spatial spillover effects of low-carbon city pilot policy on urban energy transition</span>](https://link.springer.com/article/10.1007/s10668-024-04816-x), Environment, Development and Sustainability, 1-34, 2024.
 
 ## Working Papers
 
