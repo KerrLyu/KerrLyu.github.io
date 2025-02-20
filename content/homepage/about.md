@@ -70,7 +70,7 @@ These questions shape my primary research interests in entrepreneurship, labor e
 </div>
 
 <div class="news-item" style="background-color: #e7f3fe; padding: 10px; margin-bottom: 10px;">
-  <em>06/20/2025–06/24/2025</em> - <strong>Presented at the 101st Western Economic Association International (WEAI) Annual Conferences</strong><br>
+  <em>06/20/2025–06/24/2025</em> - <strong>Presented at the 10oth Western Economic Association International (WEAI) Annual Conferences</strong><br>
   Our paper, entitled <em>"Unlocking Opportunity: Evaluating China’s Targeted
 Poverty Alleviation Program and Its Impact on Entrepreneurship"</em>, has been accepted for presentation at the 
   <a href="https://www.weai.org/annual-conference"><span style="text-decoration: underline;">101st</span> WEAI Conference</a>.
