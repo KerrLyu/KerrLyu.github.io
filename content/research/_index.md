@@ -18,7 +18,7 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
 
 2. How does minimum wage affect non-employer business establishments in the United States?. With [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank) (Unpublished)
 
-   <span style="font-size: 0.9em;">*Presented at REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*</span>
+   <span style="font-size: 0.9em;">*Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*</span>
    {{< collapse summary="Abstract">}}
  This paper investigates the impact of minimum wage increases on non-employer business establishments at the county level in the United States. Using a two-way fixed effects analysis and an identification strategy that compares non-employer establishments in contiguous counties across neighboring states, we examine the effects of minimum wages. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that increases in the minimum wage reduce the number of non-employer business establishments, with a 1\% rise in the minimum wage leading to a 0.8\% decrease in the number of businesses. Further insights using data from the Business Formation Statistics, Business Dynamics Statistics, the Current Population Survey, and the Quarterly Census of Employment and Wages reveal that higher minimum wages discourage transitions from non-employer to employer status, do not significantly affect the shift between wage employment and self-employment, and promote transitions from self-employment to unemployment. This negative effect is mitigated in counties with a more disadvantaged labor force, characterized by higher percentages of females, Hispanics, Blacks, Asians, and lower percentages of high school graduates. Conversely, this effect becomes positive in the transportation industry, likely due to the gig economy. These results are robust across various variables, models, and datasets.{{< /collapse >}}
 
@@ -36,8 +36,8 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
  
 ## Work in Progress
 
-1. The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups (with [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank), [Robert Fairlie](https://rfairlie.sites.ucsc.edu/), and [Andrew Johnston](https://economics.ucmerced.edu/content/andrew-johnston)) 
+1. The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups (with [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank), [Robert Fairlie](https://rfairlie.sites.ucsc.edu/), and [Andrew Johnston](https://economics.ucmerced.edu/content/andrew-johnston)) (Presented at WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025)
 
-2. Poverty Alleviation Program and Firms (with [Shunfeng Song](https://www.unr.edu/business/faculty-and-staff/song-shunfeng), and Mengfei Zhang)
+2. Poverty Alleviation Program and Firms (with [Shunfeng Song](https://www.unr.edu/business/faculty-and-staff/song-shunfeng), and Mengfei Zhang) (Presented at WEAI 100th Annual Meeting 2025)
 
 3. Online Gambling (with [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Mark Pingle](https://www.unr.edu/business/faculty-and-staff/pingle-mark), [Chaehyun Pyun](https://www.uah.edu/business/faculty-staff/chaehyun-pyun))
