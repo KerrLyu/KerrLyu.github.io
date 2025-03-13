@@ -75,3 +75,10 @@ These questions shape my primary research interests in entrepreneurship, labor e
 Poverty Alleviation Program and Its Impact on Entrepreneurship"</em>, has been accepted for presentation at the 
   <a href="https://www.weai.org/annual-conference"><span style="text-decoration: underline;">100th</span> WEAI Conference</a>.
 </div>
+
+<div class="news-item" style="background-color: #e7f3fe; padding: 10px; margin-bottom: 10px;">
+  <em>06/27/2025-06/29/2015</em> - <strong>Presented at the 6th World Labor Conference</strong><br>
+  Our paper, entitled <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, has been accepted for presentation at the 
+  <a href="https://www.sole-jole.org/upcoming-meeting"><span style="text-decoration: underline;">5th</span> World Labor Conference</a>, hosted by Society of Labor Economists (SOLE).
+</div>
+ 
