@@ -57,25 +57,25 @@ These questions shape my primary research interests in entrepreneurship, labor e
 
 ## News Feed
 
-<div class="news-item" style="background: linear-gradient(to right, #e7f3fe, #c0ddf6); padding: 10px; margin-bottom: 10px;">
+<div class="news-item" style="background-color: #e7f3fe; padding: 10px; margin-bottom: 10px;">
   <em>04/01/2025</em> - <strong>Recipient of the 2025 Outstanding Graduate Student Award</strong><br>
   Honored to receive the <em>Outstanding Graduate Student Award</em> from the College of Business at the University of Nevada, Reno.
 </div>
 
-<div class="news-item" style="background: linear-gradient(to right, #e7f3fe, #c0ddf6); padding: 10px; margin-bottom: 10px;">
+<div class="news-item" style="background-color: #d0e7fc; padding: 10px; margin-bottom: 10px;">
   <em>06/04/2025–06/07/2025</em> - <strong>Presented at the 45th Babson College Entrepreneurship Research Conference</strong><br>
   Our paper, entitled <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the 
   <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/"><span style="text-decoration: underline;">45th</span> BCERC</a>, hosted by Babson College.
 </div>
 
-<div class="news-item" style="background: linear-gradient(to right, #e7f3fe, #c0ddf6); padding: 10px; margin-bottom: 10px;">
+<div class="news-item" style="background-color: #aad1f9; padding: 10px; margin-bottom: 10px;">
   <em>06/20/2025–06/24/2025</em> - <strong>Presented at the 100th Western Economic Association International (WEAI) Annual Conferences</strong><br>
   Our paper, entitled <em>"Unlocking Opportunity: Evaluating China’s Targeted
 Poverty Alleviation Program and Its Impact on Entrepreneurship"</em>, has been accepted for presentation at the 
   <a href="https://www.weai.org/annual-conference"><span style="text-decoration: underline;">100th</span> WEAI Conference</a>.
 </div>
 
-<div class="news-item" style="background: linear-gradient(to right, #e7f3fe, #c0ddf6); padding: 10px; margin-bottom: 10px;">
+<div class="news-item" style="background-color: #87baf4; padding: 10px; margin-bottom: 10px;">
   <em>06/27/2025–06/29/2025</em> - <strong>Presented at the 6th World Labor Conference</strong><br>
   Our paper, entitled <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, has been accepted for presentation at the 
   <a href="https://www.sole-jole.org/upcoming-meeting"><span style="text-decoration: underline;">6th</span> World Labor Conference</a>, hosted by Society of Labor Economists (SOLE).
