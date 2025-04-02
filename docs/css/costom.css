@@ -1,7 +1,5 @@
-/* Removes white box background on .no-bg pages */
-article.no-bg,
-article.no-bg .content,
-article.no-bg .main {
+/* Force removal of white background on single page content */
+main.container > div.bg-white {
   background-color: transparent !important;
   box-shadow: none !important;
 }

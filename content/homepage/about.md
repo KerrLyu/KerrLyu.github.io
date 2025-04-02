@@ -73,6 +73,7 @@ These questions shape my primary research interests in entrepreneurship, labor e
   .news-light { background-color: #d0e7fc; }
   .news-mid { background-color: #aad1f9; }
   .news-dark { background-color: #87baf4; }
+  .news-darkest { background-color: #639eea; }  /* ← Add this */
 
   .news-item em {
     font-style: normal;
