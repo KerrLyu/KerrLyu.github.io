@@ -115,3 +115,8 @@ These questions shape my primary research interests in entrepreneurship, labor e
   Our paper, entitled <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, has been accepted for presentation at the 
   <a href="https://www.sole-jole.org/upcoming-meeting"><span>6th</span> World Labor Conference</a>, hosted by Society of Labor Economists (SOLE).
 </div>
+
+<div class="news-item news-darkest">
+  <em>07/11/2025–07/17/2025</em> - <strong>Selected for the 2025 NBER Innovation Research Boot Camp</strong><br>
+  Excited to join the <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025"><span>2025 NBER Innovation Research Boot Camp</span></a>, which brings together researchers to explore frontier methods in innovation research.
+</div>
