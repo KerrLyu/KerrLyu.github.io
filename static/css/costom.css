@@ -1,0 +1,6 @@
+/* Remove background and box-shadow for pages with .no-bg */
+.no-bg {
+    background-color: transparent !important;
+    box-shadow: none !important;
+  }
+  

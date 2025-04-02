@@ -1,8 +1,9 @@
 ---
 title: Teaching
-layout: page
+layout: single
 date: 2025-01-10 
 read_time: false
+classes: no-bg
 ---
 
 ## University of Nevada, Reno (2020-Present)
