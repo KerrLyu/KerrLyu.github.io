@@ -1,6 +1,6 @@
 ---
 title: Teaching
-layout: single
+layout: page
 date: 2025-01-10 
 read_time: false
 ---
