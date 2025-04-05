@@ -1,11 +1,6 @@
 ---
 title: Technology in Teaching
 layout: single
-menu:
-  main:
-    parent: teaching
-    name: Technology in Teaching
-    weight: 2
 ---
 
 ## 🎓 Teaching with Technology: A Classroom Game Example
