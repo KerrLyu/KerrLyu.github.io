@@ -100,19 +100,19 @@ These questions shape my primary research interests in entrepreneurship, labor e
 </div>
 
 <div class="news-item news-light">
-  <em>06/04/2025–06/07/2025</em> - <strong>Presented at the 45th Babson College Entrepreneurship Research Conference</strong><br>
+  <em>06/04/2025–06/07/2025</em> - <strong>To be Presented at the 45th Babson College Entrepreneurship Research Conference</strong><br>
   Our paper, entitled <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the 
   <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/"><span>45th</span> BCERC</a>, hosted by Babson College.
 </div>
 
 <div class="news-item news-mid">
-  <em>06/20/2025–06/24/2025</em> - <strong>Presented at the 100th Western Economic Association International (WEAI) Annual Conferences</strong><br>
+  <em>06/20/2025–06/24/2025</em> - <strong>To be Presented at the 100th Western Economic Association International (WEAI) Annual Conferences</strong><br>
   Our paper, entitled <em>"Unlocking Opportunity: Evaluating China’s Targeted Poverty Alleviation Program and Its Impact on Entrepreneurship"</em>, has been accepted for presentation at the 
   <a href="https://www.weai.org/annual-conference"><span>100th</span> WEAI Conference</a>.
 </div>
 
 <div class="news-item news-dark">
-  <em>06/27/2025–06/29/2025</em> - <strong>Presented at the 6th World Labor Conference</strong><br>
+  <em>06/27/2025–06/29/2025</em> - <strong>To be Presented at the 6th World Labor Conference</strong><br>
   Our paper, entitled <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, has been accepted for presentation at the 
   <a href="https://www.sole-jole.org/upcoming-meeting"><span>6th</span> World Labor Conference</a>, hosted by Society of Labor Economists (SOLE).
 </div>
