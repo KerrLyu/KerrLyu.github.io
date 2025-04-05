@@ -1,19 +1,18 @@
 ---
 title: Teaching
 layout: single
-date: 2025-01-10 
+date: 2025-01-10
 read_time: false
 classes: no-bg
-permalink: /teaching/
+menu:
+  main:
+    identifier: teaching
+    name: Teaching
+    weight: 3
 ---
-
-## Teaching Overview
 
 As instructor for Principles of Macroeconomics and Economic Statistics, I use interactive tools like Mentimeter and Top Hat to bridge theory with real-world analysis. Students engage through policy simulations and collaborative projects analyzing datasets like FRED unemployment trends. These activities build job-ready skills in data interpretation and evidence-based decision-making.
 
-- [Teaching Philosophy](/teaching/teaching-philosophy/)
-- [Technology in Teaching Example](/teaching/tech-example/)
----
 ## University of Nevada, Reno (2020–Present)
 
 **Instructor**

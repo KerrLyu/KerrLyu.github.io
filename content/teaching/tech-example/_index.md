@@ -1,10 +1,11 @@
 ---
-title: Teaching with Technology
+title: Technology in Teaching
 layout: single
-permalink: /teaching/tech-example/
-date: 2025-01-15
-read_time: true
-classes: wide
+menu:
+  main:
+    parent: teaching
+    name: Technology in Teaching
+    weight: 2
 ---
 
 ## 🎓 Teaching with Technology: A Classroom Game Example
