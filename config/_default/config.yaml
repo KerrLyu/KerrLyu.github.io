@@ -49,9 +49,3 @@ params:
   customCSS:
     - css/custom.css
 
-menus:
-  teaching:
-    - identifier: teaching
-      name: Teaching
-      url: /teaching/
-      weight: 1
