@@ -1,7 +1,11 @@
 ---
 title: Teaching Philosophy
 layout: single
-
+menu:
+  sidebar:
+    parent: teaching
+    name: Teaching Philosophy
+    weight: 1
 ---
 
 ## Teaching Philosophy

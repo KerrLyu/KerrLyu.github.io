@@ -79,3 +79,11 @@ diagram:
   #   theme: 
   #   flowchart:
   #     diagram-padding:
+
+widgets:
+  - handler: menu
+    sidebar:
+      position: left
+      scale: md
+    menu:
+      name: sidebar
