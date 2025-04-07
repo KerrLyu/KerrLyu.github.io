@@ -48,9 +48,4 @@ build:
 params:
   customCSS:
     - css/custom.css
-  sidebar:
-    position: left
-    scale: md
 
-menus:
-  sidebar: []

@@ -1,13 +1,6 @@
 ---
 title: Teaching Philosophy
-layout: single
-menu:
-  sidebar:
-    parent: teaching
-    name: Teaching Philosophy
-    weight: 1
 ---
-
 ## Teaching Philosophy
 
 As an economics educator, I employ **active learning** through *assisted knowledge creation*—a pedagogical approach refined over three years of teaching courses ranging from *Principles of Macroeconomics* to *Labor Economics*. My methods adapt to class dynamics:

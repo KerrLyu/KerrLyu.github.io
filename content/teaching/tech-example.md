@@ -1,13 +1,6 @@
 ---
-title: Technology in Teaching
-layout: single
-menu:
-  sidebar:
-    parent: teaching
-    name: Technology in Teaching
-    weight: 2
+title: Tech Example
 ---
-
 ## 🎓 Teaching with Technology: A Classroom Game Example
 
 In my *Principles of Macroeconomics* course, I integrated live, tech-enhanced simulations to teach complex economic concepts like **supply and demand** in an engaging and interactive way.
