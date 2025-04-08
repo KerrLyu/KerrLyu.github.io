@@ -2,3 +2,9 @@
 .vscode/
 assets/jsconfig.json
 node_modules/
+
+resources/_gen/
+
+.DS_Store
+
+pnpm-lock.yaml
