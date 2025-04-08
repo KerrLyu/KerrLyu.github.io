@@ -4,23 +4,62 @@
     <title>Ke (Kerr) Lyu</title>
     <link>https://KerrLyu.github.io/</link>
     <description>Recent content on Ke (Kerr) Lyu</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://KerrLyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://KerrLyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Credit Market Auction Game</title>
+      <link>https://KerrLyu.github.io/teaching/credit_market_auction/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://KerrLyu.github.io/teaching/credit_market_auction/</guid>
+      <description>&lt;p&gt;This game is designed to help freshmen university students understand the credit market and
+game theory by engaging in a competitive auction for loan opportunities. Participants will take on the roles
+of lenders, attempting to maximize their returns while considering their competitors&amp;rsquo; strategies.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Job Market Bingo Game</title>
+      <link>https://KerrLyu.github.io/teaching/job_market_bingo/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://KerrLyu.github.io/teaching/job_market_bingo/</guid>
+      <description>&lt;p&gt;To help students understand the dynamics of employment and unemployment in the labor market through
+a fun, interactive game that involves matching job-related factors with their consequences and discussing
+their implications.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Supply and Demand Game</title>
+      <link>https://KerrLyu.github.io/teaching/supply_and_demand/</link>
+      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
+      
+      <guid>https://KerrLyu.github.io/teaching/supply_and_demand/</guid>
+      <description>&lt;p&gt;In this game, students will take on the role of buyers and sellers in a market for a particular product. The
+goal of the game is to find the equilibrium price and quantity in the market by adjusting their buying and
+selling behavior, taking into account their costs and available money.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Teaching Philosophy</title>
       <link>https://KerrLyu.github.io/teaching/teaching-philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://KerrLyu.github.io/teaching/teaching-philosophy/</guid>
-      <description>&lt;h2 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;As an economics educator, I employ &lt;strong&gt;active learning&lt;/strong&gt; through &lt;em&gt;assisted knowledge creation&lt;/em&gt;—a pedagogical approach refined over three years of teaching courses ranging from &lt;em&gt;Principles of Macroeconomics&lt;/em&gt; to &lt;em&gt;Labor Economics&lt;/em&gt;. My methods adapt to class dynamics:&lt;/p&gt;&#xA;&lt;h3 id=&#34;small-classes-1525-students&#34;&gt;Small Classes (15–25 students)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Build rapport through weekly 1:1 check-ins to align course goals with career interests (e.g., tailoring regression projects to students&amp;rsquo; policy or industry aspirations)&lt;/li&gt;&#xA;&lt;li&gt;Facilitate Socratic debates on topics like minimum wage impacts, where students role-play as policymakers, union reps, and small business owners&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;large-lectures-60-students&#34;&gt;Large Lectures (60+ students)&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Deploy &lt;strong&gt;Mentimeter&lt;/strong&gt; for real-time concept checks (e.g., &lt;em&gt;&amp;ldquo;Which shock shifts the Phillips Curve?&amp;rdquo;&lt;/em&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Use &lt;strong&gt;Top Hat&lt;/strong&gt; for anonymous Q&amp;amp;A during sensitive topics (e.g., gender wage gap analysis)&lt;/li&gt;&#xA;&lt;li&gt;Implement &lt;strong&gt;Perusall&lt;/strong&gt; to crowdsource annotations of Fed reports or entrepreneurship case studies, surfacing common misconceptions (e.g., conflating structural vs. cyclical unemployment)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In all settings, I balance accessibility with rigor. Introductory courses use relatable analogies (e.g., &lt;em&gt;&amp;ldquo;Inflation as a hidden tax&amp;rdquo;&lt;/em&gt;), while advanced seminars demand precision—like deriving Okun&amp;rsquo;s Law from scratch or critiquing causal inference methods in labor studies. My research on self-employment informs project design: students analyze Current Population Survey (CPS) data to model gig economy trends, mirroring my published work on nonemployer businesses.&lt;/p&gt;</description>
+      <description>Teaching Philosophy As an economics educator, I employ active learning through assisted knowledge creation—a pedagogical approach refined over three years of teaching courses ranging from Principles of Macroeconomics to Labor Economics. My methods adapt to class dynamics:
+Small Classes (15–25 students) Build rapport through weekly 1:1 check-ins to align course goals with career interests (e.g., tailoring regression projects to students&amp;rsquo; policy or industry aspirations) Facilitate Socratic debates on topics like minimum wage impacts, where students role-play as policymakers, union reps, and small business owners Large Lectures (60+ students) Deploy Mentimeter for real-time concept checks (e.</description>
     </item>
+    
     <item>
       <title>Tech Example</title>
       <link>https://KerrLyu.github.io/teaching/tech-example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://KerrLyu.github.io/teaching/tech-example/</guid>
-      <description>&lt;h2 id=&#34;-teaching-with-technology-a-classroom-game-example&#34;&gt;🎓 Teaching with Technology: A Classroom Game Example&lt;/h2&gt;&#xA;&lt;p&gt;In my &lt;em&gt;Principles of Macroeconomics&lt;/em&gt; course, I integrated live, tech-enhanced simulations to teach complex economic concepts like &lt;strong&gt;supply and demand&lt;/strong&gt; in an engaging and interactive way.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-objective&#34;&gt;🎯 Objective&lt;/h3&gt;&#xA;&lt;p&gt;Make abstract economic concepts tangible by turning the classroom into a live marketplace using collaborative tools and real-time visual feedback.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-tools-used&#34;&gt;🛠 Tools Used&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Google Sheets&lt;/strong&gt; with live graphs&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mobile devices&lt;/strong&gt; and QR codes&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub-hosted game interface&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Projector for real-time visualization&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-activity-supply-and-demand-market-game&#34;&gt;🎮 Activity: &lt;em&gt;Supply and Demand Market Game&lt;/em&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Students are randomly assigned as &lt;strong&gt;buyers&lt;/strong&gt; or &lt;strong&gt;sellers&lt;/strong&gt;. Using mobile devices, they input offers into a shared Google Sheet, which instantly updates a &lt;strong&gt;live demand-supply graph&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>🎓 Teaching with Technology: A Classroom Game Example In my Principles of Macroeconomics course, I integrated live, tech-enhanced simulations to teach complex economic concepts like supply and demand in an engaging and interactive way.
+🎯 Objective Make abstract economic concepts tangible by turning the classroom into a live marketplace using collaborative tools and real-time visual feedback.
+🛠 Tools Used Google Sheets with live graphs Mobile devices and QR codes GitHub-hosted game interface Projector for real-time visualization 🎮 Activity: Supply and Demand Market Game Students are randomly assigned as buyers or sellers.</description>
     </item>
+    
   </channel>
 </rss>
