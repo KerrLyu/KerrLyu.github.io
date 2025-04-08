@@ -3,10 +3,6 @@ title: Teaching
 layout: single
 date: 2025-01-10
 read_time: false
-<<<<<<< HEAD
-classes: no-bg
-has_sidebar: true
-=======
 noBg: true
 hideMeta: true
 sidebar:
@@ -16,7 +12,6 @@ sidebar:
         url: /teaching/teaching-philosophy/
       - title: Tech Example
         url: /teaching/tech-example/
->>>>>>> bf25c2820e06290e490f759ffc909207b3b70762
 ---
 
 As instructor for Principles of Macroeconomics and Economic Statistics, I use interactive tools like Mentimeter and Top Hat to bridge theory with real-world analysis. Students engage through policy simulations and collaborative projects analyzing datasets like FRED unemployment trends. These activities build job-ready skills in data interpretation and evidence-based decision-making.
