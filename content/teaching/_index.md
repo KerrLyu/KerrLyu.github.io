@@ -12,7 +12,7 @@ sidebar:
         url: /teaching/teaching-philosophy/
       - title: Teaching with Technology - Mentimeter
         url: /teaching/tech-example/
-      - title: Teaching with Technology – Zoom and Real Data Analysis
+      - title: Teaching with Technology – Zoom and Excel
         url: /teaching/tech-example2/
 ---
 

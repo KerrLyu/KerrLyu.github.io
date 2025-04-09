@@ -1,5 +1,5 @@
 ---
-title: Teaching with Technology – Zoom and Real Data Analysis
+title: Teaching with Technology – Zoom and Excel
 layout: single
 date: 2025-01-10
 read_time: false
