@@ -10,7 +10,7 @@ sidebar:
    items:
       - title: Teaching Philosophy
         url: /teaching/teaching-philosophy/
-      - title: Tech Example
+      - title: Teaching with Technology - Mentimeter
         url: /teaching/tech-example/
 ---
 
