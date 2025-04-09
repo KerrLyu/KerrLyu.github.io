@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>GRAD 704 Relections</title>
+      <link>http://localhost:1313/teaching/grad_704/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/grad_704/</guid>
+      <description>&lt;h2 id=&#34;reflection-inclusive-design-in-my-classroom&#34;&gt;Reflection: Inclusive Design in My Classroom&lt;/h2&gt;&#xA;&lt;p&gt;Inclusive design has reshaped the way I approach accessibility in teaching. Previously, my understanding of inclusivity was limited to making accommodations for students with formal documentation. After reflecting on the principles of inclusive course design, I now recognize the importance of proactively creating learning environments that are accessible, flexible, and equitable for all students—regardless of ability, language background, or learning style.&lt;/p&gt;&#xA;&lt;p&gt;In my own course materials, I applied several strategies: increasing font size and color contrast on lecture slides, restructuring headers for screen reader compatibility, and embedding captions and transcripts into video content. These changes benefited all learners, not just those with documented needs. Students have expressed appreciation for having materials they could revisit at their own pace, especially in multilingual or fast-paced classrooms.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Teaching Philosophy</title>
       <link>http://localhost:1313/teaching/teaching-philosophy/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
