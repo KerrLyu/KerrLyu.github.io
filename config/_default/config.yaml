@@ -9,7 +9,8 @@ theme: eureka
 
 publishDir: docs
 
-paginate: 3
+pagination:
+  pagerSize: 3
 copyright: >
 enableEmoji: true
 enableGitInfo: false
