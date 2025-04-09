@@ -1,59 +1,62 @@
 ---
 title: Tech Example
----
-## 🎓 Teaching with Technology: A Classroom Game Example
-
-In my *Principles of Macroeconomics* course, I integrated live, tech-enhanced simulations to teach complex economic concepts like **supply and demand** in an engaging and interactive way.
-
----
-
-### 🎯 Objective
-
-Make abstract economic concepts tangible by turning the classroom into a live marketplace using collaborative tools and real-time visual feedback.
-
+layout: single
+date: 2025-01-10
+read_time: false
+noBg: true
 ---
 
-### 🛠 Tools Used
+## 📊 Teaching with Technology: Real-Time Polling with Mentimeter
 
-- **Google Sheets** with live graphs
-- **Mobile devices** and QR codes
-- **GitHub-hosted game interface**
-- **Projector for real-time visualization**
+In my *Principles of Macroeconomics* class, I incorporated **Mentimeter** throughout the course to build a more engaging, data-informed classroom. This three-part integration helped me better understand student preferences, reinforce knowledge in real time, and foster discussion.
 
 ---
 
-### 🎮 Activity: *Supply and Demand Market Game*
+### 🧩 Part 1: Pre-class Survey to Understand Student Interest
 
-Students are randomly assigned as **buyers** or **sellers**. Using mobile devices, they input offers into a shared Google Sheet, which instantly updates a **live demand-supply graph**.
+Before the course began, I asked students to share their preferred learning formats and macroeconomic topics. This allowed me to tailor lecture formats and examples accordingly.
 
-#### 📸 Game Interface Screenshot
+![Pre-class Survey: Learning Preferences](/assets/jpg/Mentimeter_example_Page_1.jpg)
 
-![Live Game Interface](/assets/images/supply_demand_game_screenshot.png)
-
----
-
-### 💬 Student Feedback
-
-> “I finally *got* how markets work. Doing it live made it click.”  
-> — *Student, Spring 2023*
+*📌 Insight:* Students overwhelmingly favored lectures and interactive games over discussions. This shaped how I structured both the content flow and assessments.
 
 ---
 
-### 🔗 Explore the Live Games
+### 💡 Part 2: Live Interaction During Class
 
-- [Supply & Demand Game](https://KerrLyu.github.io/teaching/econ_103/supply_and_demand/)
-- [Credit Market Auction](https://KerrLyu.github.io/teaching/econ_103/credit_market_auction/)
-- [Job Market Bingo](https://KerrLyu.github.io/teaching/econ_103/job_market_bingo/)
+Mentimeter questions were used to introduce new topics and conduct live concept checks. This kept students engaged and made abstract macroeconomic ideas more concrete.
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
+  <img src="/assets/jpg/Mentimeter_example_Page_2.jpg" alt="GDP Trend Poll" width="48%">
+  <img src="/assets/jpg/Mentimeter_example_Page_3.jpg" alt="Spending Ranking Poll" width="48%">
+</div>
+
+*📌 Example Polls:*  
+- "The proportion of US GDP to the world’s GDP since 1960?"  
+- "Rank the top 6 U.S. government spending categories."
+
+These sparked immediate conversation and allowed me to explain why certain answers were correct or surprising.
 
 ---
 
-### 💡 Why It Works
+### 🌐 Part 3: Reflection & Discussion via Word Cloud
 
-This type of technology-supported active learning:
-- Promotes **student engagement**  
-- Offers **instant feedback**
-- Encourages **collaborative decision-making**
-- Supports multiple learning styles through **visuals + interactivity**
+Toward the end of class, I used word clouds to let students share takeaways or respond to reflective prompts anonymously.
+
+![Discussion: Scarcity Word Cloud](/assets/jpg/Mentimeter_example_Page_5.jpg)
+
+*📌 Discussion Prompt:* “Which resources do you think are scarce?”  
+Students brought up both textbook answers (e.g., oil, food, water) and creative or unexpected entries (e.g., toilet paper, good women), which created space for humor and deeper debate.
 
 ---
 
+### 📈 Summary of Impact
+
+Mentimeter transformed my large lectures into dynamic, interactive experiences by:
+- Empowering quiet students to participate anonymously
+- Revealing misconceptions in real time
+- Making data-driven decisions about teaching format and topic pacing
+
+I plan to expand its use for **group competitions**, **pre-exam reviews**, and **longitudinal tracking** of learning progress in future semesters.
+
+---
