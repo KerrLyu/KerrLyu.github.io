@@ -8,6 +8,12 @@
     <loc>http://localhost:1313/teaching/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/teaching/teaching-philosophy/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/teaching/tech-example/</loc>
+    <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/authors/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
@@ -23,9 +29,5 @@
     <loc>http://localhost:1313/series/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/teaching/teaching-philosophy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/teaching/tech-example/</loc>
   </url>
 </urlset>
