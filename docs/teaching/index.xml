@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Teaching on Ke (Kerr) Lyu</title>
-    <link>https://KerrLyu.github.io/teaching/</link>
+    <link>http://localhost:1313/teaching/</link>
     <description>Recent content in Teaching on Ke (Kerr) Lyu</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 10 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://KerrLyu.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/teaching/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GRAD 704 Relections</title>
-      <link>https://KerrLyu.github.io/teaching/grad_704/</link>
+      <link>http://localhost:1313/teaching/grad_704/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://KerrLyu.github.io/teaching/grad_704/</guid>
+      <guid>http://localhost:1313/teaching/grad_704/</guid>
       <description>&lt;h2 id=&#34;reflection-inclusive-design-in-my-classroom&#34;&gt;Reflection: Inclusive Design in My Classroom&lt;/h2&gt;&#xA;&lt;p&gt;Inclusive design has reshaped the way I approach accessibility in teaching. Previously, my understanding of inclusivity was limited to making accommodations for students with formal documentation. After reflecting on the principles of inclusive course design, I now recognize the importance of proactively creating learning environments that are accessible, flexible, and equitable for all students—regardless of ability, language background, or learning style.&lt;/p&gt;&#xA;&lt;p&gt;In my own course materials, I applied several strategies: increasing font size and color contrast on lecture slides, restructuring headers for screen reader compatibility, and embedding captions and transcripts into video content. These changes benefited all learners, not just those with documented needs. Students have expressed appreciation for having materials they could revisit at their own pace, especially in multilingual or fast-paced classrooms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching Philosophy</title>
-      <link>https://KerrLyu.github.io/teaching/teaching-philosophy/</link>
+      <link>http://localhost:1313/teaching/teaching-philosophy/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://KerrLyu.github.io/teaching/teaching-philosophy/</guid>
+      <guid>http://localhost:1313/teaching/teaching-philosophy/</guid>
       <description>&lt;h2 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;As an economics educator, I see teaching as a collaborative process of discovery, where students learn to think critically, solve problems with data, and engage with real-world policy questions. I leverage &lt;strong&gt;technology intentionally&lt;/strong&gt; to enhance this process—transforming lectures into interactive spaces and assignments into hands-on learning experiences.&lt;/p&gt;&#xA;&lt;p&gt;I regularly integrate digital platforms to foster &lt;strong&gt;active participation&lt;/strong&gt;. Tools like &lt;strong&gt;Mentimeter&lt;/strong&gt; and &lt;strong&gt;Top Hat&lt;/strong&gt; allow for real-time polling, anonymous Q&amp;amp;A, and live problem-solving. During lessons on inflation or unemployment, I use these tools to pose questions such as &lt;em&gt;“Which shock shifts the Phillips Curve?”&lt;/em&gt; or &lt;em&gt;“How would you classify today’s labor market?”&lt;/em&gt;—stimulating immediate reflection and peer comparison. These real-time checks help me adjust pacing and ensure that no one falls behind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching with Technology - Mentimeter</title>
-      <link>https://KerrLyu.github.io/teaching/tech-example/</link>
+      <link>http://localhost:1313/teaching/tech-example/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://KerrLyu.github.io/teaching/tech-example/</guid>
+      <guid>http://localhost:1313/teaching/tech-example/</guid>
       <description>&lt;h2 id=&#34;teaching-with-technology-real-time-polling-with-mentimeter&#34;&gt;Teaching with Technology: Real-Time Polling with Mentimeter&lt;/h2&gt;&#xA;&lt;p&gt;In my &lt;em&gt;Principles of Macroeconomics&lt;/em&gt; class, I integrated &lt;strong&gt;Mentimeter&lt;/strong&gt; across the semester to build a more interactive and engaging classroom experience. This three-part approach included a pre-course survey, real-time knowledge checks, and reflection activities through word clouds.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;part-1-pre-class-survey-to-understand-student-preferences&#34;&gt;Part 1: Pre-class Survey to Understand Student Preferences&lt;/h3&gt;&#xA;&lt;p&gt;Before the course began, I surveyed students on their preferred learning formats and macroeconomic interests. This allowed me to adjust the structure and content of the course to better match their preferences.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching with Technology – Zoom and Excel</title>
-      <link>https://KerrLyu.github.io/teaching/tech-example2/</link>
+      <link>http://localhost:1313/teaching/tech-example2/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://KerrLyu.github.io/teaching/tech-example2/</guid>
+      <guid>http://localhost:1313/teaching/tech-example2/</guid>
       <description>&lt;h2 id=&#34;teaching-with-technology-zoom-based-modeling-and-forecasting-with-real-us-data&#34;&gt;Teaching with Technology: Zoom-Based Modeling and Forecasting with Real U.S. Data&lt;/h2&gt;&#xA;&lt;p&gt;To enhance data analysis skills in Intermediate Macroeconomics, I delivered a Zoom-based workshop that taught students how to model, interpret, and forecast U.S. economic performance using real-world macroeconomic indicators.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-the-plan-bridging-theory-and-application&#34;&gt;1. The Plan: Bridging Theory and Application&lt;/h3&gt;&#xA;&lt;p&gt;Many students understand growth theory abstractly but struggle to connect it with actual economic data. My objective was to close this gap by:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introducing students to &lt;strong&gt;exponential growth models&lt;/strong&gt;, &lt;strong&gt;regression-based forecasting&lt;/strong&gt;, and &lt;strong&gt;growth accounting&lt;/strong&gt;,&lt;/li&gt;&#xA;&lt;li&gt;Using &lt;strong&gt;real U.S. GDP, capital, and employment data&lt;/strong&gt; from 1948–2023,&lt;/li&gt;&#xA;&lt;li&gt;Making students apply these models themselves using Excel during a live Zoom session.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This approach targeted the learning outcomes of:&lt;/p&gt;</description>
     </item>
   </channel>
