@@ -14,7 +14,7 @@ sidebar:
         url: /teaching/tech-example/
       - title: Teaching with Technology – Zoom and Excel
         url: /teaching/tech-example2/
-      - title: GRAD 704 - Reflections
+      - title: GRAD 704 Reflections
         url: /teaching/GRAD-704/
 ---
 

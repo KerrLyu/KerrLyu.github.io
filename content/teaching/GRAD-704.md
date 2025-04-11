@@ -1,5 +1,5 @@
 ---
-title: GRAD 704 Relections
+title: GRAD 704 Reflections
 layout: single
 date: 2025-01-10
 read_time: false
