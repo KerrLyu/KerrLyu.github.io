@@ -15,7 +15,7 @@ sidebar:
       - title: Teaching with Technology – Zoom and Excel
         url: /teaching/tech-example2/
       - title: GRAD 704 Reflections
-        url: /teaching/GRAD-704/
+        url: /teaching/grad-704/
 ---
 
 As instructor for Principles of Macroeconomics and Economic Statistics, I use interactive tools like Mentimeter and Top Hat to bridge theory with real-world analysis. Students engage through policy simulations and collaborative projects analyzing datasets like FRED unemployment trends. These activities build job-ready skills in data interpretation and evidence-based decision-making.
