@@ -55,6 +55,8 @@ I am currently in my fifth year as a Ph.D. candidate in the Department of Econom
 
 These questions shape my primary research interests in entrepreneurship, labor economics, and health economics, with a particular focus on solo self-employment, also known as nonemployer businesses.
 
+As instructor for Principles of Macroeconomics and Economic Statistics, I use interactive tools like Mentimeter and Top Hat to bridge theory with real-world analysis. Students engage through policy simulations and collaborative projects analyzing datasets like FRED unemployment trends. These activities build job-ready skills in data interpretation and evidence-based decision-making.
+
 <style>
   .news-item {
     padding: 14px 18px;
