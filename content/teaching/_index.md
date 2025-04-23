@@ -24,12 +24,13 @@ As instructor for Principles of Macroeconomics and Economic Statistics, I use in
 
 **Instructor**
 
-1. **ECON 261 Principles of Statistics** – Summer 2023, Fall 2022 (Overall Score: 3.5/4)  
-2. **ECON 103 Principles of Macroeconomics** – Spring 2023 (Overall Score: 3.3/4)  
+1. **ECON 303 Intermediate Macroeconomics** – Summer 2025
+2. **ECON 261 Principles of Statistics** – Summer 2023, Fall 2022 (Overall Score: 3.5/4)  
+3. **ECON 103 Principles of Macroeconomics** – Spring 2023 (Overall Score: 3.3/4)  
    - [🔥 Supply and Demand Class Game (Most Downloaded)](https://KerrLyu.github.io/teaching/econ_103/supply_and_demand/)
    - [Credit Market Auction Class Game](https://KerrLyu.github.io/teaching/econ_103/credit_market_auction/)
    - [Job Market Bingo Class Game](https://KerrLyu.github.io/teaching/econ_103/job_market_bingo/)  
-3. **Math Camp for Incoming Master’s and Ph.D. Students** – Summer 2023, 2022
+3. **Math Camp for Incoming Master’s and Ph.D. Students** – Summer 2025, 2023, 2022
 
 **Teaching Assistant**
 
