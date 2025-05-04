@@ -16,8 +16,6 @@ sidebar:
         url: /teaching/tech-example2/
 ---
 
-As instructor for Principles of Macroeconomics and Economic Statistics, I use interactive tools like Mentimeter and Top Hat to bridge theory with real-world analysis. Students engage through policy simulations and collaborative projects analyzing datasets like FRED unemployment trends. These activities build job-ready skills in data interpretation and evidence-based decision-making.
-
 ## University of Nevada, Reno (2020–Present)
 
 **Instructor**

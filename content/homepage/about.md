@@ -55,7 +55,7 @@ I am currently in my fifth year as a Ph.D. candidate in the Department of Econom
 
 These questions shape my primary research interests in entrepreneurship, labor economics, and health economics, with a particular focus on solo self-employment, also known as nonemployer businesses.
 
-As instructor for Principles of Macroeconomics and Economic Statistics, I use interactive tools like Mentimeter and Top Hat to bridge theory with real-world analysis. Students engage through policy simulations and collaborative projects analyzing datasets like FRED unemployment trends. These activities build job-ready skills in data interpretation and evidence-based decision-making.
+I have taught a variety of undergraduate and graduate-level courses as an instructor and am passionate about fostering an active, dynamic, and inclusive learning environment where students can connect theory with real-world challenges.
 
 <style>
   .news-item {
@@ -97,29 +97,24 @@ As instructor for Principles of Macroeconomics and Economic Statistics, I use in
 ## News Feed
 
 <div class="news-item news-lightest">
-  <em>04/01/2025</em> - <strong>Recipient of the 2025 Outstanding Graduate Student Award</strong><br>
-  Honored to receive the <em>Outstanding Graduate Student Award</em> from the College of Business at the University of Nevada, Reno.
-</div>
-
-<div class="news-item news-light">
   <em>06/04/2025–06/07/2025</em> - <strong>To be Presented at the 45th Babson College Entrepreneurship Research Conference</strong><br>
   Our paper, entitled <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the 
   <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/"><span>45th</span> BCERC</a>, hosted by Babson College.
 </div>
 
-<div class="news-item news-mid">
-  <em>06/20/2025–06/24/2025</em> - <strong>To be Presented at the 100th Western Economic Association International (WEAI) Annual Conferences</strong><br>
+<div class="news-item news-light">
+  <em>06/20/2025–06/24/2025</em> - <strong>To be Presented at the 100th Western Economic Association International (WEAI) Annual Conference</strong><br>
   Our paper, entitled <em>"Unlocking Opportunity: Evaluating China’s Targeted Poverty Alleviation Program and Its Impact on Entrepreneurship"</em>, has been accepted for presentation at the 
   <a href="https://www.weai.org/annual-conference"><span>100th</span> WEAI Conference</a>.
 </div>
 
-<div class="news-item news-dark">
+<div class="news-item news-mid">
   <em>06/27/2025–06/29/2025</em> - <strong>To be Presented at the 6th World Labor Conference</strong><br>
   Our paper, entitled <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, has been accepted for presentation at the 
   <a href="https://www.sole-jole.org/upcoming-meeting"><span>6th</span> World Labor Conference</a>, hosted by Society of Labor Economists (SOLE).
 </div>
 
-<div class="news-item news-darkest">
+<div class="news-item news-dark">
   <em>07/11/2025–07/17/2025</em> - <strong>Selected for the 2025 NBER Innovation Research Boot Camp</strong><br>
   Excited to join the <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025"><span>2025 NBER Innovation Research Boot Camp</span></a>, which brings together researchers to explore frontier methods in innovation research.
 </div>
