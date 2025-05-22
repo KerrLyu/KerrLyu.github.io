@@ -36,7 +36,7 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
  
 ## Work in Progress
 
-1. The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups (with [Robert Fairlie](https://rfairlie.sites.luskin.ucla.edu/), [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank),  and [Andrew Johnston](https://sites.google.com/site/andrewjohnstoneconomics/)) (Presented at SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025)
+1. The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups (with [Robert Fairlie](https://rfairlie.sites.luskin.ucla.edu/), [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank),  and [Andrew Johnston](https://sites.google.com/site/andrewjohnstoneconomics/)) (Presented at SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559)
 
 2. Poverty Alleviation Program and Firms (with [Shunfeng Song](https://www.unr.edu/business/faculty-and-staff/song-shunfeng), and Mengfei Zhang) (Presented at WEAI 100th Annual Meeting 2025)
 
