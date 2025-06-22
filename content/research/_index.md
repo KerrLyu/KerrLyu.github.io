@@ -12,7 +12,7 @@ title: Research
 
 ## Working Papers
 
-1. From vice to venture: evaluating the impact of smoking and drinking on self-employment in China. (Submitted)
+1. From vice to venture: evaluating the impact of smoking and drinking on self-employment in China. (Submitted) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876)
 {{< collapse summary="Abstract">}}
 Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.{{< /collapse >}}
 
