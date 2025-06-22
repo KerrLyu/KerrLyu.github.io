@@ -16,7 +16,7 @@ title: Research
 {{< collapse summary="Abstract">}}
 Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.{{< /collapse >}}
 
-2. How does minimum wage affect non-employer business establishments in the United States?. With [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank) (Unpublished) [PDF](https://KerrLyu.github.io/pdf/Minimum_Wage_Nonemployer_Ke_Lyu)
+2. How does minimum wage affect non-employer business establishments in the United States?. With [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank) (Unpublished) [PDF](https://KerrLyu.github.io/pdf/Minimum_Wage_Nonemployer_Ke_Lyu.pdf)
 
    <span style="font-size: 0.9em;">*Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*</span>
    {{< collapse summary="Abstract">}}
