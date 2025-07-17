@@ -97,7 +97,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 ## News Feed
 
 <div class="news-item news-dark">
-  <em>07/11/2025–07/17/2025</em> - Participated in the <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025">2025 NBER Innovation Research Boot Camp</a>, focused on frontier methods in innovation research.
+  <em>07/11/2025–07/17/2025</em> - Participated in the <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025">2025 NBER Innovation Research Boot Camp</a>.
 </div>
 
 <div class="news-item news-mid">
