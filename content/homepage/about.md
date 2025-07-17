@@ -96,25 +96,27 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 
 ## News Feed
 
-<div class="news-item news-lightest">
-  <em>06/04/2025–06/07/2025</em> - <strong>To be Presented at the 45th Babson College Entrepreneurship Research Conference</strong><br>
-  Our paper, entitled <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the 
-  <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/"><span>45th</span> BCERC</a>, hosted by Babson College.
-</div>
-
-<div class="news-item news-light">
-  <em>06/20/2025–06/24/2025</em> - <strong>To be Presented at the 100th Western Economic Association International (WEAI) Annual Conference</strong><br>
-  Our paper, entitled <em>"Unlocking Opportunity: Evaluating China’s Targeted Poverty Alleviation Program and Its Impact on Entrepreneurship"</em>, has been accepted for presentation at the 
-  <a href="https://www.weai.org/annual-conference"><span>100th</span> WEAI Conference</a>.
+<div class="news-item news-dark">
+  <em>07/11/2025–07/17/2025</em> - <strong>Participated in the 2025 NBER Innovation Research Boot Camp</strong><br>
+  Participated in the 
+  <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025">2025 NBER Innovation Research Boot Camp</a>, focused on frontier methods in innovation research.
 </div>
 
 <div class="news-item news-mid">
-  <em>06/27/2025–06/29/2025</em> - <strong>To be Presented at the 6th World Labor Conference</strong><br>
-  Our paper, entitled <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, has been accepted for presentation at the 
-  <a href="https://www.sole-jole.org/upcoming-meeting"><span>6th</span> World Labor Conference</a>, hosted by Society of Labor Economists (SOLE).
+  <em>06/27/2025–06/29/2025</em> - <strong>Presented at the 6th World Labor Conference</strong><br>
+  We presented our paper, <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, at the 
+  <a href="https://www.sole-jole.org/upcoming-meeting">6th World Labor Conference</a>.
 </div>
 
-<div class="news-item news-dark">
-  <em>07/11/2025–07/17/2025</em> - <strong>Selected for the 2025 NBER Innovation Research Boot Camp</strong><br>
-  Excited to join the <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025"><span>2025 NBER Innovation Research Boot Camp</span></a>, which brings together researchers to explore frontier methods in innovation research.
+<div class="news-item news-light">
+  <em>06/20/2025–06/24/2025</em> - <strong>Presented at the 100th Western Economic Association International Conference</strong><br>
+  We presented our paper, <em>"Unlocking Opportunity: Evaluating China’s Targeted Poverty Alleviation Program and Its Impact on Entrepreneurship"</em>, at the 
+  <a href="https://www.weai.org/annual-conference">100th WEAI Conference</a>.
 </div>
+
+<div class="news-item news-lightest">
+  <em>06/04/2025–06/07/2025</em> - <strong>Presented at the 45th Babson College Entrepreneurship Research Conference</strong><br>
+  We presented our paper, <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, at the 
+  <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/">45th BCERC</a>.
+</div>
+
