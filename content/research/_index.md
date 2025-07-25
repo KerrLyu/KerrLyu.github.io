@@ -16,24 +16,30 @@ title: Research
 
 ## Working Papers
 
-1. **_Job Market Paper_**: How does minimum wage affect non-employer business establishments in the United States?. With [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank) [PDF](https://KerrLyu.github.io/pdf/Minimum_Wage_Nonemployer_Ke_Lyu.pdf)
+1. **_Job Market Paper_**: [**How Does Minimum Wage Affect Non-employer Business Establishments in the United States?**](https://KerrLyu.github.io/pdf/Minimum_Wage_Nonemployer_Ke_Lyu.pdf)  
+_With [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank)_  
+<span style="font-size: 0.9em;">*Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*</span>  
+{{< collapse summary="Abstract">}}  
+This paper investigates the impact of regional minimum wage increases on nonemployer business establishments in the United States. We develop a theoretical model of occupational choice motivating our empirical analysis. The effects of minimum wages are estimated using panel data analysis and an identification strategy that compares nonemployer establishments in contiguous counties across neighboring states. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that a $1 increase in the minimum wage leads to a 0.5%–0.9% decrease in the number of nonemployer businesses, likely due to relatively more attractive wage employment. This shift is smaller in counties characterized by higher percentages of Hispanics, African Americans, Asians, and lower percentages of high school graduates. Conversely, higher minimum wages increase the number of nonemployers in the transportation sector as individuals are pushed into the gig economy, which is not covered by minimum wages. Further analysis based on various data sources from official statistics reveals that higher minimum wages discourage transitions from nonemployer to employer status and instead increase transitions from self-employment to wage employment and unemployment. Our findings add perspective to the debate on minimum wages by showing how this regulation affects nonemployers as an important part of their regional institutional environment.  
+{{< /collapse >}}
 
-   <span style="font-size: 0.9em;">*Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*</span>
-   {{< collapse summary="Abstract">}}
- This paper investigates the impact of regional minimum wage increases on nonemployer business establishments in the United States. We develop a theoretical model of occupational choice motivating our empirical analysis. The effects of minimum wages are estimated using panel data analysis and an identification strategy that compares nonemployer establishments in contiguous counties across neighboring states. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that a $1 increase in the minimum wage leads to a 0.5%-0.9% decrease in the number of nonemployer businesses, likely due to relatively more attractive wage employment. This shift is smaller in counties characterized by higher percentages of Hispanics, African Americans, Asians, and lower percentages of high school graduates. Conversely, higher minimum wages increase the number of nonemployers in the transportation sector as individuals are pushed into the gig economy, which is not covered by minimum wages. Further analysis based on various data sources from official statistics reveals that higher minimum wages discourage transitions from nonemployer to employer status and instead increase transitions from self-employment to wage employment and unemployment. Our findings add perspective to the debate on minimum wages by showing how this regulation affects nonemployers as an important part of their regional institutional environment.{{< /collapse >}}
+2. [**From Vice to Venture: Evaluating the Impact of Smoking and Drinking on Self-employment in China**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876)  
+_(Under Review)_  
+{{< collapse summary="Abstract">}}  
+Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.  
+{{< /collapse >}}
 
-2. From vice to venture: evaluating the impact of smoking and drinking on self-employment in China. (Under Review) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876)
-{{< collapse summary="Abstract">}}
-Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.{{< /collapse >}}
+3. **The Effects of the 2012 Kansas Income Tax Reform on Different Types of Entrepreneurship**  
+_With [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Hieu Pham](https://www.uah.edu/business/faculty-staff/hieu-pham), and [Jingjing Yang](https://www.unr.edu/business/faculty-and-staff/yang-jingjing)_  
+_(Under Review)_  
+<span style="font-size: 0.9em;">*Presented at 117th NTA Annual Conference on Taxation 2024*</span>  
+{{< collapse summary="Abstract">}}  
+This study examines the impact of the 2012 Kansas tax reform, which eliminated state income tax on pass-through business income, on entrepreneurial dynamics. Using difference-in-differences models with data from the Current Population Survey (CPS) and the American Community Survey (ACS) from 2010 to 2014, we analyze changes in self-employment on both extensive (e.g., self-employment entry) and intensive margins (e.g., hours worked). Our findings indicate a decrease in unincorporated self-employment and an increase in incorporated self-employment. Additionally, we find decreased hours worked among self-employed individuals, driven by mechanisms such as increased disposable income, decreased incentives for tax avoidance, and reduced government risk-sharing.  
+{{< /collapse >}}
 
-
-3. The effects of the 2012 Kansas Income Tax Reform on different types of entrepreneurship. With [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Hieu Pham](https://www.uah.edu/business/faculty-staff/hieu-pham), and [Jingjing Yang](https://www.unr.edu/business/faculty-and-staff/yang-jingjing) (Under Review)
-   
-   <span style="font-size: 0.9em;">*Presented at 117th NTA Annual Conference on Taxation 2024*</span>
-   {{< collapse summary="Abstract">}}
- This study examines the impact of the 2012 Kansas tax reform, which eliminated state income tax on pass-through business income, on entrepreneurial dynamics. Using difference-in-differences models with data from the Current Population Survey (CPS) and the American Community Survey (ACS) from 2010 to 2014, we analyze changes in self-employment on both extensive (e.g., self-employment entry) and intensive margins (e.g., hours worked). Our findings indicate a decrease in unincorporated self-employment and an increase in incorporated self-employment. Additionally, we find decreased hours worked among self-employed individuals, driven by mechanisms such as increased disposable income, decreased incentives for tax avoidance, and reduced government risk-sharing. By using CPS and ACS survey data and adding the hours worked margin, this study contributes to the literature by providing insights into how state-level tax policy influences different types of self-employment and entrepreneurial activity.{{< /collapse >}}
-
- 4. The impact of green finance on the efficiency of corporate green innovation: a two-stage value chain perspective. With [Xiuli Liu](https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao), Jing Cui, Jun Shen, and Qinqin Shi (Under Review)
+4. **The Impact of Green Finance on the Efficiency of Corporate Green Innovation: A Two-Stage Value Chain Perspective**  
+_With [Xiuli Liu](https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao), Jing Cui, Jun Shen, and Qinqin Shi_  
+_(Under Review)_
 
 <div style="display: none;">
 4. Building resilient cities: The role of network infrastructure construction in shaping urban ecological resilience. With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao">Xiuli Liu</a> (Submitted)  
@@ -46,15 +52,23 @@ Under the dual goals of resilient city construction and green transformation, ho
  
 ## Work in Progress
 
-1. The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups (with [Robert Fairlie](https://rfairlie.sites.luskin.ucla.edu/), [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank),  and [Andrew Johnston](https://sites.google.com/site/andrewjohnstoneconomics/)) (Presented at SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559)
+1. [**The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559)  
+_With [Robert Fairlie](https://rfairlie.sites.luskin.ucla.edu/), [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank), and [Andrew Johnston](https://sites.google.com/site/andrewjohnstoneconomics/)_  
+<span style="font-size: 0.9em;">*Presented at SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025*</span>
 
-2. Poverty Alleviation Program and Firms (with [Shunfeng Song](https://www.unr.edu/business/faculty-and-staff/song-shunfeng), and Mengfei Zhang) (Under Review) (Presented at WEAI 100th Annual Meeting 2025) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480)
+2. [**Poverty Alleviation Program and Firms**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480)  
+_With [Shunfeng Song](https://www.unr.edu/business/faculty-and-staff/song-shunfeng) and Mengfei Zhang_  
+_(Under Review)_  
+<span style="font-size: 0.9em;">*Presented at WEAI 100th Annual Meeting 2025*</span>
 
-3. COVID and startups (with [Robert Fairlie](https://rfairlie.sites.luskin.ucla.edu/), and [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank)) (Under Review)
+3. **COVID and Startups**  
+_With [Robert Fairlie](https://rfairlie.sites.luskin.ucla.edu/) and [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank)_  
+_(Under Review)_
 
-4. Credit supply and startups (with Rachel M. Flanigan, and [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank)) (Reject and Resubmit)
+4. **Credit Supply and Startups**  
+_With Rachel M. Flanigan and [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank)_  
+_(Reject and Resubmit)_
 
-5. Online Gambling (with [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Mark Nichols](https://www.unr.edu/business/faculty-and-staff/nichols-mark), and [Chaehyun Pyun](https://www.uah.edu/business/faculty-staff/chaehyun-pyun))
-
-
+5. **Online Gambling**  
+_With [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Mark Nichols](https://www.unr.edu/business/faculty-and-staff/nichols-mark), and [Chaehyun Pyun](https://www.uah.edu/business/faculty-staff/chaehyun-pyun)_
 
