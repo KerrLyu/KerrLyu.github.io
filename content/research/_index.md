@@ -16,17 +16,18 @@ title: Research
 
 ## Working Papers
 
-1. From vice to venture: evaluating the impact of smoking and drinking on self-employment in China. (Submitted) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876)
-{{< collapse summary="Abstract">}}
-Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.{{< /collapse >}}
-
-2. How does minimum wage affect non-employer business establishments in the United States?. With [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank) (Unpublished) [PDF](https://KerrLyu.github.io/pdf/Minimum_Wage_Nonemployer_Ke_Lyu.pdf)
+1. How does minimum wage affect non-employer business establishments in the United States?. With [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank) [PDF](https://KerrLyu.github.io/pdf/Minimum_Wage_Nonemployer_Ke_Lyu.pdf)
 
    <span style="font-size: 0.9em;">*Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*</span>
    {{< collapse summary="Abstract">}}
  This paper investigates the impact of minimum wage increases on non-employer business establishments at the county level in the United States. Using a two-way fixed effects analysis and an identification strategy that compares non-employer establishments in contiguous counties across neighboring states, we examine the effects of minimum wages. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that increases in the minimum wage reduce the number of non-employer business establishments, with a 1\% rise in the minimum wage leading to a 0.8\% decrease in the number of businesses. Further insights using data from the Business Formation Statistics, Business Dynamics Statistics, the Current Population Survey, and the Quarterly Census of Employment and Wages reveal that higher minimum wages discourage transitions from non-employer to employer status, do not significantly affect the shift between wage employment and self-employment, and promote transitions from self-employment to unemployment. This negative effect is mitigated in counties with a more disadvantaged labor force, characterized by higher percentages of females, Hispanics, Blacks, Asians, and lower percentages of high school graduates. Conversely, this effect becomes positive in the transportation industry, likely due to the gig economy. These results are robust across various variables, models, and datasets.{{< /collapse >}}
 
-3. The effects of the 2012 Kansas Income Tax Reform on different types of entrepreneurship. With [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Hieu Pham](https://www.uah.edu/business/faculty-staff/hieu-pham), [Jingjing Yang](https://www.unr.edu/business/faculty-and-staff/yang-jingjing) (Submitted)
+2. From vice to venture: evaluating the impact of smoking and drinking on self-employment in China. (Under Review) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876)
+{{< collapse summary="Abstract">}}
+Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.{{< /collapse >}}
+
+
+3. The effects of the 2012 Kansas Income Tax Reform on different types of entrepreneurship. With [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Hieu Pham](https://www.uah.edu/business/faculty-staff/hieu-pham), [Jingjing Yang](https://www.unr.edu/business/faculty-and-staff/yang-jingjing) (Under Review)
    
    <span style="font-size: 0.9em;">*Presented at 117th NTA Annual Conference on Taxation 2024*</span>
    {{< collapse summary="Abstract">}}
@@ -38,18 +39,20 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
 Under the dual goals of resilient city construction and green transformation, how to achieve the growth of urban ecological resilience (UER) has become a major challenge for China. Building network infrastructure has emerged as a crucial national initiative for promoting ecological development, and its impact on the UER deserves serious investigation. Based on the panel data of 275 cities at or above the prefecture level from 2011 to 2022, this paper takes the “Broadband China” strategy (BCS) as a natural experiment and adopts a dual machine learning model to explore the impact of network infrastructure construction (NIC) on user penetration and its internal mechanism, and further examines the differences between different regions. It is discovered that the growth of NIC significantly improves UER, particularly in the dimensions of renewal and adaptation. In terms of the transmission mechanism, NIC can affect UER through technological innovation, industrial structure upgrading and improving resource allocation effects. The results of the heterogeneity analysis demonstrate that NIC can aid in raising UER in the eastern, central and western, non-resource-based, large and peripheral cities. The findings of this study have significant ramifications for how the government should advance the broadband strategy, make it easier for network infrastructure to be developed to a high standard, and strengthen urban areas’ ability to withstand natural disasters.
 {{< /collapse >}}
 
-5. The impact of green finance on the efficiency of corporate green innovation: a two-stage value chain perspective. With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao">Xiuli Liu</a> (Submitted)
+5. The impact of green finance on the efficiency of corporate green innovation: a two-stage value chain perspective. With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao">Xiuli Liu</a> (Under Review)
 </div>
  
 ## Work in Progress
 
 1. The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups (with [Robert Fairlie](https://rfairlie.sites.luskin.ucla.edu/), [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank),  and [Andrew Johnston](https://sites.google.com/site/andrewjohnstoneconomics/)) (Presented at SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559)
 
-2. Poverty Alleviation Program and Firms (with [Shunfeng Song](https://www.unr.edu/business/faculty-and-staff/song-shunfeng), and Mengfei Zhang) (Presented at WEAI 100th Annual Meeting 2025) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480)
+2. Poverty Alleviation Program and Firms (with [Shunfeng Song](https://www.unr.edu/business/faculty-and-staff/song-shunfeng), and Mengfei Zhang) (Under Review) (Presented at WEAI 100th Annual Meeting 2025) [PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480)
 
-3. Online Gambling (with [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Mark Nichols](https://www.unr.edu/business/faculty-and-staff/nichols-mark), [Chaehyun Pyun](https://www.uah.edu/business/faculty-staff/chaehyun-pyun))
+3. COVID and startups (with [Robert Fairlie](https://rfairlie.sites.luskin.ucla.edu/), and [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank)) (Under Review)
 
-4. COVID and startups (with [Robert Fairlie](https://rfairlie.sites.luskin.ucla.edu/), and [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank))
+4. Credit supply and startups (with Rachel M. Flanigan, and [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank)) (Reject and Resubmit)
 
-5. Credit supply and startups (with Rachel M. Flanigan, and [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank))
+5. Online Gambling (with [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Mark Nichols](https://www.unr.edu/business/faculty-and-staff/nichols-mark), [Chaehyun Pyun](https://www.uah.edu/business/faculty-staff/chaehyun-pyun))
+
+
 
