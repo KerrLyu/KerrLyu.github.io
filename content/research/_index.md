@@ -51,15 +51,13 @@ Under the dual goals of resilient city construction and green transformation, ho
  
 ## Work in Progress
 
-1. <span style="color: #6E8798; text-decoration: underline;"><strong>The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups</strong></span>  
+1. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559" style="color: #6E8798;">The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups</a></strong></span>  
 <span style="color: #0f172a;">_With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>, <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>, and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_</span>  
-<span style="font-size: 0.9em;">*Presented at SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025*  
-[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559)</span>
+<span style="font-size: 0.9em;">*Presented at SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025*</span>
 
-2. <span style="color: #6E8798; text-decoration: underline;"><strong>Poverty Alleviation Program and Firms</strong></span>  
+2. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480" style="color: #6E8798;">Poverty Alleviation Program and Firms</a></strong></span>  
 <span style="color: #0f172a;">_With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
-<span style="font-size: 0.9em;">(Under Review; Presented at WEAI 100th Annual Meeting 2025)  
-[PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480)</span>
+<span style="font-size: 0.9em;">(Under Review; Presented at WEAI 100th Annual Meeting 2025)</span>
 
 3. <span style="color: #6E8798;"><strong>COVID and Startups</strong></span>  
 <span style="color: #0f172a;">_With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
