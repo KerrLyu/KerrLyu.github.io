@@ -27,11 +27,13 @@ title: Research
 Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.{{< /collapse >}}
 
 
-3. The effects of the 2012 Kansas Income Tax Reform on different types of entrepreneurship. With [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Hieu Pham](https://www.uah.edu/business/faculty-staff/hieu-pham), [Jingjing Yang](https://www.unr.edu/business/faculty-and-staff/yang-jingjing) (Under Review)
+3. The effects of the 2012 Kansas Income Tax Reform on different types of entrepreneurship. With [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Hieu Pham](https://www.uah.edu/business/faculty-staff/hieu-pham), and [Jingjing Yang](https://www.unr.edu/business/faculty-and-staff/yang-jingjing) (Under Review)
    
    <span style="font-size: 0.9em;">*Presented at 117th NTA Annual Conference on Taxation 2024*</span>
    {{< collapse summary="Abstract">}}
  This study examines the impact of the 2012 Kansas tax reform, which eliminated state income tax on pass-through business income, on entrepreneurial dynamics. Using difference-in-differences models with data from the Current Population Survey (CPS) and the American Community Survey (ACS) from 2010 to 2014, we analyze changes in self-employment on both extensive (e.g., self-employment entry) and intensive margins (e.g., hours worked). Our findings indicate a decrease in unincorporated self-employment and an increase in incorporated self-employment. Additionally, we find decreased hours worked among self-employed individuals, driven by mechanisms such as increased disposable income, decreased incentives for tax avoidance, and reduced government risk-sharing. By using CPS and ACS survey data and adding the hours worked margin, this study contributes to the literature by providing insights into how state-level tax policy influences different types of self-employment and entrepreneurial activity.{{< /collapse >}}
+
+ 4. The impact of green finance on the efficiency of corporate green innovation: a two-stage value chain perspective. With [Xiuli Liu](https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao), Jing Cui, Jun Shen, and Qinqin Shi (Under Review)
 
 <div style="display: none;">
 4. Building resilient cities: The role of network infrastructure construction in shaping urban ecological resilience. With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao">Xiuli Liu</a> (Submitted)  
@@ -39,7 +41,7 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
 Under the dual goals of resilient city construction and green transformation, how to achieve the growth of urban ecological resilience (UER) has become a major challenge for China. Building network infrastructure has emerged as a crucial national initiative for promoting ecological development, and its impact on the UER deserves serious investigation. Based on the panel data of 275 cities at or above the prefecture level from 2011 to 2022, this paper takes the “Broadband China” strategy (BCS) as a natural experiment and adopts a dual machine learning model to explore the impact of network infrastructure construction (NIC) on user penetration and its internal mechanism, and further examines the differences between different regions. It is discovered that the growth of NIC significantly improves UER, particularly in the dimensions of renewal and adaptation. In terms of the transmission mechanism, NIC can affect UER through technological innovation, industrial structure upgrading and improving resource allocation effects. The results of the heterogeneity analysis demonstrate that NIC can aid in raising UER in the eastern, central and western, non-resource-based, large and peripheral cities. The findings of this study have significant ramifications for how the government should advance the broadband strategy, make it easier for network infrastructure to be developed to a high standard, and strengthen urban areas’ ability to withstand natural disasters.
 {{< /collapse >}}
 
-5. The impact of green finance on the efficiency of corporate green innovation: a two-stage value chain perspective. With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao">Xiuli Liu</a> (Under Review)
+
 </div>
  
 ## Work in Progress
@@ -52,7 +54,7 @@ Under the dual goals of resilient city construction and green transformation, ho
 
 4. Credit supply and startups (with Rachel M. Flanigan, and [Frank Fossen](https://www.unr.edu/business/faculty-and-staff/fossen-frank)) (Reject and Resubmit)
 
-5. Online Gambling (with [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Mark Nichols](https://www.unr.edu/business/faculty-and-staff/nichols-mark), [Chaehyun Pyun](https://www.uah.edu/business/faculty-staff/chaehyun-pyun))
+5. Online Gambling (with [Ege Can](https://www.uah.edu/business/faculty-staff/ege-can), [Mark Nichols](https://www.unr.edu/business/faculty-and-staff/nichols-mark), and [Chaehyun Pyun](https://www.uah.edu/business/faculty-staff/chaehyun-pyun))
 
 
 
