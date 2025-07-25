@@ -24,7 +24,7 @@ This paper investigates the impact of regional minimum wage increases on nonempl
 {{< /collapse >}}
 
 2. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" style="color: #6E8798;">From Vice to Venture: Evaluating the Impact of Smoking and Drinking on Self-employment in China</a></strong></span>  
-<span style="color: #0f172a;">_(Under Review)_</span>  
+_(Under Review)_</span>  
 {{< collapse summary="Abstract">}}  
 Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.  
 {{< /collapse >}}
@@ -38,7 +38,7 @@ This study examines the impact of the 2012 Kansas tax reform, which eliminated s
 
 4. <span style="color: #6E8798;"><strong>The Impact of Green Finance on the Efficiency of Corporate Green Innovation: A Two-Stage Value Chain Perspective</strong></span>  
 <span style="color: #0f172a;">_With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao">Xiuli Liu</a>, Jing Cui, Jun Shen, and Qinqin Shi_</span>  
-<span style="font-size: 0.9em;">_(Under Review)_</span>
+_(Under Review)_</span>
 
 <div style="display: none;">
 4. Building resilient cities: The role of network infrastructure construction in shaping urban ecological resilience. With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao">Xiuli Liu</a> (Submitted)  
