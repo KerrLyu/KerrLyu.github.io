@@ -29,11 +29,11 @@ _(Under Review)_</span>
 Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.  
 {{< /collapse >}}
 
-3. <span style="color: #6E8798;"><strong>The Effects of the 2012 Kansas Income Tax Reform on Different Types of Entrepreneurship</strong></span>  
+3. <span style="color: #6E8798;"><strong>The Effect of the Kansas Tax Reform on Self-Employment Hours Worked</strong></span>  
 <span style="color: #0f172a;">_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, <a href="https://www.uah.edu/business/faculty-staff/hieu-pham">Hieu Pham</a>, and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingjing Yang</a>_</span>  
 <span style="font-size: 0.9em;">_(Under Review; Presented at 117th NTA Annual Conference on Taxation 2024)_</span>  
 {{< collapse summary="Abstract">}}  
-This study examines the impact of the 2012 Kansas tax reform, which eliminated state income tax on pass-through business income, on entrepreneurial dynamics. Using difference-in-differences models with data from the Current Population Survey (CPS) and the American Community Survey (ACS) from 2010 to 2014, we analyze changes in self-employment on both extensive (e.g., self-employment entry) and intensive margins (e.g., hours worked). Our findings indicate a decrease in unincorporated self-employment and an increase in incorporated self-employment. Additionally, we find decreased hours worked among self-employed individuals, driven by mechanisms such as increased disposable income, decreased incentives for tax avoidance, and reduced government risk-sharing.  
+We examine the effect of the 2012 Kansas income tax reform on the weekly hours worked by self-employed individuals. Using a difference-in-differences method with data from the Current Population Survey and American Community Survey, we find that the reform led to a decline in weekly hours worked among self-employed Kansas residents relative to neighboring states. This outcome contrasts with the reform’s goal of promoting business activity. Reduced opportunities for risk-sharing and increased tax avoidance may be the factors that explain why lower taxes did not translate into greater entrepreneurial effort. These findings provide new evidence on the intensive margin impacts of tax policy on entrepreneurship.  
 {{< /collapse >}}
 
 4. <span style="color: #6E8798;"><strong>The Impact of Green Finance on the Efficiency of Corporate Green Innovation: A Two-Stage Value Chain Perspective</strong></span>  
@@ -51,19 +51,19 @@ Under the dual goals of resilient city construction and green transformation, ho
  
 ## Work in Progress
 
-1. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559" style="color: #6E8798;">The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups</a></strong></span>  
+1. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559" style="color: #6E8798;">The Effects of Local Taxes and Incentives on Entrepreneurship: Evidence from the Universe of U.S. Startups</a></strong></span>  
 <span style="color: #0f172a;">_With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>, <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>, and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_</span>  
 <span style="font-size: 0.9em;">*Presented at SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025*</span>
 
-2. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480" style="color: #6E8798;">Poverty Alleviation Program and Firms</a></strong></span>  
+2. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480" style="color: #6E8798;">Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China</a></strong></span>  
 <span style="color: #0f172a;">_With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
 <span style="font-size: 0.9em;">(Under Review; Presented at WEAI 100th Annual Meeting 2025)</span>
 
-3. <span style="color: #6E8798;"><strong>COVID and Startups</strong></span>  
+3. <span style="color: #6E8798;"><strong>A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</strong></span>  
 <span style="color: #0f172a;">_With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
 <span style="font-size: 0.9em;">(Under Review)</span>
 
-4. <span style="color: #6E8798;"><strong>Credit Supply and Startups</strong></span>  
+4. <span style="color: #6E8798;"><strong>Local Credit Supply Shocks Discourage Startups from Loan Applications</strong></span>  
 <span style="color: #0f172a;">_With Rachel M. Flanigan and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
 <span style="font-size: 0.9em;">(Reject and Resubmit)</span>
 
