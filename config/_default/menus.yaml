@@ -9,5 +9,5 @@ main:
     url: /teaching/
     weight: 3
   - name: CV
-    url: https://KerrLyu.github.io/pdf/ke_lyu_cv.pdf
+    url: /pdf/ke_lyu_cv.pdf
     weight: 4
