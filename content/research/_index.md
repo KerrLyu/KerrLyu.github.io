@@ -16,12 +16,42 @@ title: Research
 
 ## Working Papers
 
-1. **_Job Market Paper_**: <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://KerrLyu.github.io/pdf/Minimum_Wage_Nonemployer_Ke_Lyu.pdf" style="color: #6E8798;">How Does Minimum Wage Affect Non-employer Business Establishments in the United States?</a></strong></span>  
-<span style="color: #0f172a;">_With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
-<span style="font-size: 0.9em;">*Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*</span>  
-{{< collapse summary="Abstract">}}  
-This paper investigates the impact of regional minimum wage increases on nonemployer business establishments in the United States. We develop a theoretical model of occupational choice motivating our empirical analysis. The effects of minimum wages are estimated using panel data analysis and an identification strategy that compares nonemployer establishments in contiguous counties across neighboring states. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that a $1 increase in the minimum wage leads to a 0.5%–0.9% decrease in the number of nonemployer businesses, likely due to relatively more attractive wage employment. This shift is smaller in counties characterized by higher percentages of Hispanics, African Americans, Asians, and lower percentages of high school graduates. Conversely, higher minimum wages increase the number of nonemployers in the transportation sector as individuals are pushed into the gig economy, which is not covered by minimum wages. Further analysis based on various data sources from official statistics reveals that higher minimum wages discourage transitions from nonemployer to employer status and instead increase transitions from self-employment to wage employment and unemployment. Our findings add perspective to the debate on minimum wages by showing how this regulation affects nonemployers as an important part of their regional institutional environment.  
-{{< /collapse >}}
+1. **_Job Market Paper_**: 
+<span style="color: #6E8798; text-decoration: underline;">
+<strong><a href="https://KerrLyu.github.io/pdf/Minimum_Wage_Nonemployer_Ke_Lyu.pdf" style="color: #6E8798;">
+How Does Minimum Wage Affect Non-employer Business Establishments in the United States?
+</a></strong></span>  
+<span style="color: #0f172a;">
+_With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
+</span>  
+<span style="font-size: 0.9em;">
+*Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*
+</span>  
+
+<style>
+  @media (max-width: 768px) {
+    .responsive-grid {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>
+
+<div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
+
+<div style="font-size: 0.95em; line-height: 1.5; color: #555;">
+<p><strong>Abstract:</strong>  
+This paper investigates the impact of regional minimum wage increases on nonemployer business establishments in the United States. We develop a theoretical model of occupational choice motivating our empirical analysis. The effects of minimum wages are estimated using panel data analysis and an identification strategy that compares nonemployer establishments in contiguous counties across neighboring states. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that a $1 increase in the minimum wage leads to a 0.5%–0.9% decrease in the number of nonemployer businesses, likely due to relatively more attractive wage employment. This shift is smaller in counties characterized by higher percentages of Hispanics, African Americans, Asians, and lower percentages of high school graduates. Conversely, higher minimum wages increase the number of nonemployers in the transportation sector as individuals are pushed into the gig economy, which is not covered by minimum wages. Further analysis based on various data sources from official statistics reveals that higher minimum wages discourage transitions from nonemployer to employer status and instead increase transitions from self-employment to wage employment and unemployment. Our findings add perspective to the debate on minimum wages by showing how this regulation affects nonemployers as an important part of their regional institutional environment.
+</p>
+</div>
+
+<div style="text-align: center;">
+<img src="/jpg/mw_website.jpg" alt="Minimum Wage Paper" style="width:100%; border-radius:4px;">
+<p style="font-size: 0.8em; color: #555; margin-top: 5px;">
+Contiguous Boundary Pair Counties with Minimum Wage in 2020
+</p>
+</div>
+
+</div>
 
 2. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" style="color: #6E8798;">From Vice to Venture: Evaluating the Impact of Smoking and Drinking on Self-employment in China</a></strong></span>  
 _(Under Review)_</span>  
