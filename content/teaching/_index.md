@@ -20,7 +20,7 @@ sidebar:
 
 **Instructor**
 
-1. **ECON 303 Intermediate Macroeconomics** – Summer 2025
+1. **ECON 303 Intermediate Macroeconomics** – Summer 2025 (Overall Score: 4/4)  
 2. **ECON 261 Principles of Statistics** – Summer 2023, Fall 2022 (Overall Score: 3.5/4)  
 3. **ECON 103 Principles of Macroeconomics** – Spring 2023 (Overall Score: 3.3/4)  
    - [🔥 Supply and Demand Class Game (Most Downloaded)](https://KerrLyu.github.io/teaching/econ_103/supply_and_demand/)
