@@ -1,0 +1,13 @@
+main:
+  - name: About
+    url: '#about'
+    weight: 1
+  - name: Research
+    url: /research/
+    weight: 2
+  - name: Teaching
+    url: /teaching/
+    weight: 3
+  - name: CV
+    url: /pdf/ke_lyu_cv.pdf
+    weight: 4

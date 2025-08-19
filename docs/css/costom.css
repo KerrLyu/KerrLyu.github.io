@@ -1,0 +1,5 @@
+/* Force removal of white background on single page content */
+main.container > div.bg-white {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}

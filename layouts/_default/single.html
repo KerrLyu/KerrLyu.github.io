@@ -1,0 +1,78 @@
+{{ define "main" }}
+{{ $hasToc := and (in .TableOfContents "<li>" ) (.Params.toc) }}
+{{ $hasSidebar := or ($hasToc) (.Params.series) }}
+{{ $customSidebar := .Params.sidebar }}
+{{ $hasSidebar = or $hasSidebar $customSidebar }}
+<div class="grid grid-cols-2 gap-2 lg:gap-4 lg:grid-cols-8 lg:pt-12">
+  <div
+    class="{{- if not $hasSidebar -}}
+        {{- print "lg:col-start-2 " -}}
+      {{- end -}}{{ if not .Params.noBg }}{{ print "bg-secondary-bg " }}{{ end }}col-span-2 rounded px-6 py-8 lg:col-span-6">
+    {{ partial "components/post-article" . }}
+
+    {{ with .GetTerms "tags" }}
+      {{ partial "components/post-tags" . }}
+    {{ end }}
+
+    {{ partial "components/post-edit" . }}
+
+    {{ with .GetTerms "authors" }}
+      {{ partial "components/post-author" . }}
+    {{ end }}
+
+    {{ partial "components/post-footer" . }}
+    {{ partial "comment.html" . }}
+  </div>
+  {{ if $hasSidebar }}
+  <div class="col-span-2">
+    {{ if .Params.sidebar }}
+    {{/* Custom sidebar */}}
+    <hr class="my-4 block lg:hidden" />
+    <div class="bg-primary-bg prose px-6 py-8">
+      {{ if .Params.sidebar.title }}
+      <h3 class="text-lg font-bold block">{{ .Params.sidebar.title }}</h3>
+      {{ end }}
+      {{ if .Params.sidebar.description }}
+      <p class="text-sm text-gray-500">{{ .Params.sidebar.description }}</p>
+      {{ end }}
+      <ul>
+        {{ range .Params.sidebar.items }}
+        <li>
+          <a href="{{ .url }}">{{ .title }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
+    {{ end }}
+    {{ if .GetTerms "series" }}
+    {{ partial "components/post-series" . }}
+    {{ end }}
+    {{ if $hasToc }}
+    {{ partial "components/post-toc" . }}
+    {{ end }}
+  </div>
+  {{ end }}
+
+  {{ $related := .Site.RegularPages.Related . | first 6 }}
+  {{ with $related }}
+  <div class="{{ if not $hasSidebar }}
+          {{- print "lg:col-start-2" -}}
+        {{ end }} bg-secondary-bg prose col-span-2 rounded p-6 lg:col-span-6">
+    <h3>{{ i18n "seeAlso" }}</h3>
+    {{ range . }}
+    <a href="{{ .Permalink }}" class="no-underline">{{ .LinkTitle }}</a>
+    <br />
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+
+{{/* highlight.js */}}
+{{- if eq .Site.Params.highlight.handler "highlightjs" }}
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    hljs.highlightAll();
+  });
+</script>
+{{- end }}
+{{ end }}
