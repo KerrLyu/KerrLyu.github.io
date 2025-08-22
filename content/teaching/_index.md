@@ -8,8 +8,6 @@ hideMeta: true
 sidebar:
    title: What's More
    items:
-      - title: Teaching Philosophy
-        url: /teaching/teaching-philosophy/
       - title: Teaching with Technology - Mentimeter
         url: /teaching/tech-example/
       - title: Teaching with Technology – Zoom and Excel
