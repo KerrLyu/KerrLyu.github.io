@@ -25,7 +25,7 @@ How Does Minimum Wage Affect Non-employer Business Establishments in the United 
 _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
 </span>  
 <span style="font-size: 0.9em;">
-*Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*
+*Under Review; Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*
 </span>  
 
 <style>
@@ -87,10 +87,8 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 
 </div>
 
-3. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480" 
-      style="color:#6E8798 !important; text-decoration: underline !important;">
-      Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China
-    </a>  
+3. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480" style="color:#6E8798 !important; text-decoration: underline !important;">Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China</a></strong></span>  
+<span style="color: #0f172a;">_With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
 <span style="font-size: 0.9em;">_(Under Review; Presented at WEAI 100th Annual Meeting 2025)_</span>  
 {{< collapse summary="Abstract">}}  
 Unincorporated businesses serve as economic lifelines for low-income households when formal jobs are scarce. This study provides the first causal evidence that a large-scale anti-poverty program can promote unincorporated entrepreneurship. We focus on China’s Targeted Poverty Alleviation program, a landmark initiative combining precision targeting with multi-sector interventions. Using a difference-in-difference approach, we examine county-level business registrations (2010-2022) and household survey data (2010-2020). The program significantly increased unincorporated business entry by 6.9% at the county level and raised household business ownership by 2.75 percentage points. Three mechanisms drive these gains: spillover from large enterprises, expanded access to credit, and infrastructure improvements. Effects concentrate in counties with stable leadership and moderate corruption and are strongest in agriculture and among poor households, showing that well-governed, targeted interventions can redirect business ownership toward disadvantaged groups. Overall, our findings offer lessons for other low- and middle-income economies seeking to empower marginalized populations through small-scale enterprise.  
@@ -98,7 +96,6 @@ Unincorporated businesses serve as economic lifelines for low-income households 
 
 4. A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic  
 <span style="color: #0f172a;">  
-<span style="color: #0f172a;">
 _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>, and
 <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
 </span>   
