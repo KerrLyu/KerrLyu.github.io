@@ -137,5 +137,15 @@ _With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=a
 <span style="color: #0f172a;">_With Rachel M. Flanigan and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
 <span style="font-size: 0.9em;">(Reject and Resubmit)</span>
 
+2. The Effect of the Kansas Tax Reform on Self-Employment Hours Worked  
+<span style="color: #0f172a;">
+_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, 
+<a href="https://www.uah.edu/business/faculty-staff/hieu-pham">Hieu Pham</a>, 
+and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingjing Yang</a>_
+</span>  
+<span style="font-size: 0.9em;">_(Presented at 117th NTA Annual Conference on Taxation 2024)_</span>  
+
+<div style="display: none;">
 2. <span style="color: #6E8798;"><strong>Online Gambling</strong></span>  
 <span style="color: #0f172a;">_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, <a href="https://www.unr.edu/business/faculty-and-staff/nichols-mark">Mark Nichols</a>, and <a href="https://www.uah.edu/business/faculty-staff/chaehyun-pyun">Chaehyun Pyun</a>_</span>
+  </div>
