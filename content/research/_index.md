@@ -134,7 +134,7 @@ _With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=a
 ## Work in Progress
 
 1. <span style="color: #6E8798;"><strong>Local Credit Supply Shocks Discourage Startups from Loan Applications</strong></span>  
-<span style="color: #0f172a;">_With Rachel M. Flanigan and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
+<span style="color: #0f172a;">_With <a href="https://www.unr.edu/business/faculty-and-staff">Rachel M. Flanigan and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
 <span style="font-size: 0.9em;">(Reject and Resubmit)</span>
 
 2. The Effect of the Kansas Tax Reform on Self-Employment Hours Worked  
