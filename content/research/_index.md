@@ -87,7 +87,26 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 
 </div>
 
-3. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" 
+3. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480" 
+      style="color:#6E8798 !important; text-decoration: underline !important;">
+      Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China
+    </a>  
+<span style="font-size: 0.9em;">_(Under Review; Presented at WEAI 100th Annual Meeting 2025)_</span>  
+{{< collapse summary="Abstract">}}  
+Unincorporated businesses serve as economic lifelines for low-income households when formal jobs are scarce. This study provides the first causal evidence that a large-scale anti-poverty program can promote unincorporated entrepreneurship. We focus on China’s Targeted Poverty Alleviation program, a landmark initiative combining precision targeting with multi-sector interventions. Using a difference-in-difference approach, we examine county-level business registrations (2010-2022) and household survey data (2010-2020). The program significantly increased unincorporated business entry by 6.9% at the county level and raised household business ownership by 2.75 percentage points. Three mechanisms drive these gains: spillover from large enterprises, expanded access to credit, and infrastructure improvements. Effects concentrate in counties with stable leadership and moderate corruption and are strongest in agriculture and among poor households, showing that well-governed, targeted interventions can redirect business ownership toward disadvantaged groups. Overall, our findings offer lessons for other low- and middle-income economies seeking to empower marginalized populations through small-scale enterprise.  
+{{< /collapse >}}
+
+4. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=XXXXX" 
+      style="color:#6E8798 !important; text-decoration: underline !important;">
+      A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic
+    </a>  
+<span style="font-size: 0.9em;">_(Under Review)_</span>  
+{{< collapse summary="Abstract">}}  
+The COVID-19 pandemic delivered an unprecedented shock to U.S. business entry, with sharply contrasting effects on different types of startups. Using newly constructed administrative data from the Comprehensive Startup Panel (CSP), which covers the universe of U.S. business startups, we provide the first official numbers of the pandemic’s impact on both employer and nonemployer startup dynamics. We find that nonemployer startup formation declined substantially during the first year of the pandemic, while employer startups unexpectedly increased. Survival outcomes also diverged: the survival rate of nonemployer startups dropped markedly whereas employer startup survival remained largely stable, suggesting relative resilience. These findings reveal a pronounced compositional shift in U.S. entrepreneurial activity and underscore the importance of designing policy responses that address the distinct challenges faced by nonemployer firms in economic crises.  
+{{< /collapse >}}  
+
+
+5. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" 
       style="color:#6E8798 !important; text-decoration: underline !important;">
       From Vice to Venture: Evaluating the Impact of Smoking and Drinking on Self-employment in China
     </a>  
@@ -96,8 +115,8 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.  
 {{< /collapse >}}  
 
-
-4. The Effect of the Kansas Tax Reform on Self-Employment Hours Worked  
+<div style="display: none;">
+6. The Effect of the Kansas Tax Reform on Self-Employment Hours Worked  
 <span style="color: #0f172a;">
 _With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, 
 <a href="https://www.uah.edu/business/faculty-staff/hieu-pham">Hieu Pham</a>, 
@@ -107,27 +126,20 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
 {{< collapse summary="Abstract">}}  
 We examine the effect of the 2012 Kansas income tax reform on the weekly hours worked by self-employed individuals. Using a difference-in-differences method with data from the Current Population Survey and American Community Survey, we find that the reform led to a decline in weekly hours worked among self-employed Kansas residents relative to neighboring states. This outcome contrasts with the reform’s goal of promoting business activity. Reduced opportunities for risk-sharing and increased tax avoidance may be the factors that explain why lower taxes did not translate into greater entrepreneurial effort. These findings provide new evidence on the intensive margin impacts of tax policy on entrepreneurship.  
 {{< /collapse >}}  
+  </div>
 
-
-5. The Impact of Green Finance on the Efficiency of Corporate Green Innovation: A Two-Stage Value Chain Perspective  
+<div style="display: none;">
+7. The Impact of Green Finance on the Efficiency of Corporate Green Innovation: A Two-Stage Value Chain Perspective  
 <span style="color: #0f172a;">
 _With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao">Xiuli Liu</a>, Jing Cui, Jun Shen, and Qinqin Shi_
 </span>  
 <span style="font-size: 0.9em;">_(Under Review)_</span>
-
+  </div>
 ## Work in Progress
 
-1. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480" style="color: #6E8798;">Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China</a></strong></span>  
-<span style="color: #0f172a;">_With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
-<span style="font-size: 0.9em;">(Under Review; Presented at WEAI 100th Annual Meeting 2025)</span>
-
-2. <span style="color: #6E8798;"><strong>A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</strong></span>  
-<span style="color: #0f172a;">_With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
-<span style="font-size: 0.9em;">(Under Review)</span>
-
-3. <span style="color: #6E8798;"><strong>Local Credit Supply Shocks Discourage Startups from Loan Applications</strong></span>  
+1. <span style="color: #6E8798;"><strong>Local Credit Supply Shocks Discourage Startups from Loan Applications</strong></span>  
 <span style="color: #0f172a;">_With Rachel M. Flanigan and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
 <span style="font-size: 0.9em;">(Reject and Resubmit)</span>
 
-4. <span style="color: #6E8798;"><strong>Online Gambling</strong></span>  
+2. <span style="color: #6E8798;"><strong>Online Gambling</strong></span>  
 <span style="color: #0f172a;">_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, <a href="https://www.unr.edu/business/faculty-and-staff/nichols-mark">Mark Nichols</a>, and <a href="https://www.uah.edu/business/faculty-staff/chaehyun-pyun">Chaehyun Pyun</a>_</span>
