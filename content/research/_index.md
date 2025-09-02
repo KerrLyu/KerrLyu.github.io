@@ -96,15 +96,16 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 Unincorporated businesses serve as economic lifelines for low-income households when formal jobs are scarce. This study provides the first causal evidence that a large-scale anti-poverty program can promote unincorporated entrepreneurship. We focus on China’s Targeted Poverty Alleviation program, a landmark initiative combining precision targeting with multi-sector interventions. Using a difference-in-difference approach, we examine county-level business registrations (2010-2022) and household survey data (2010-2020). The program significantly increased unincorporated business entry by 6.9% at the county level and raised household business ownership by 2.75 percentage points. Three mechanisms drive these gains: spillover from large enterprises, expanded access to credit, and infrastructure improvements. Effects concentrate in counties with stable leadership and moderate corruption and are strongest in agriculture and among poor households, showing that well-governed, targeted interventions can redirect business ownership toward disadvantaged groups. Overall, our findings offer lessons for other low- and middle-income economies seeking to empower marginalized populations through small-scale enterprise.  
 {{< /collapse >}}
 
-4. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=XXXXX" 
-      style="color:#6E8798 !important; text-decoration: underline !important;">
-      A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic
-    </a>  
+4. A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic  
+<span style="color: #0f172a;">  
+<span style="color: #0f172a;">
+_With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>, and
+<a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
+</span>   
 <span style="font-size: 0.9em;">_(Under Review)_</span>  
 {{< collapse summary="Abstract">}}  
 The COVID-19 pandemic delivered an unprecedented shock to U.S. business entry, with sharply contrasting effects on different types of startups. Using newly constructed administrative data from the Comprehensive Startup Panel (CSP), which covers the universe of U.S. business startups, we provide the first official numbers of the pandemic’s impact on both employer and nonemployer startup dynamics. We find that nonemployer startup formation declined substantially during the first year of the pandemic, while employer startups unexpectedly increased. Survival outcomes also diverged: the survival rate of nonemployer startups dropped markedly whereas employer startup survival remained largely stable, suggesting relative resilience. These findings reveal a pronounced compositional shift in U.S. entrepreneurial activity and underscore the importance of designing policy responses that address the distinct challenges faced by nonemployer firms in economic crises.  
 {{< /collapse >}}  
-
 
 5. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" 
       style="color:#6E8798 !important; text-decoration: underline !important;">
