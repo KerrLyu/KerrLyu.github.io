@@ -63,7 +63,7 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>,
 and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_
 </span>  
 <span style="font-size: 0.9em;">
-*Presented at SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025*
+*Presented at WEFI, SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025*
 </span> 
 
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
