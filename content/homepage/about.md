@@ -97,7 +97,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 ## News Feed
 
 <div class="news-item news-dark">
-  <em>Upcoming</em> — Our paper, <em>"Taxes, Incentives and Entrepreneurship:<br>Evidence from the Universe of U.S. Startups"</em>, will be presented at the
+  <em>10/27/2025</em> - Our paper, <em>"Taxes, Incentives and Entrepreneurship:<br>Evidence from the Universe of U.S. Startups"</em>, will be presented at the
   <a href="https://workshop-efi.com/">Workshop on Entrepreneurial Finance and Innovation (WEFI)</a>.
 </div>
 
