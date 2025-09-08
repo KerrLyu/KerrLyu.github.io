@@ -71,11 +71,13 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   }
 
+  /* 渐变色阶：从最浅到最深 */
   .news-lightest { background-color: #e7f3fe; }
-  .news-light { background-color: #d0e7fc; }
-  .news-mid { background-color: #aad1f9; }
-  .news-dark { background-color: #87baf4; }
-  .news-darkest { background-color: #639eea; }  /* ← Add this */
+  .news-light    { background-color: #d0e7fc; }
+  .news-mid      { background-color: #aad1f9; }
+  .news-semidark { background-color: #8fc1f6; }
+  .news-dark     { background-color: #72acef; }
+  .news-darkest  { background-color: #4f91e5; }
 
   .news-item em {
     font-style: normal;
@@ -96,20 +98,35 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 
 ## News Feed
 
-<div class="news-item news-darkest">
+<div class="news-item news-dark">
   <em>10/27/2025</em> - Our paper, <em>"Taxes, Incentives and Entrepreneurship:<br>Evidence from the Universe of U.S. Startups"</em>, will be presented at the
   <a href="https://workshop-efi.com/">Workshop on Entrepreneurial Finance and Innovation (WEFI)</a>.
 </div>
 
-<div class="news-item news-dark">
-  <em>07/11/2025–07/17/2025</em> - Participated in the <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025">2025 NBER Innovation Research Boot Camp</a>.
+<div class="news-item news-semidark">
+  <em>10/18/2024</em> - Our paper, <em>"The Effects of Government Policies on Entrepreneurship: Evidence from Panel Data on the Universe of U.S. Startups"</em>, has been accepted for presentation at the
+  <a href="https://sites.wustl.edu/egsc/">20th Economics Graduate Student Conference at Washington University in St. Louis</a>.
 </div>
 
 <div class="news-item news-mid">
-  <em>06/27/2025–06/29/2025</em> - Presented our paper, <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, at the <a href="https://www.sole-jole.org/upcoming-meeting">6th World Labor Conference</a>.
+  <em>07/11/2025–07/17/2025</em> - Participated in the <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025">2025 NBER Innovation Research Boot Camp</a>.
 </div>
 
 <div class="news-item news-light">
+  <em>06/27/2025–06/29/2025</em> - Presented our paper, <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, at the 
+  <a href="https://www.sole-jole.org/upcoming-meeting">6th World Labor Conference</a>.
+</div>
+
+<div class="news-item news-lightest">
   <em>06/04/2025–06/07/2025</em> - Presented our paper, <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, at the
   <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/">45th Babson College Entrepreneurship Research Conference (BCERC)</a>.
 </div>
+
+
+
+
+
+
+
+
+
