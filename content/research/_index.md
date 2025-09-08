@@ -18,13 +18,14 @@ title: Research
 
 1. **_Job Market Paper_**: 
 <span style="color: #6E8798; text-decoration: underline;">
-<strong><a href="https://KerrLyu.github.io/pdf/Minimum_Wage_Nonemployer_Ke_Lyu.pdf" style="color: #6E8798;">
+<strong><a href="https://www.iza.org/publications/dp/18101/how-do-minimum-wages-affect-nonemployer-businesses-in-the-united-states" style="color: #6E8798;">
 How Does Minimum Wage Affect Non-employer Business Establishments in the United States?
 </a></strong></span>  
 <span style="color: #0f172a;">
 _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
 </span>  
 <span style="font-size: 0.9em;">
+*IZA Discussion Paper No. 18101*  
 *Under Review; Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*
 </span>  
 
