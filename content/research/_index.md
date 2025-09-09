@@ -19,7 +19,7 @@ title: Research
 1. **_Job Market Paper_**: 
 <span style="color: #6E8798; text-decoration: underline;">
 <strong><a href="https://www.iza.org/publications/dp/18101/how-do-minimum-wages-affect-nonemployer-businesses-in-the-united-states" style="color: #6E8798;">
-How Does Minimum Wage Affect Non-employer Business Establishments in the United States?
+How Do Minimum Wages Affect Nonemployer Businesses in the United States?
 </a></strong></span>  
 <span style="color: #0f172a;">
 _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
