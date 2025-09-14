@@ -104,7 +104,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 </div>
 
 <div class="news-item news-semidark">
-  <em>10/18/2024</em> - Our paper, <em>"The Effects of Government Policies on Entrepreneurship: Evidence from Panel Data on the Universe of U.S. Startups"</em>, has been accepted for presentation at the
+  <em>10/18/2025</em> - Our paper, <em>"The Effects of Government Policies on Entrepreneurship: Evidence from Panel Data on the Universe of U.S. Startups"</em>, has been accepted for presentation at the
   <a href="https://sites.wustl.edu/egsc/">20th Economics Graduate Student Conference at Washington University in St. Louis</a>.
 </div>
 
