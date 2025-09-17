@@ -4,7 +4,7 @@ title: Research
 
 ## Publications
 
-1. <span style="color: #0f172a;"><strong>Lyu, K. (2023).</strong></span>  [<span style="color: #6E8798; text-decoration: underline;">Social capital and self-employment dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), The Chinese Economy, 56:6, 459-485, 2023.
+1. <span style="color: #0f172a;"><strong>Lyu, K. (2023).</strong></span>  [<span style="color: #6E8798; text-decoration: underline;">Social Capital and Self-employment Dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), The Chinese Economy, 56:6, 459-485, 2023.
 
 <div style="display: none;">
 2. <span style="color: #0f172a;"><strong>Liu, X., Jia, X., Lyu, K. et al. (2024).</strong></span> 
