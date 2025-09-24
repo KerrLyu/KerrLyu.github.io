@@ -96,7 +96,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 </div>
 
 <div class="news-item" style="background-color:#d0e7fc;">
-  <em>10/24/2025</em> - Our paper will be presented at the
+  <em>10/24/2025</em> - Our paper, <em>"Taxes, Incentives and Entrepreneurship:<br>Evidence from the Universe of U.S. Startups"</em>, will be presented at the
   <a href="https://www.nber.org/conferences/economic-analysis-business-taxation-fall-2025">NBER Economic Analysis of Business Taxation Workshop</a>.
 </div>
 
