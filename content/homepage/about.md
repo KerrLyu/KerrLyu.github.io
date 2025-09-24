@@ -71,13 +71,13 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   }
 
-  /* 自动颜色循环（6 个色阶） */
-  .news-item:nth-child(6n+1) { background-color: #e7f3fe; } /* lightest */
-  .news-item:nth-child(6n+2) { background-color: #d0e7fc; } /* light */
-  .news-item:nth-child(6n+3) { background-color: #aad1f9; } /* mid */
-  .news-item:nth-child(6n+4) { background-color: #8fc1f6; } /* semidark */
-  .news-item:nth-child(6n+5) { background-color: #72acef; } /* dark */
-  .news-item:nth-child(6n+6) { background-color: #4f91e5; } /* darkest */
+  /* 顺序渐变：第 1 条最浅，第 2 条更深，依次加深 */
+  .news-item:nth-child(1) { background-color: #e7f3fe; } /* lightest */
+  .news-item:nth-child(2) { background-color: #d0e7fc; }
+  .news-item:nth-child(3) { background-color: #aad1f9; }
+  .news-item:nth-child(4) { background-color: #8fc1f6; }
+  .news-item:nth-child(5) { background-color: #72acef; }
+  .news-item:nth-child(6) { background-color: #4f91e5; } /* darkest */
 
   .news-item em {
     font-style: normal;
