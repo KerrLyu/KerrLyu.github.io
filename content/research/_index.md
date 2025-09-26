@@ -1,4 +1,4 @@
- ---
+---
 title: Research
 ---
 
@@ -29,6 +29,13 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
 *Under Review; Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*
 </span>  
 
+<style>
+  @media (max-width: 768px) {
+    .responsive-grid {
+      grid-template-columns: 1fr !important;
+    }
+  }
+</style>
 
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
 
@@ -38,21 +45,12 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
     </p>
   </div>
 
-<div class="fig-row">
-  <div class="fig-card">
-    <figure>
-      <button data-lb="/jpg/mw_website.jpg">
-        <img 
-          src="/jpg/mw_website.jpg" 
-          alt="Contiguous Boundary Pair Counties with Minimum Wage in 2020"
-          loading="lazy" decoding="async">
-      </button>
-      <figcaption>
-        Contiguous Boundary Pair Counties with Minimum Wage in 2020
-      </figcaption>
-    </figure>
+  <div style="text-align: center;">
+    <img src="/jpg/mw_website.jpg" alt="Minimum Wage Paper" style="width:100%; border-radius:4px;">
+    <p style="font-size: 0.8em; color: #555; margin-top: 5px;">
+      Contiguous Boundary Pair Counties with Minimum Wage in 2020
+    </p>
   </div>
-</div>
 
 </div>
 
@@ -120,7 +118,6 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
 </div>
 
 </div>
-
 
 4. <a href="#"
       style="color:#6E8798 !important; text-decoration: underline !important;">
@@ -201,3 +198,5 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
 2. <span style="color: #6E8798;"><strong>Online Gambling</strong></span>  
 <span style="color: #0f172a;">_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, <a href="https://www.unr.edu/business/faculty-and-staff/nichols-mark">Mark Nichols</a>, and <a href="https://www.uah.edu/business/faculty-staff/chaehyun-pyun">Chaehyun Pyun</a>_</span>
   </div>
+
+
