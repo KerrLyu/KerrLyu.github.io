@@ -64,7 +64,7 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>,
 and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_
 </span>  
 <span style="font-size: 0.9em;">
-*Presented at WEFI, SOLE 6th World Labor Conference, WEAI 100th Annual Meeting 2025, 5th UCLA Price Research Conference 2025*
+*Presented at NBER Economic Analysis of Business Taxation Workshop; 20th EGSC (WashU); WEFI; 6th SOLE–EALE–AASLE World Labor Conference; 100th WEAI; 5th UCLA Anderson Price Research Conference*
 </span> 
 
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
@@ -88,19 +88,68 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 
 </div>
 
-3. <span style="color: #6E8798; text-decoration: underline;"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480" style="color:#6E8798 !important; text-decoration: underline !important;">Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China</a></strong></span>  
-<span style="color: #0f172a;">_With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
-<span style="font-size: 0.9em;">_Under Review; Presented at WEAI 100th Annual Meeting 2025_</span>  
-{{< collapse summary="Abstract">}}  
-Unincorporated businesses serve as economic lifelines for low-income households when formal jobs are scarce. This study provides the first causal evidence that a large-scale anti-poverty program can promote unincorporated entrepreneurship. We focus on China’s Targeted Poverty Alleviation program, a landmark initiative combining precision targeting with multi-sector interventions. Using a difference-in-difference approach, we examine county-level business registrations (2010-2022) and household survey data (2010-2020). The program significantly increased unincorporated business entry by 6.9% at the county level and raised household business ownership by 2.75 percentage points. Three mechanisms drive these gains: spillover from large enterprises, expanded access to credit, and infrastructure improvements. Effects concentrate in counties with stable leadership and moderate corruption and are strongest in agriculture and among poor households, showing that well-governed, targeted interventions can redirect business ownership toward disadvantaged groups. Overall, our findings offer lessons for other low- and middle-income economies seeking to empower marginalized populations through small-scale enterprise.  
-{{< /collapse >}}
+3. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480"
+      style="color:#6E8798 !important; text-decoration: underline !important;">
+      Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China
+    </a>  
+<span style="color: #0f172a;">
+_With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
+<span style="font-size: 0.9em;">
+*Under Review; Presented at WEAI 100th Annual Meeting 2025*
+</span> 
 
-4. A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic  
-<span style="color: #0f172a;">_With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span>  
-<span style="font-size: 0.9em;">_Under Review_</span>  
-{{< collapse summary="Abstract">}}  
-The COVID-19 pandemic delivered an unprecedented shock to U.S. business entry, with sharply contrasting effects on different types of startups. Using newly constructed administrative data from the Comprehensive Startup Panel (CSP), which covers the universe of U.S. business startups, we provide the first official numbers of the pandemic’s impact on both employer and nonemployer startup dynamics. We find that nonemployer startup formation declined substantially during the first year of the pandemic, while employer startups unexpectedly increased. Survival outcomes also diverged: the survival rate of nonemployer startups dropped markedly whereas employer startup survival remained largely stable, suggesting relative resilience. These findings reveal a pronounced compositional shift in U.S. entrepreneurial activity and underscore the importance of designing policy responses that address the distinct challenges faced by nonemployer firms in economic crises.  
-{{< /collapse >}}  
+<div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
+
+  <div style="font-size: 0.95em; line-height: 1.5; color: #555;">
+    <p><strong>Abstract:</strong><br>
+      Unincorporated businesses serve as economic lifelines for low-income households when formal jobs are scarce. This study provides the first causal evidence that a large-scale anti-poverty program can promote unincorporated entrepreneurship. We focus on China’s Targeted Poverty Alleviation program, a landmark initiative combining precision targeting with multi-sector interventions. Using a difference-in-difference approach, we examine county-level business registrations (2010–2022) and household survey data (2010–2020). The program significantly increased unincorporated business entry by 6.9% at the county level and raised household business ownership by 2.75 percentage points. Three mechanisms drive these gains: spillover from large enterprises, expanded access to credit, and infrastructure improvements. Effects concentrate in counties with stable leadership and moderate corruption and are strongest in agriculture and among poor households, showing that well-governed, targeted interventions can redirect business ownership toward disadvantaged groups. Overall, our findings offer lessons for other low- and middle-income economies seeking to empower marginalized populations through small-scale enterprise.
+    </p>
+  </div>
+
+<div style="text-align: center; display: flex; gap: 10px; justify-content: center;">
+  <div style="flex: 1; display:flex; flex-direction:column; align-items:center;">
+    <img src="/jpg/poverty_map.jpeg"
+         alt="Targeted Poverty Alleviation Map"
+         style="width:70%; border-radius:4px;"/>
+    <p style="font-size: 0.8em; color: #555; margin-top: 5px;">
+      Targeted Poverty Alleviation — County Coverage
+    </p>
+  </div>
+</div>
+
+</div>
+
+
+4. <a href="#"
+      style="color:#6E8798 !important; text-decoration: underline !important;">
+      A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic
+    </a>  
+<span style="color: #0f172a;">
+_With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
+</span>  
+<span style="font-size: 0.9em;">
+*Under Review*
+</span>  
+<div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
+
+  <div style="font-size: 0.95em; line-height: 1.5; color: #555;">
+    <p><strong>Abstract:</strong><br>
+      The COVID-19 pandemic delivered an unprecedented shock to U.S. business entry, with sharply contrasting effects on different types of startups. Using newly constructed administrative data from the Comprehensive Startup Panel (CSP), which covers the universe of U.S. business startups, we provide the first official numbers of the pandemic’s impact on both employer and nonemployer startup dynamics. We find that nonemployer startup formation declined substantially during the first year of the pandemic, while employer startups unexpectedly increased. Survival outcomes also diverged: the survival rate of nonemployer startups dropped markedly whereas employer startup survival remained largely stable, suggesting relative resilience. These findings reveal a pronounced compositional shift in U.S. entrepreneurial activity and underscore the importance of designing policy responses that address the distinct challenges faced by nonemployer firms in economic crises.
+    </p>
+  </div>
+
+<div style="text-align: center; display: flex; gap: 10px; justify-content: center;">
+  <div style="flex: 1; display:flex; flex-direction:column; align-items:center;">
+    <img src="/jpg/sur_noe_emp.png"
+         alt="Survival: Nonemployer vs Employer Startups (CSP)"
+         style="width:70%; border-radius:4px;">
+    <p style="font-size: 0.8em; color: #555; margin-top: 5px;">
+      Survival: Nonemployer vs. Employer Startups
+    </p>
+  </div>
+</div>
+
+</div>
 
 5. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" 
       style="color:#6E8798 !important; text-decoration: underline !important;">
