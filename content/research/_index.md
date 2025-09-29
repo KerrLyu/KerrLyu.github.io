@@ -97,11 +97,11 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 
   <div class="fig-wrap thumb-2">
     <figure class="fig">
-      <img src="/jpg/8_csDIDcoeff_fo_totaltax_in_lnEmployers.png" alt="Effect of total tax on employer startups" loading="lazy" decoding="async">
+      <img src="/jpg/8_csDIDcoeff_fo_totaltax_in_lnEmployers.png" alt="Effect of total taxes increase on employer startups" loading="lazy" decoding="async">
       <figcaption>Effect of Total Tax on Employer Startups</figcaption>
     </figure>
     <figure class="fig">
-      <img src="/jpg/16_csDIDcoeff_fo_totalInc_in_lnEmployers.png" alt="Effect of total incentives on employer startups" loading="lazy" decoding="async">
+      <img src="/jpg/16_csDIDcoeff_fo_totalInc_in_lnEmployers.png" alt="Effect of total incentives increase on employer startups" loading="lazy" decoding="async">
       <figcaption>Effect of Total Incentives on Employer Startups</figcaption>
     </figure>
   </div>
@@ -127,12 +127,15 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
   </div>
 
 <div class="fig-wrap">
-    <figure class="fig">
-      <img src="/jpg/poverty_map.jpeg" alt="County coverage of Targeted Poverty Alleviation program" loading="lazy" decoding="async">
-      <figcaption>Targeted Poverty Alleviation — County Coverage</figcaption>
-    </figure>
-  </div>
-
+  <figure class="fig">
+    <img src="/jpg/poverty_map.jpeg"
+         alt="County coverage of Targeted Poverty Alleviation program"
+         loading="lazy"
+         decoding="async"
+         style="width:80%; height:auto;">
+    <figcaption>Targeted Poverty Alleviation — County Coverage</figcaption>
+  </figure>
+</div>
 </div>
 
 4. <a href="#"
@@ -153,12 +156,16 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
     </p>
   </div>
 
-  <div class="fig-wrap">
-    <figure class="fig">
-      <img src="/jpg/sur_noe_emp.png" alt="Survival: Nonemployer vs. Employer Startups (CSP)" loading="lazy" decoding="async">
-      <figcaption>Survival: Nonemployer vs. Employer Startups</figcaption>
-    </figure>
-  </div>
+<div class="fig-wrap">
+  <figure class="fig">
+    <img src="/jpg/sur_noe_emp.png"
+         alt="Survival: Nonemployer vs. Employer Startups (CSP)"
+         loading="lazy"
+         decoding="async"
+         style="width:80%; height:auto;">
+    <figcaption>Survival: Nonemployer vs. Employer Startups</figcaption>
+  </figure>
+</div>
 
 
 </div>
