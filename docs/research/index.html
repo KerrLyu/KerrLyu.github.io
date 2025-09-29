@@ -3,7 +3,7 @@
   lang="en"
   dir="ltr"
   
-><meta charset="utf-8">
+><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
@@ -12,8 +12,8 @@
 
 <meta name="google-site-verification" content="dpymyxYMLzClXP7y7t23MfdEGHLanDqQGgRr-q1e6TY" />
 <meta name="generator" content="Hugo Eureka 0.9.3" />
-<link rel="stylesheet" href="https://KerrLyu.github.io/css/eureka.min.d6de8815a2a562a699a7e9ef88a24bb4b976ed4281e36ef61a465ba15a86fae033525553e8305aed55044f9dc7029685.css">
-<script defer src="https://KerrLyu.github.io/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js"></script>
+<link rel="stylesheet" href="http://localhost:1313/css/eureka.min.d6de8815a2a562a699a7e9ef88a24bb4b976ed4281e36ef61a465ba15a86fae033525553e8305aed55044f9dc7029685.css">
+<script defer src="http://localhost:1313/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js"></script>
 
 
 
@@ -42,10 +42,10 @@
    crossorigin></script>
   <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.4.0/build/languages/dart.min.js"
      crossorigin></script>
-<link rel="stylesheet" href="https://KerrLyu.github.io/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css" media="print" onload="this.media='all';this.onload=null">
+<link rel="stylesheet" href="http://localhost:1313/css/highlightjs.min.2958991528e43eb6fc9b8c4f2b8e052f79c4010718e1d1e888a777620e9ee63021c2c57ec7417a3108019bb8c41943e6.css" media="print" onload="this.media='all';this.onload=null">
 
 
-<script defer type="text/javascript" src="https://KerrLyu.github.io/js/fontawesome.min.79abf69c40080bc873c1aaf9b64e9f0bd6b1ef3b3b54bb1de5b86177376c296885586ddc12e926073c8392a0c70cc396.js"></script>
+<script defer type="text/javascript" src="http://localhost:1313/js/fontawesome.min.79abf69c40080bc873c1aaf9b64e9f0bd6b1ef3b3b54bb1de5b86177376c296885586ddc12e926073c8392a0c70cc396.js"></script>
 
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css"
@@ -78,11 +78,13 @@
 <link rel="stylesheet" href="/css/collapse.css">
 <link rel="stylesheet" href="/css/text-align.css">
 
-<link rel="icon" type="image/png" sizes="32x32" href="https://KerrLyu.github.io/images/logo_hu_37282ce63980da4f.png">
-<link rel="apple-touch-icon" sizes="180x180" href="https://KerrLyu.github.io/images/logo_hu_ad970d0936283fce.png">
+<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/images/logo_hu_37282ce63980da4f.png">
+<link rel="apple-touch-icon" sizes="180x180" href="http://localhost:1313/images/logo_hu_ad970d0936283fce.png">
 
 <meta name="description"
-  content="Publications
+  content="
+
+Publications
 
 Lyu, K. (2023).  Social Capital and Self-employment Dynamics in China, The Chinese Economy, 56:6, 459-485, 2023.
 
@@ -122,10 +124,10 @@ Under Review; Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGI
 <meta property="og:type" content="website" />
 
 
-<meta property="og:image" content="https://KerrLyu.github.io/images/logo.png">
+<meta property="og:image" content="http://localhost:1313/images/logo.png">
 
 
-<meta property="og:url" content="https://KerrLyu.github.io/research/" />
+<meta property="og:url" content="http://localhost:1313/research/" />
 
 
 
@@ -154,7 +156,7 @@ Under Review; Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGI
 <meta property="article:section" content="research" />
 
 
-<link rel="alternate" type="application/rss+xml" href="https://KerrLyu.github.io/research/index.xml" title="Ke (Kerr) Lyu" />
+<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/research/index.xml" title="Ke (Kerr) Lyu" />
 
 
 
@@ -236,7 +238,27 @@ Under Review; Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGI
   <article class="prose mx-6 my-8">
   <h1>Research</h1>
   
-    <h2 id="publications">Publications</h2>
+    <!-- ===== Figure styles (inline to ensure it applies) ===== -->
+<style>
+  :root{
+    --ink:#0f172a; --muted:#6E8798; --card:#ffffff;
+    --shadow:0 6px 24px rgba(2,6,23,.08); --radius:14px;
+  }
+  .ink{color:var(--ink);} .muted{color:var(--muted);}
+  .media-grid{display:grid; grid-template-columns:1fr 460px; gap:22px; align-items:start; margin-top:12px;}
+  @media (max-width:900px){ .media-grid{grid-template-columns:1fr;} }
+  .fig-wrap{display:flex; gap:14px; justify-content:center;}
+  .thumb-2{display:grid; grid-template-columns:1fr 1fr; gap:14px;}
+  @media (max-width:600px){ .thumb-2{grid-template-columns:1fr;} }
+  .fig{margin:0; flex:1; background:var(--card); border-radius:var(--radius); box-shadow:var(--shadow);
+       padding:10px; display:flex; flex-direction:column; align-items:center;}
+  .fig > img{width:100%; height:auto; border-radius:10px; display:block; max-height:340px; object-fit:contain; background:#f8fafc;}
+  .fig > figcaption{font-size:.84em; color:var(--muted); margin-top:6px; text-align:center;}
+  /* 轻微的交互提升质感 */
+  .fig:hover{ transform:translateY(-2px); transition:transform .2s ease, box-shadow .2s ease; box-shadow:0 14px 36px rgba(2,6,23,.14); }
+  .fig:focus-within{ outline:none; box-shadow:0 0 0 4px var(--ring); }
+</style>
+<h2 id="publications">Publications</h2>
 <ol>
 <li><span style="color: #0f172a;"><strong>Lyu, K. (2023).</strong></span>  <a href="https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028"><span style="color: #6E8798; text-decoration: underline;">Social Capital and Self-employment Dynamics in China</span></a>, The Chinese Economy, 56:6, 459-485, 2023.</li>
 </ol>
@@ -276,11 +298,11 @@ How Do Minimum Wages Affect Nonemployer Businesses in the United States?
     This paper investigates the impact of regional minimum wage increases on nonemployer business establishments in the United States. We develop a theoretical model of occupational choice motivating our empirical analysis. The effects of minimum wages are estimated using panel data analysis and an identification strategy that compares nonemployer establishments in contiguous counties across neighboring states. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that a $1 increase in the minimum wage leads to a 0.5%–0.9% decrease in the number of nonemployer businesses, likely due to relatively more attractive wage employment. This shift is smaller in counties characterized by higher percentages of Hispanics, African Americans, Asians, and lower percentages of high school graduates. Conversely, higher minimum wages increase the number of nonemployers in the transportation sector as individuals are pushed into the gig economy, which is not covered by minimum wages. Further analysis based on various data sources from official statistics reveals that higher minimum wages discourage transitions from nonemployer to employer status and instead increase transitions from self-employment to wage employment and unemployment. Our findings add perspective to the debate on minimum wages by showing how this regulation affects nonemployers as an important part of their regional institutional environment.
     </p>
   </div>
-  <div style="text-align: center;">
-    <img src="/jpg/mw_website.jpg" alt="Minimum Wage Paper" style="width:100%; border-radius:4px;">
-    <p style="font-size: 0.8em; color: #555; margin-top: 5px;">
-      Contiguous Boundary Pair Counties with Minimum Wage in 2020
-    </p>
+<div class="fig-wrap">
+    <figure class="fig">
+      <img src="/jpg/mw_website.jpg" alt="Contiguous county pairs with minimum wage differences, 2020" loading="lazy" decoding="async">
+      <figcaption>Contiguous Boundary Pair Counties with Minimum Wage in 2020</figcaption>
+    </figure>
   </div>
 </div>
 <ol start="2">
@@ -303,15 +325,15 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
     This paper examines how local tax burdens and fiscal incentives shape entrepreneurship across the United States. Leveraging the Panel Database on Incentives and Taxes (PDIT), which combines detailed information on state and local tax regimes with the universe of U.S. startups, we estimate the effects of overall tax levels and targeted incentives on employer firm formation. Our findings show that higher total tax burdens reduce startup activity, while well-designed incentives—such as income tax credits and abatements—can partially offset these negative effects. These results highlight the importance of regional fiscal policy as a key determinant of entrepreneurial dynamics.
     </p>
   </div>
-  <div style="text-align: center; display: flex; gap: 10px; justify-content: center;">
-    <div style="flex: 1;">
-      <img src="/jpg/8_csDIDcoeff_fo_totaltax_in_lnEmployers.png" alt="Total Tax Effect" style="width:100%; border-radius:4px;">
-      <p style="font-size: 0.8em; color: #555; margin-top: 5px;">Effect of Total Tax on Employer Startups</p>
-    </div>
-    <div style="flex: 1;">
-      <img src="/jpg/16_csDIDcoeff_fo_totalInc_in_lnEmployers.png" alt="Income Tax Effect" style="width:100%; border-radius:4px;">
-      <p style="font-size: 0.8em; color: #555; margin-top: 5px;">Effect of Total Incentives on Employer Startups</p>
-    </div>
+  <div class="fig-wrap thumb-2">
+    <figure class="fig">
+      <img src="/jpg/8_csDIDcoeff_fo_totaltax_in_lnEmployers.png" alt="Effect of total tax on employer startups" loading="lazy" decoding="async">
+      <figcaption>Effect of Total Tax on Employer Startups</figcaption>
+    </figure>
+    <figure class="fig">
+      <img src="/jpg/16_csDIDcoeff_fo_totalInc_in_lnEmployers.png" alt="Effect of total incentives on employer startups" loading="lazy" decoding="async">
+      <figcaption>Effect of Total Incentives on Employer Startups</figcaption>
+    </figure>
   </div>
 </div>
 <ol start="3">
@@ -331,16 +353,12 @@ Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from 
       Unincorporated businesses serve as economic lifelines for low-income households when formal jobs are scarce. This study provides the first causal evidence that a large-scale anti-poverty program can promote unincorporated entrepreneurship. We focus on China’s Targeted Poverty Alleviation program, a landmark initiative combining precision targeting with multi-sector interventions. Using a difference-in-difference approach, we examine county-level business registrations (2010–2022) and household survey data (2010–2020). The program significantly increased unincorporated business entry by 6.9% at the county level and raised household business ownership by 2.75 percentage points. Three mechanisms drive these gains: spillover from large enterprises, expanded access to credit, and infrastructure improvements. Effects concentrate in counties with stable leadership and moderate corruption and are strongest in agriculture and among poor households, showing that well-governed, targeted interventions can redirect business ownership toward disadvantaged groups. Overall, our findings offer lessons for other low- and middle-income economies seeking to empower marginalized populations through small-scale enterprise.
     </p>
   </div>
-<div style="text-align: center; display: flex; gap: 10px; justify-content: center;">
-  <div style="flex: 1; display:flex; flex-direction:column; align-items:center;">
-    <img src="/jpg/poverty_map.jpeg"
-         alt="Targeted Poverty Alleviation Map"
-         style="width:70%; border-radius:4px;"/>
-    <p style="font-size: 0.8em; color: #555; margin-top: 5px;">
-      Targeted Poverty Alleviation — County Coverage
-    </p>
+<div class="fig-wrap">
+    <figure class="fig">
+      <img src="/jpg/poverty_map.jpeg" alt="County coverage of Targeted Poverty Alleviation program" loading="lazy" decoding="async">
+      <figcaption>Targeted Poverty Alleviation — County Coverage</figcaption>
+    </figure>
   </div>
-</div>
 </div>
 <ol start="4">
 <li><a href="#"
@@ -360,16 +378,12 @@ A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the
       The COVID-19 pandemic delivered an unprecedented shock to U.S. business entry, with sharply contrasting effects on different types of startups. Using newly constructed administrative data from the Comprehensive Startup Panel (CSP), which covers the universe of U.S. business startups, we provide the first official numbers of the pandemic’s impact on both employer and nonemployer startup dynamics. We find that nonemployer startup formation declined substantially during the first year of the pandemic, while employer startups unexpectedly increased. Survival outcomes also diverged: the survival rate of nonemployer startups dropped markedly whereas employer startup survival remained largely stable, suggesting relative resilience. These findings reveal a pronounced compositional shift in U.S. entrepreneurial activity and underscore the importance of designing policy responses that address the distinct challenges faced by nonemployer firms in economic crises.
     </p>
   </div>
-<div style="text-align: center; display: flex; gap: 10px; justify-content: center;">
-  <div style="flex: 1; display:flex; flex-direction:column; align-items:center;">
-    <img src="/jpg/sur_noe_emp.png"
-         alt="Survival: Nonemployer vs Employer Startups (CSP)"
-         style="width:70%; border-radius:4px;">
-    <p style="font-size: 0.8em; color: #555; margin-top: 5px;">
-      Survival: Nonemployer vs. Employer Startups
-    </p>
+  <div class="fig-wrap">
+    <figure class="fig">
+      <img src="/jpg/sur_noe_emp.png" alt="Survival: Nonemployer vs. Employer Startups (CSP)" loading="lazy" decoding="async">
+      <figcaption>Survival: Nonemployer vs. Employer Startups</figcaption>
+    </figure>
   </div>
-</div>
 </div>
 <ol start="5">
 <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" 

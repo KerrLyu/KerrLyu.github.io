@@ -1,6 +1,26 @@
 ---
 title: Research
 ---
+<!-- ===== Figure styles (inline to ensure it applies) ===== -->
+<style>
+  :root{
+    --ink:#0f172a; --muted:#6E8798; --card:#ffffff;
+    --shadow:0 6px 24px rgba(2,6,23,.08); --radius:14px;
+  }
+  .ink{color:var(--ink);} .muted{color:var(--muted);}
+  .media-grid{display:grid; grid-template-columns:1fr 460px; gap:22px; align-items:start; margin-top:12px;}
+  @media (max-width:900px){ .media-grid{grid-template-columns:1fr;} }
+  .fig-wrap{display:flex; gap:14px; justify-content:center;}
+  .thumb-2{display:grid; grid-template-columns:1fr 1fr; gap:14px;}
+  @media (max-width:600px){ .thumb-2{grid-template-columns:1fr;} }
+  .fig{margin:0; flex:1; background:var(--card); border-radius:var(--radius); box-shadow:var(--shadow);
+       padding:10px; display:flex; flex-direction:column; align-items:center;}
+  .fig > img{width:100%; height:auto; border-radius:10px; display:block; max-height:340px; object-fit:contain; background:#f8fafc;}
+  .fig > figcaption{font-size:.84em; color:var(--muted); margin-top:6px; text-align:center;}
+  /* 轻微的交互提升质感 */
+  .fig:hover{ transform:translateY(-2px); transition:transform .2s ease, box-shadow .2s ease; box-shadow:0 14px 36px rgba(2,6,23,.14); }
+  .fig:focus-within{ outline:none; box-shadow:0 0 0 4px var(--ring); }
+</style>
 
 ## Publications
 
@@ -45,11 +65,11 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
     </p>
   </div>
 
-  <div style="text-align: center;">
-    <img src="/jpg/mw_website.jpg" alt="Minimum Wage Paper" style="width:100%; border-radius:4px;">
-    <p style="font-size: 0.8em; color: #555; margin-top: 5px;">
-      Contiguous Boundary Pair Counties with Minimum Wage in 2020
-    </p>
+<div class="fig-wrap">
+    <figure class="fig">
+      <img src="/jpg/mw_website.jpg" alt="Contiguous county pairs with minimum wage differences, 2020" loading="lazy" decoding="async">
+      <figcaption>Contiguous Boundary Pair Counties with Minimum Wage in 2020</figcaption>
+    </figure>
   </div>
 
 </div>
@@ -75,15 +95,15 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
     </p>
   </div>
 
-  <div style="text-align: center; display: flex; gap: 10px; justify-content: center;">
-    <div style="flex: 1;">
-      <img src="/jpg/8_csDIDcoeff_fo_totaltax_in_lnEmployers.png" alt="Total Tax Effect" style="width:100%; border-radius:4px;">
-      <p style="font-size: 0.8em; color: #555; margin-top: 5px;">Effect of Total Tax on Employer Startups</p>
-    </div>
-    <div style="flex: 1;">
-      <img src="/jpg/16_csDIDcoeff_fo_totalInc_in_lnEmployers.png" alt="Income Tax Effect" style="width:100%; border-radius:4px;">
-      <p style="font-size: 0.8em; color: #555; margin-top: 5px;">Effect of Total Incentives on Employer Startups</p>
-    </div>
+  <div class="fig-wrap thumb-2">
+    <figure class="fig">
+      <img src="/jpg/8_csDIDcoeff_fo_totaltax_in_lnEmployers.png" alt="Effect of total tax on employer startups" loading="lazy" decoding="async">
+      <figcaption>Effect of Total Tax on Employer Startups</figcaption>
+    </figure>
+    <figure class="fig">
+      <img src="/jpg/16_csDIDcoeff_fo_totalInc_in_lnEmployers.png" alt="Effect of total incentives on employer startups" loading="lazy" decoding="async">
+      <figcaption>Effect of Total Incentives on Employer Startups</figcaption>
+    </figure>
   </div>
 
 </div>
@@ -106,16 +126,12 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
     </p>
   </div>
 
-<div style="text-align: center; display: flex; gap: 10px; justify-content: center;">
-  <div style="flex: 1; display:flex; flex-direction:column; align-items:center;">
-    <img src="/jpg/poverty_map.jpeg"
-         alt="Targeted Poverty Alleviation Map"
-         style="width:70%; border-radius:4px;"/>
-    <p style="font-size: 0.8em; color: #555; margin-top: 5px;">
-      Targeted Poverty Alleviation — County Coverage
-    </p>
+<div class="fig-wrap">
+    <figure class="fig">
+      <img src="/jpg/poverty_map.jpeg" alt="County coverage of Targeted Poverty Alleviation program" loading="lazy" decoding="async">
+      <figcaption>Targeted Poverty Alleviation — County Coverage</figcaption>
+    </figure>
   </div>
-</div>
 
 </div>
 
@@ -137,16 +153,13 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
     </p>
   </div>
 
-<div style="text-align: center; display: flex; gap: 10px; justify-content: center;">
-  <div style="flex: 1; display:flex; flex-direction:column; align-items:center;">
-    <img src="/jpg/sur_noe_emp.png"
-         alt="Survival: Nonemployer vs Employer Startups (CSP)"
-         style="width:70%; border-radius:4px;">
-    <p style="font-size: 0.8em; color: #555; margin-top: 5px;">
-      Survival: Nonemployer vs. Employer Startups
-    </p>
+  <div class="fig-wrap">
+    <figure class="fig">
+      <img src="/jpg/sur_noe_emp.png" alt="Survival: Nonemployer vs. Employer Startups (CSP)" loading="lazy" decoding="async">
+      <figcaption>Survival: Nonemployer vs. Employer Startups</figcaption>
+    </figure>
   </div>
-</div>
+
 
 </div>
 
