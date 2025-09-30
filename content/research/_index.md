@@ -138,7 +138,7 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
 </div>
 </div>
 
-4. <a href="#"
+4. <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/tale-two-startups-loss-and-gain-startups-us-economy-pandemic"
       style="color:#6E8798 !important; text-decoration: underline !important;">
       A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic
     </a>  
