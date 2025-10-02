@@ -166,18 +166,17 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
     <figcaption>Survival: Nonemployer vs. Employer Startups</figcaption>
   </figure>
 </div>
-
-
 </div>
 
-5. Local Credit Supply Shocks Discourage Startups from Loan Applications 
+5. Local Credit Supply Shocks Discourage Startups from Loan Applications  
 <span style="color: #0f172a;">
-_With <a href="https://www.unr.edu/business/faculty-and-staff/flanigan-rachel">Rachel M. Flanigan</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_</span> 
-<span style="font-size: 0.9em;">(Reject-and-Resubmit at <em>Journal of Banking &amp; Finance</em>)</span>  
+  _With <a href="https://www.unr.edu/business/faculty-and-staff/flanigan-rachel">Rachel M. Flanigan</a> and 
+  <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
+</span>  
+<span style="font-size: 0.9em;">_Reject-and-Resubmit at <em>Journal of Banking &amp; Finance</em>_</span>  
 {{< collapse summary="Abstract">}}  
-Are entrepreneurs discouraged from applying for bank loans during a credit crunch? We study discouraged borrowing, loan applications and loan approvals among young firms using the Kauffman Firm Survey, a cohort study of U.S. startups founded in 2004 and followed through the Financial Crisis of 2008-09 until 2012. Using an instrumental variables approach, we estimate the causal effect of county-level credit supply on young firms’ access to bank loans. The results indicate that a large segment of startups is discouraged from applying for loans following a local credit supply shock, controlling for the firms’ credit risk scores. We also document that these adverse effects of credit supply shocks on the financing of startups are obscured when only loan application or approval rates are considered. 
+      Are entrepreneurs discouraged from applying for bank loans during a credit crunch? We study discouraged borrowing, loan applications, and loan approvals among young firms using the Kauffman Firm Survey, a cohort study of U.S. startups founded in 2004 and followed through the Financial Crisis of 2008–09 until 2012. Using an instrumental-variables approach, we estimate the causal effect of county-level credit supply on young firms’ access to bank loans. The results indicate that a large segment of startups is discouraged from applying for loans following a local credit-supply shock, controlling for the firms’ credit-risk scores. We also document that these adverse effects of credit-supply shocks on the financing of startups are obscured when only loan-application or approval rates are considered.
 {{< /collapse >}}  
-  </div>
 
 6. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" 
       style="color:#6E8798 !important; text-decoration: underline !important;">
@@ -189,6 +188,7 @@ Risky health behaviors, such as smoking and alcohol abuse, not only lead to prev
 {{< /collapse >}}  
 
 <div style="display: none;">
+
 7. The Effect of the Kansas Tax Reform on Self-Employment Hours Worked  
 <span style="color: #0f172a;">
 _With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, 
@@ -219,9 +219,9 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
 </span>  
 <span style="font-size: 0.9em;">_(Presented at 117th NTA Annual Conference on Taxation 2024)_</span>  
 
-1. AI exposure and investor reactions to the 2025 Trump tariffs
+2. AI Exposure and Investor Reactions to the 2025 Trump Tariffs  
 <span style="color: #0f172a;">
-_With <a href="https://www.kent.edu/business/kun-liu-phd">Kun Liu</a>_
+  _With <a href="https://www.kent.edu/business/kun-liu-phd">Kun Liu</a>_
 </span>  
 
 
