@@ -20,6 +20,9 @@ social:
   - icon: linkedin
     iconPack: fab
     url: https://www.linkedin.com/in/ke-lyu-3bb4b216b/
+  - icon: scroll
+    iconPack: fas
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=7647635
 weight: 1
 widget:
   handler: about
