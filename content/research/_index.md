@@ -76,7 +76,7 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
 
 2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559"
       style="color:#6E8798 !important; text-decoration: underline !important;">
-      The Effects of Local Taxes and Incentives on Entrepreneurship: Evidence from the Universe of U.S. Startups
+      Taxes, Incentives and Entrepreneurship: Evidence from the Universe of U.S. Startups
     </a>  
 <span style="color: #0f172a;">
 _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>, 
@@ -91,7 +91,7 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 
   <div style="font-size: 0.95em; line-height: 1.5; color: #555;">
     <p><strong>Abstract:</strong><br>
-    This paper examines how local tax burdens and fiscal incentives shape entrepreneurship across the United States. Leveraging the Panel Database on Incentives and Taxes (PDIT), which combines detailed information on state and local tax regimes with the universe of U.S. startups, we estimate the effects of overall tax levels and targeted incentives on employer firm formation. Our findings show that higher total tax burdens reduce startup activity, while well-designed incentives—such as income tax credits and abatements—can partially offset these negative effects. These results highlight the importance of regional fiscal policy as a key determinant of entrepreneurial dynamics.
+    Governments spend billions of dollars each year on tax cuts and incentives targeted at businesses, but are these tax policies effective? This study provides the first causal evidence on how a comprehensive set of local taxes and incentives influences startup activity and outcomes. Leveraging new restricted-access administrative panel data on the universe of U.S. startups, we employ difference-in-differences designs exploiting large policy changes. Key findings include: (1) Tax increases significantly reduce startup numbers and employment; tax cuts have nearly symmetric positive effects. (2) Corporate taxes have the most robust impact on startup activity. (3) Enacted incentives stimulate startup formation and reduce exits (notably R&D tax credits); this stimulus is asymmetric, not equally reversed by incentive cuts. We do not find evidence that startups relocate to different states as state policies change, implying responses in total numbers of startups and corresponding broader welfare effects.
     </p>
   </div>
 
