@@ -113,9 +113,8 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 <div class="news-item" style="background-color:#72acef;">
   <em>06/27/2025–06/29/2025</em> - Presented our paper, <em>"The Effect of Policy on Entrepreneurship: Evidence from the Universe of U.S. Startups"</em>, at the 
   <a href="https://www.sole-jole.org/upcoming-meeting">6th World Labor Conference</a>.
-</div>
 
-<div class="news-item" style="background-color:#4f91e5;">
+<div class="news-item" style="background-color:#72acef;">
   <em>06/04/2025–06/07/2025</em> - Presented our paper, <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, at the
   <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/">45th Babson College Entrepreneurship Research Conference (BCERC)</a>.
 </div>
