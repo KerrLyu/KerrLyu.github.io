@@ -145,10 +145,10 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
 <span style="color: #0f172a;">
 _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
 </span>  
-<span style="font-size: 0.9em;">
-*IZA Discussion Paper No. 18160, CESifo Working Paper No. 12163*
+<span style="font-size:0.9em;">
+*IZA Discussion Paper No. 18160, CESifo Working Paper No. 12163*  
 *Under Review*
-</span>  
+</span>
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
 
   <div style="font-size: 0.95em; line-height: 1.5; color: #555;">
