@@ -46,7 +46,8 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
 </span>  
 <span style="font-size: 0.9em;">
 *IZA Discussion Paper No. 18101*  
-*Under Review; Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*
+*Under Review; Presented at WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024*  
+*Second Prize, Smart Economic Planning and Industrial Policy Conference 2025*
 </span>  
 
 <style>
