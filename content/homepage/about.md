@@ -50,7 +50,7 @@ widget:
 
 I am a sixth-year Ph.D. candidate in the Department of Economics at the University of Nevada, Reno (UNR), **currently on the job market for the 2025–2026 academic year**. 
 
-My research fields are Labor Economics, Economics of Entrepreneurship, Public Economics, and Health Economics. Broadly, my research examines how public policies and individual factors shape entrepreneurial activity, particularly among “fragile” or early-stage ventures such as solo self-employment, nonemployer firms, and unincorporated businesses. Two key questions drive my research: 
+My research fields are **Labor Economics**, **Economics of Entrepreneurship**, **Public Economics**, and **Health Economics**. Broadly, my research examines how public policies and individual factors shape entrepreneurial activity, particularly among “fragile” or early-stage ventures such as solo self-employment, nonemployer firms, and unincorporated businesses. Two key questions drive my research: 
 
 ❓What drives self-employment? Is it primarily dominated and driven by opportunity or by necessity in both high- and middle-income countries?
 
