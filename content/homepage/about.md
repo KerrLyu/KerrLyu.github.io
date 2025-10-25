@@ -103,7 +103,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
   </div>
   <div style="margin-top:4px;">
     <em>12/05/2025</em> — The same paper has also been accepted by the
-    <a href="#">NBER Place-Based Policies and Entrepreneurship Conference</a>.
+    <a href="https://www-nber-org.unr.idm.oclc.org/conferences/place-based-policies-and-entrepreneurship-fall-2025">NBER Place-Based Policies and Entrepreneurship Conference</a>.
   </div>
 </div>
 
