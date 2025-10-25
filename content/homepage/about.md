@@ -97,20 +97,21 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 </div>
 
 <div class="news-item" style="background-color:#d0e7fc;">
-  <em>10/24/2025</em> - Our paper, <em>"Taxes, Incentives and Entrepreneurship:<br>Evidence from the Universe of U.S. Startups"</em>, will be presented at the
-  <a href="https://www.nber.org/conferences/economic-analysis-business-taxation-fall-2025">NBER Economic Analysis of Business Taxation Workshop</a>.
+  <div>
+    <em>10/24/2025</em> — Our paper, <em>"Taxes, Incentives and Entrepreneurship:<br>Evidence from the Universe of U.S. Startups"</em>, will be presented at the
+    <a href="https://www.nber.org/conferences/economic-analysis-of-business-taxation-fall-2025">NBER Economic Analysis of Business Taxation Workshop</a>.
+  </div>
+  <div style="margin-top:4px;">
+    <em>12/05/2025</em> — The same paper has also been accepted by the
+    <a href="#">NBER Place-Based Policies and Entrepreneurship Conference</a>.
+  </div>
 </div>
 
 <div class="news-item" style="background-color:#aad1f9;">
-  <em>10/18/2025</em> - Our paper, <em>"The Effects of Government Policies on Entrepreneurship: Evidence from Panel Data on the Universe of U.S. Startups"</em>, has been accepted for presentation at the
-  <a href="https://sites.wustl.edu/egsc/">20th Economics Graduate Student Conference at Washington University in St. Louis</a>.
-</div>
-
-<div class="news-item" style="background-color:#8fc1f6;">
   <em>07/11/2025–07/17/2025</em> - Participated in the <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025">2025 NBER Innovation Research Boot Camp</a>.
 </div>
 
-<div class="news-item" style="background-color:#72acef;">
+<div class="news-item" style="background-color:#8fc1f6;">
   <em>06/04/2025–06/07/2025</em> - Presented our paper, <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, at the
   <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/">45th Babson College Entrepreneurship Research Conference (BCERC)</a>.
 </div>
