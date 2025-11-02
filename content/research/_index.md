@@ -226,10 +226,12 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
   _With <a href="https://www.kent.edu/business/kun-liu-phd">Kun Liu</a>_
 </span>  
 
-
-<div style="display: none;">
-2. <span style="color: #6E8798;"><strong>Online Gambling</strong></span>  
-<span style="color: #0f172a;">_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, <a href="https://www.unr.edu/business/faculty-and-staff/nichols-mark">Mark Nichols</a>, and <a href="https://www.uah.edu/business/faculty-staff/chaehyun-pyun">Chaehyun Pyun</a>_</span>
-  </div>
+3. The Impact of Green Finance on the Efficiency of Corporate Green Innovation: A Two-Stage Value Chain Perspective  
+<span style="color: #0f172a;">
+  _With <a href="https://scholar.google.com/citations?hl=en&user=N8cglcgAAAAJ">Xiuli Liu</a>, 
+  Jing Cui, 
+  Jun Shen, 
+  and Qinqin Shi_
+</span>  
 
 
