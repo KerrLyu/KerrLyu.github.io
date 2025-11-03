@@ -84,7 +84,7 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>,
 and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_
 </span>  
 <span style="font-size: 0.9em;">
-*Presented at NBER Economic Analysis of Business Taxation Workshop 2025; 20th EGSC (WashU) 2025; WEFI 2025; 6th SOLE–EALE–AASLE World Labor Conference 2025; 100th WEAI 2025; 5th UCLA Anderson Price Research Conference 2025*
+*Presented at NBER Place-based Entrepreneurship Conference 2025, NBER Economic Analysis of Business Taxation Workshop 2025; 20th EGSC (WashU) 2025; WEFI 2025; 6th SOLE–EALE–AASLE World Labor Conference 2025; 100th WEAI 2025; 5th UCLA Anderson Price Research Conference 2025*
 </span> 
 
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
