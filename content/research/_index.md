@@ -174,41 +174,39 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
   _With <a href="https://www.unr.edu/business/faculty-and-staff/flanigan-rachel">Rachel M. Flanigan</a> and 
   <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
 </span>  
-<span style="font-size: 0.9em;">_Reject-and-Resubmit at <em>Journal of Banking &amp; Finance</em>_</span>  
-{{< collapse summary="Abstract">}}  
-Are entrepreneurs discouraged from applying for bank loans during a credit crunch? We study discouraged borrowing, loan applications, and loan approvals among young firms using the Kauffman Firm Survey, a cohort study of U.S. startups founded in 2004 and followed through the Financial Crisis of 2008–09 until 2012. Using an instrumental-variables approach, we estimate the causal effect of county-level credit supply on young firms’ access to bank loans. The results indicate that a large segment of startups is discouraged from applying for loans following a local credit-supply shock, controlling for the firms’ credit-risk scores. We also document that these adverse effects of credit-supply shocks on the financing of startups are obscured when only loan-application or approval rates are considered.
-{{< /collapse >}}  
+<span style="font-size: 0.9em;">_Reject-and-Resubmit at <em>Journal of Banking &amp; Finance</em>_</span>
 
-6. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" 
+<div class="responsive-grid" style="display: grid; grid-template-columns: 1fr; gap: 20px; align-items: start; margin-top: 10px;">
+
+  <div style="font-size: 0.95em; line-height: 1.5; color: #555;">
+    <p><strong>Abstract:</strong><br>
+      Are entrepreneurs discouraged from applying for bank loans during a credit crunch? We study discouraged borrowing, loan applications, and loan approvals among young firms using the Kauffman Firm Survey, a cohort study of U.S. startups founded in 2004 and followed through the Financial Crisis of 2008–09 until 2012. Using an instrumental-variables approach, we estimate the causal effect of county-level credit supply on young firms’ access to bank loans. The results indicate that a large segment of startups is discouraged from applying for loans following a local credit-supply shock, controlling for the firms’ credit-risk scores. We also document that these adverse effects of credit-supply shocks on the financing of startups are obscured when only loan-application or approval rates are considered.
+    </p>
+  </div>
+
+</div>
+
+6. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876"
       style="color:#6E8798 !important; text-decoration: underline !important;">
       From Vice to Venture: Evaluating the Impact of Smoking and Drinking on Self-employment in China
     </a>  
-<span style="font-size: 0.9em;">_Under Review_</span>  
-{{< collapse summary="Abstract">}}  
-Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the 'individual channel,' which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the 'group addiction channel,' which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.  
-{{< /collapse >}}  
-
-<div style="display: none;">
-
-7. The Effect of the Kansas Tax Reform on Self-Employment Hours Worked  
 <span style="color: #0f172a;">
-_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, 
-<a href="https://www.uah.edu/business/faculty-staff/hieu-pham">Hieu Pham</a>, 
-and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingjing Yang</a>_
+  _Solo-authored paper_
 </span>  
-<span style="font-size: 0.9em;">_(Under Review; Presented at 117th NTA Annual Conference on Taxation 2024)_</span>  
-{{< collapse summary="Abstract">}}  
-We examine the effect of the 2012 Kansas income tax reform on the weekly hours worked by self-employed individuals. Using a difference-in-differences method with data from the Current Population Survey and American Community Survey, we find that the reform led to a decline in weekly hours worked among self-employed Kansas residents relative to neighboring states. This outcome contrasts with the reform’s goal of promoting business activity. Reduced opportunities for risk-sharing and increased tax avoidance may be the factors that explain why lower taxes did not translate into greater entrepreneurial effort. These findings provide new evidence on the intensive margin impacts of tax policy on entrepreneurship.  
-{{< /collapse >}}  
+<span style="font-size: 0.9em;">
+  _Major Revision at <em>Journal of Entrepreneurship in Emerging Economies</em>_
+</span>
+
+<div class="responsive-grid" style="display: grid; grid-template-columns: 1fr; gap: 20px; align-items: start; margin-top: 10px;">
+
+  <div style="font-size: 0.95em; line-height: 1.5; color: #555;">
+    <p><strong>Abstract:</strong><br>
+      Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the “individual channel,” which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the “group addiction channel,” which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.
+    </p>
   </div>
 
-<div style="display: none;">
-8. The Impact of Green Finance on the Efficiency of Corporate Green Innovation: A Two-Stage Value Chain Perspective  
-<span style="color: #0f172a;">
-_With <a href="https://scholar.google.com/citations?user=N8cglcgAAAAJ&hl=en&oi=ao">Xiuli Liu</a>, Jing Cui, Jun Shen, and Qinqin Shi_
-</span>  
-<span style="font-size: 0.9em;">_(Under Review)_</span>
-  </div>
+</div>
+
 
 ## Work in Progress
 
