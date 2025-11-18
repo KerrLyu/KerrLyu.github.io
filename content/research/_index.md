@@ -132,7 +132,7 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
          alt="County coverage of Targeted Poverty Alleviation program"
          loading="lazy"
          decoding="async"
-         style="width:80%; height:auto;">
+         style="width:100%; height:auto;">
     <figcaption>Targeted Poverty Alleviation — County Coverage</figcaption>
   </figure>
 </div>
