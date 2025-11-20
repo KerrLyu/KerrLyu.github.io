@@ -216,7 +216,7 @@ _With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>,
 <a href="https://www.uah.edu/business/faculty-staff/hieu-pham">Hieu Pham</a>, 
 and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingjing Yang</a>_
 </span>  
-<span style="font-size: 0.9em;">_(Presented at 117th NTA Annual Conference on Taxation 2024)_</span>  
+<span style="font-size: 0.9em;">_Presented at 117th NTA Annual Conference on Taxation 2024_</span>  
 
 2. AI Exposure and Investor Reactions to the 2025 Trump Tariffs  
 <span style="color: #0f172a;">
