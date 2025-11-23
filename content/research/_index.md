@@ -45,7 +45,7 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
 </span>  
 <span style="font-size: 0.9em;">
 *IZA Discussion Paper No. 18101*  
-*Under Review; Presented at Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse)<span style="font-size:0.7em; vertical-align: super;">✚</span>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024*  
+*Under Review; Presented at GLO Conference Job Market Sessions 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024*  
 *Second Prize, Smart Economic Planning and Industrial Policy Conference 2025*
 <br><span style="font-size:0.75em; color:#6E8798;">✚ coauthor presentation</span>
 </span>  
@@ -85,7 +85,7 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>,
 and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_
 </span>  
 <span style="font-size: 0.9em;">
-*Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, NBER Economic Analysis of Business Taxation Workshop 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, 5th UCLA Anderson Price Research Conference 2025, Goergia State University 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, University of Michigan 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, University of Nevada, Reno 2025*
+*Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, 5th UCLA Anderson Price Research Conference 2025, Goergia State University 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, University of Michigan 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, University of Nevada, Reno 2025*
 <br>
 <span style="font-size:0.75em; color:#6E8798;">✚ coauthor presentation</span>
 </span> 
