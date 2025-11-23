@@ -118,7 +118,7 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 <span style="color: #0f172a;">
 _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
 <span style="font-size: 0.9em;">
-*Under Review; Presented at WEAI 100th Annual Meeting 2025*
+*Under Review; Presented at 100th WEAI 2025*
 </span> 
 
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
