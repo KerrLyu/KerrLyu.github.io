@@ -97,7 +97,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
     <a href="https://www-nber-org.unr.idm.oclc.org/conferences/place-based-policies-and-entrepreneurship-fall-2025">NBER Place-Based Policies and Entrepreneurship Conference</a>.
   </div>
   <div>
-    <em>10/24/2025</em> — The same paper has also been accepted by the
+    <em>10/24/2025</em> — The same paper has also been presented at the
     <a href="https://www.nber.org/conferences/economic-analysis-business-taxation-fall-2025">NBER Economic Analysis of Business Taxation Workshop</a>.
   </div>
   
