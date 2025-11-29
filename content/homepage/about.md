@@ -108,7 +108,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
     <em>12/03/2025-12/05/2025</em> — Our paper, 
     <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the
     <a href="https://glabor.org/program-details-glo-bonn-2025/">
-      2025 GLO Conference Job Market Sessions
+      Global GLO-JOPE Conference
     </a>.
   </div>
   <div>
