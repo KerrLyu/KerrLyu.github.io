@@ -223,8 +223,10 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
 
 2. AI Exposure and Investor Reactions to the 2025 Trump Tariffs  
 <span style="color: #0f172a;">
-  _With <a href="https://www.kent.edu/business/kun-liu-phd">Kun Liu</a>_
-</span>  
+  _With <a href="https://www.kent.edu/business/kun-liu-phd">Kun Liu</a>, 
+  <a href="https://finance.jxufe.edu.cn/news-show-4255.html">Shaojie Lai</a>, 
+  <a href="https://www.kent.edu/business/profile/chaojiang-wu-phd">Chaojiang Wu</a>_
+</span>
 
 3. The Impact of Green Finance on the Efficiency of Corporate Green Innovation: A Two-Stage Value Chain Perspective  
 <span style="color: #0f172a;">
