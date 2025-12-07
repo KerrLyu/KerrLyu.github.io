@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ke (Kerr) Lyu</title>
-    <link>http://localhost:1313/</link>
+    <link>https://KerrLyu.github.io/</link>
     <description>Recent content on Ke (Kerr) Lyu</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://KerrLyu.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Credit Market Auction Game</title>
-      <link>http://localhost:1313/teaching/credit_market_auction/</link>
+      <link>https://KerrLyu.github.io/teaching/credit_market_auction/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/credit_market_auction/</guid>
+      <guid>https://KerrLyu.github.io/teaching/credit_market_auction/</guid>
       <description>&lt;p&gt;This game is designed to help freshmen university students understand the credit market and&#xA;game theory by engaging in a competitive auction for loan opportunities. Participants will take on the roles&#xA;of lenders, attempting to maximize their returns while considering their competitors&amp;rsquo; strategies.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Job Market Bingo Game</title>
-      <link>http://localhost:1313/teaching/job_market_bingo/</link>
+      <link>https://KerrLyu.github.io/teaching/job_market_bingo/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/job_market_bingo/</guid>
+      <guid>https://KerrLyu.github.io/teaching/job_market_bingo/</guid>
       <description>&lt;p&gt;To help students understand the dynamics of employment and unemployment in the labor market through&#xA;a fun, interactive game that involves matching job-related factors with their consequences and discussing&#xA;their implications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Supply and Demand Game</title>
-      <link>http://localhost:1313/teaching/supply_and_demand/</link>
+      <link>https://KerrLyu.github.io/teaching/supply_and_demand/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/supply_and_demand/</guid>
+      <guid>https://KerrLyu.github.io/teaching/supply_and_demand/</guid>
       <description>&lt;p&gt;In this game, students will take on the role of buyers and sellers in a market for a particular product. The&#xA;goal of the game is to find the equilibrium price and quantity in the market by adjusting their buying and&#xA;selling behavior, taking into account their costs and available money.&lt;/p&gt;</description>
     </item>
     <item>
       <title>GRAD 704 Reflections</title>
-      <link>http://localhost:1313/teaching/grad-704/</link>
+      <link>https://KerrLyu.github.io/teaching/grad-704/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/grad-704/</guid>
+      <guid>https://KerrLyu.github.io/teaching/grad-704/</guid>
       <description>&lt;h2 id=&#34;reflection-inclusive-design-in-my-classroom&#34;&gt;Reflection: Inclusive Design in My Classroom&lt;/h2&gt;&#xA;&lt;p&gt;Inclusive design has reshaped the way I approach accessibility in teaching. Previously, my understanding of inclusivity was limited to making accommodations for students with formal documentation. After reflecting on the principles of inclusive course design, I now recognize the importance of proactively creating learning environments that are accessible, flexible, and equitable for all students—regardless of ability, language background, or learning style.&lt;/p&gt;&#xA;&lt;p&gt;In my own course materials, I applied several strategies: increasing font size and color contrast on lecture slides, restructuring headers for screen reader compatibility, and embedding captions and transcripts into video content. These changes benefited all learners, not just those with documented needs. Students have expressed appreciation for having materials they could revisit at their own pace, especially in multilingual or fast-paced classrooms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching Philosophy</title>
-      <link>http://localhost:1313/teaching/teaching-philosophy/</link>
+      <link>https://KerrLyu.github.io/teaching/teaching-philosophy/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/teaching-philosophy/</guid>
+      <guid>https://KerrLyu.github.io/teaching/teaching-philosophy/</guid>
       <description>&lt;h2 id=&#34;teaching-philosophy&#34;&gt;Teaching Philosophy&lt;/h2&gt;&#xA;&lt;p&gt;As an economics educator, I see teaching as a collaborative process of discovery, where students learn to think critically, solve problems with data, and engage with real-world policy questions. I leverage &lt;strong&gt;technology intentionally&lt;/strong&gt; to enhance this process—transforming lectures into interactive spaces and assignments into hands-on learning experiences.&lt;/p&gt;&#xA;&lt;p&gt;I regularly integrate digital platforms to foster &lt;strong&gt;active participation&lt;/strong&gt;. Tools like &lt;strong&gt;Mentimeter&lt;/strong&gt; and &lt;strong&gt;Top Hat&lt;/strong&gt; allow for real-time polling, anonymous Q&amp;amp;A, and live problem-solving. During lessons on inflation or unemployment, I use these tools to pose questions such as &lt;em&gt;“Which shock shifts the Phillips Curve?”&lt;/em&gt; or &lt;em&gt;“How would you classify today’s labor market?”&lt;/em&gt;—stimulating immediate reflection and peer comparison. These real-time checks help me adjust pacing and ensure that no one falls behind.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching with Technology - Mentimeter</title>
-      <link>http://localhost:1313/teaching/tech-example/</link>
+      <link>https://KerrLyu.github.io/teaching/tech-example/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/tech-example/</guid>
+      <guid>https://KerrLyu.github.io/teaching/tech-example/</guid>
       <description>&lt;h2 id=&#34;teaching-with-technology-real-time-polling-with-mentimeter&#34;&gt;Teaching with Technology: Real-Time Polling with Mentimeter&lt;/h2&gt;&#xA;&lt;p&gt;In my &lt;em&gt;Principles of Macroeconomics&lt;/em&gt; class, I integrated &lt;strong&gt;Mentimeter&lt;/strong&gt; across the semester to build a more interactive and engaging classroom experience. This three-part approach included a pre-course survey, real-time knowledge checks, and reflection activities through word clouds.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;part-1-pre-class-survey-to-understand-student-preferences&#34;&gt;Part 1: Pre-class Survey to Understand Student Preferences&lt;/h3&gt;&#xA;&lt;p&gt;Before the course began, I surveyed students on their preferred learning formats and macroeconomic interests. This allowed me to adjust the structure and content of the course to better match their preferences.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Teaching with Technology – Zoom and Excel</title>
-      <link>http://localhost:1313/teaching/tech-example2/</link>
+      <link>https://KerrLyu.github.io/teaching/tech-example2/</link>
       <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/teaching/tech-example2/</guid>
+      <guid>https://KerrLyu.github.io/teaching/tech-example2/</guid>
       <description>&lt;h2 id=&#34;teaching-with-technology-zoom-based-modeling-and-forecasting-with-real-us-data&#34;&gt;Teaching with Technology: Zoom-Based Modeling and Forecasting with Real U.S. Data&lt;/h2&gt;&#xA;&lt;p&gt;In Intermediate Macroeconomics, I designed a Zoom-based workshop where students learned how to model, interpret, and forecast U.S. economic performance using &lt;strong&gt;real-world macroeconomic indicators&lt;/strong&gt;. Beyond academic learning, this experience gave students &lt;strong&gt;hands-on skills with Excel and data analysis&lt;/strong&gt;—skills that are equally valuable in graduate research and in professional roles such as consulting, finance, and policy analysis.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-bridging-theory-and-application&#34;&gt;1. Bridging Theory and Application&lt;/h3&gt;&#xA;&lt;p&gt;Economic growth theory can feel abstract. To make it tangible, I created a session that directly connected models with real data:&lt;/p&gt;</description>
     </item>
   </channel>
