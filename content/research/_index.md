@@ -45,13 +45,39 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
 </span>  
 <span style="font-size: 0.9em;">
 IZA Discussion Paper No. 18101<br>
-Major Revision at <em>Labour Economics</em><br>
+<span class="status-pill">
+  <span class="status-pill-dot"></span>
+  Major Revision at <em>Labour Economics</em>
+</span><br>
 *Presented at GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024*  
 *Second Prize, Smart Economic Planning and Industrial Policy Conference 2025*
 <br><span style="font-size:0.75em; color:#6E8798;">✚ coauthor presentation</span>
 </span>  
 
 <style>
+  .status-pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 2px 10px;
+    border-radius: 999px;
+    background-color: #E5EEF5; /* 浅底色，可改 */
+    color: #0f172a;
+    font-size: 0.8em;
+    font-weight: 600;
+    border: 1px solid #6E8798;
+    margin-top: 4px;
+    margin-bottom: 4px;
+  }
+
+  .status-pill-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 999px;
+    background-color: #6E8798;
+    flex-shrink: 0;
+  }
+
   @media (max-width: 768px) {
     .responsive-grid {
       grid-template-columns: 1fr !important;
@@ -81,7 +107,12 @@ Major Revision at <em>Labour Economics</em><br>
   _With <a href="https://www.unr.edu/business/faculty-and-staff/flanigan-rachel">Rachel M. Flanigan</a> and 
   <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
 </span>  
-<span style="font-size: 0.9em;">_Reject-and-Resubmit at <em>Journal of Banking &amp; Finance</em>_</span>
+<span style="font-size: 0.9em;">
+  <span class="status-pill">
+    <span class="status-pill-dot"></span>
+    Reject &amp; Resubmit at <em>Journal of Banking &amp; Finance</em>
+  </span>
+</span>
 
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr; gap: 20px; align-items: start; margin-top: 10px;">
 
@@ -198,7 +229,10 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
   _Solo-authored paper_
 </span>  
 <span style="font-size: 0.9em;">
-  _Major Revision at <em>Journal of Entrepreneurship in Emerging Economies</em>_
+  <span class="status-pill">
+    <span class="status-pill-dot"></span>
+    Major Revision at <em>Journal of Entrepreneurship in Emerging Economies</em>
+  </span>
 </span>
 
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr; gap: 20px; align-items: start; margin-top: 10px;">
