@@ -160,37 +160,7 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 
 </div>
 
-4. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480"
-      style="color:#6E8798 !important; text-decoration: underline !important;">
-      Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China
-    </a>  
-<span style="color: #0f172a;">
-_With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
-<span style="font-size: 0.9em;">
-*Under Review; Presented at 100th WEAI 2025*
-</span> 
-
-<div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
-
-  <div style="font-size: 0.95em; line-height: 1.5; color: #555;">
-    <p><strong>Abstract:</strong><br>
-      Unincorporated businesses serve as economic lifelines for low-income households when formal jobs are scarce. This study provides the first causal evidence that a large-scale anti-poverty program can promote unincorporated entrepreneurship. We focus on China’s Targeted Poverty Alleviation program, a landmark initiative combining precision targeting with multi-sector interventions. Using a difference-in-differences approach, we examine county-level business registrations (2010–2022) and household survey data (2010–2020). The program significantly increased unincorporated business entry by 6.9% at the county level and raised household business ownership by 2.75 percentage points. Three mechanisms drive these gains: spillover from large enterprises, expanded access to credit, and infrastructure improvements. Effects concentrate in counties with stable leadership and moderate corruption and are strongest in agriculture and among poor households, showing that well-governed, targeted interventions can redirect business ownership toward disadvantaged groups. Overall, our findings offer lessons for other low- and middle-income economies seeking to empower marginalized populations through small-scale enterprise.
-    </p>
-  </div>
-
-<div class="fig-wrap">
-  <figure class="fig">
-    <img src="/jpg/poverty_map.jpeg"
-         alt="County coverage of Targeted Poverty Alleviation program"
-         loading="lazy"
-         decoding="async"
-         style="width:100%; height:auto;">
-    <figcaption>Targeted Poverty Alleviation — County Coverage</figcaption>
-  </figure>
-</div>
-</div>
-
-5. <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/tale-two-startups-loss-and-gain-startups-us-economy-pandemic"
+4. <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/tale-two-startups-loss-and-gain-startups-us-economy-pandemic"
       style="color:#6E8798 !important; text-decoration: underline !important;">
       A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic
     </a>  
@@ -221,6 +191,36 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
          decoding="async"
          style="width:80%; height:auto;">
     <figcaption>Survival: Nonemployer vs. Employer Startups</figcaption>
+  </figure>
+</div>
+</div>
+
+5. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480"
+      style="color:#6E8798 !important; text-decoration: underline !important;">
+      Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China
+    </a>  
+<span style="color: #0f172a;">
+_With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
+<span style="font-size: 0.9em;">
+*Under Review; Presented at 100th WEAI 2025*
+</span> 
+
+<div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
+
+  <div style="font-size: 0.95em; line-height: 1.5; color: #555;">
+    <p><strong>Abstract:</strong><br>
+      Unincorporated businesses serve as economic lifelines for low-income households when formal jobs are scarce. This study provides the first causal evidence that a large-scale anti-poverty program can promote unincorporated entrepreneurship. We focus on China’s Targeted Poverty Alleviation program, a landmark initiative combining precision targeting with multi-sector interventions. Using a difference-in-differences approach, we examine county-level business registrations (2010–2022) and household survey data (2010–2020). The program significantly increased unincorporated business entry by 6.9% at the county level and raised household business ownership by 2.75 percentage points. Three mechanisms drive these gains: spillover from large enterprises, expanded access to credit, and infrastructure improvements. Effects concentrate in counties with stable leadership and moderate corruption and are strongest in agriculture and among poor households, showing that well-governed, targeted interventions can redirect business ownership toward disadvantaged groups. Overall, our findings offer lessons for other low- and middle-income economies seeking to empower marginalized populations through small-scale enterprise.
+    </p>
+  </div>
+
+<div class="fig-wrap">
+  <figure class="fig">
+    <img src="/jpg/poverty_map.jpeg"
+         alt="County coverage of Targeted Poverty Alleviation program"
+         loading="lazy"
+         decoding="async"
+         style="width:100%; height:auto;">
+    <figcaption>Targeted Poverty Alleviation — County Coverage</figcaption>
   </figure>
 </div>
 </div>
