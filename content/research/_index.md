@@ -267,15 +267,7 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
   <a href="https://www.kent.edu/business/profile/chaojiang-wu-phd">Chaojiang Wu</a>_
 </span>
 
-3. The Impact of Green Finance on the Efficiency of Corporate Green Innovation: A Two-Stage Value Chain Perspective  
-<span style="color: #0f172a;">
-  _With <a href="https://scholar.google.com/citations?hl=en&user=N8cglcgAAAAJ">Xiuli Liu</a>, 
-  Jing Cui, 
-  Jun Shen, 
-  and Qinqin Shi_
-</span>  
-
-4. Ultra-Processed Food Exposure and CPI Pass-Through in Colombia  
+3. Ultra-Processed Food Exposure and CPI Pass-Through in Colombia  
 <span style="color: #0f172a;">
   _With Grey N. Anderson_
 </span>  
