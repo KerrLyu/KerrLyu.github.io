@@ -275,4 +275,7 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
   and Qinqin Shi_
 </span>  
 
-
+4. Ultra-Processed Food Exposure and CPI Pass-Through in Colombia  
+<span style="color: #0f172a;">
+  _With Grey N. Anderson_
+</span>  
