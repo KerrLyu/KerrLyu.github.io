@@ -47,7 +47,7 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
 IZA Discussion Paper No. 18101<br>
 <span class="status-pill">
   <span class="status-pill-dot"></span>
-  Major Revision at <em>Labour Economics</em>
+ Revise &amp; Resubmit  at <em>Labour Economics</em>
 </span><br>
 *Presented at GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024*  
 *Second Prize, Smart Economic Planning and Industrial Policy Conference 2025*
@@ -170,7 +170,7 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
 <span style="font-size:0.9em;">
 <span class="status-pill">
   <span class="status-pill-dot"></span>
-  Major Revision at <em>Small Business Economics</em>
+  Revise &amp; Resubmit at <em>Small Business Economics</em>
 </span><br>
 *IZA Discussion Paper No. 18160, CESifo Working Paper No. 12163*  
 *Under Review*
@@ -235,7 +235,7 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
 <span style="font-size: 0.9em;">
   <span class="status-pill">
     <span class="status-pill-dot"></span>
-    Major Revision at <em>Journal of Entrepreneurship in Emerging Economies</em>
+    Revise &amp; Resubmit at <em>Journal of Entrepreneurship in Emerging Economies</em>
   </span>
 </span>
 
