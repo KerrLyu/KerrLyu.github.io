@@ -173,7 +173,6 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
   Revise &amp; Resubmit at <em>Small Business Economics</em>
 </span><br>
 *IZA Discussion Paper No. 18160, CESifo Working Paper No. 12163*  
-*Under Review*
 </span>
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
 
@@ -225,7 +224,34 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
 </div>
 </div>
 
-6. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876"
+6. <a href="https://www.researchsquare.com/article/rs-7697929/v1"
+      style="color:#6E8798 !important; text-decoration: underline !important;">
+      The Effect of the Kansas Tax Reform on Self-Employment Hours Worked
+    </a>  
+<span style="color: #0f172a;">
+_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, 
+<a href="https://www.uah.edu/business/faculty-staff/hieu-pham">Hieu Pham</a>, 
+and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingjing Yang</a>_
+</span>  
+<span style="font-size: 0.9em;">
+  <span class="status-pill">
+    <span class="status-pill-dot"></span>
+    Revise &amp; Resubmit at <em>International Tax and Public Finance</em>
+  </span><br>
+  *Presented at 117th NTA Annual Conference on Taxation 2024*
+</span>
+
+<div class="responsive-grid" style="display: grid; grid-template-columns: 1fr; gap: 20px; align-items: start; margin-top: 10px;">
+
+  <div style="font-size: 0.95em; line-height: 1.5; color: #555;">
+    <p><strong>Abstract:</strong><br>
+      In 2012, Kansas exempted pass-through business income from the state individual income tax. We examine the reform’s causal effect on entrepreneurial labor supply using a difference-indifferences design with Current Population Survey and American Community Survey microdata. The reform caused an immediate, negative, and statistically significant reduction in weekly hours among the self-employed, with the largest response for the unincorporated. The effect attenuates and does not persist. This outcome contrasts with the reform’s goal of promoting business activity. These findings provide new evidence on the intensive margin impacts of tax policy on entrepreneurship.
+    </p>
+  </div>
+
+</div>
+
+7. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876"
       style="color:#6E8798 !important; text-decoration: underline !important;">
       From Vice to Venture: Evaluating the Impact of Smoking and Drinking on Self-employment in China
     </a>  
@@ -252,22 +278,14 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
 
 ## Work in Progress
 
-1. The Effect of the Kansas Tax Reform on Self-Employment Hours Worked  
-<span style="color: #0f172a;">
-_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, 
-<a href="https://www.uah.edu/business/faculty-staff/hieu-pham">Hieu Pham</a>, 
-and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingjing Yang</a>_
-</span>  
-<span style="font-size: 0.9em;">_Presented at 117th NTA Annual Conference on Taxation 2024_</span>  
-
-2. AI Exposure and Investor Reactions to the 2025 Trump Tariffs  
+1. AI Exposure and Investor Reactions to the 2025 Trump Tariffs  
 <span style="color: #0f172a;">
   _With <a href="https://www.kent.edu/business/kun-liu-phd">Kun Liu</a>, 
   <a href="https://finance.jxufe.edu.cn/news-show-4255.html">Shaojie Lai</a>, 
   <a href="https://www.kent.edu/business/profile/chaojiang-wu-phd">Chaojiang Wu</a>_
 </span>
 
-3. Ultra-Processed Food Exposure and CPI Pass-Through in Colombia  
+2. Ultra-Processed Food Exposure and CPI Pass-Through in Colombia  
 <span style="color: #0f172a;">
   _With Grey N. Anderson_
 </span>  
