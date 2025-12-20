@@ -105,10 +105,10 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 
 <div class="news-item" style="background-color:#aad1f9;">
   <div>
-    <em>12/03/2025-12/05/2025</em> — Our paper, 
+    <em>05/01/2026-05/03/2026</em> — Our paper, 
     <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the
-    <a href="https://glabor.org/program-details-glo-bonn-2025/">
-      Global GLO-JOPE Conference
+    <a href="https://www.sole-jole.org/upcoming-meeting">
+      Society of Labor Economists' 29th Annual Meeting
     </a>.
   </div>
   <div>
