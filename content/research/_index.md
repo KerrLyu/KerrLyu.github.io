@@ -285,7 +285,14 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
   <a href="https://www.kent.edu/business/profile/chaojiang-wu-phd">Chaojiang Wu</a>_
 </span>
 
-2. Ultra-Processed Food Exposure and CPI Pass-Through in Colombia  
+2. Regulating Risk-Taking: Minimum Wages, Unemployment Benefits, and Startup Formation in the United States  
+<span style="color: #0f172a;">
+  _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>, 
+  <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>, 
+  <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_
+</span>
+
+3. Ultra-Processed Food Exposure and CPI Pass-Through in Colombia  
 <span style="color: #0f172a;">
   _With Grey N. Anderson_
 </span>  
