@@ -134,7 +134,7 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>,
 and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_
 </span>  
 <span style="font-size: 0.9em;">
-*Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, 5th UCLA Anderson Price Research Conference 2025, Goergia State University 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, University of Michigan 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, University of Nevada, Reno 2025*
+*Under Review; Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, 5th UCLA Anderson Price Research Conference 2025, Goergia State University 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, University of Michigan 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, University of Nevada, Reno 2025*
 <br>
 <span style="font-size:0.75em; color:#6E8798;">✚ coauthor presentation</span>
 </span> 
