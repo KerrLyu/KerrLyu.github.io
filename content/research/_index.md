@@ -25,6 +25,8 @@ title: Research
 
 1. <span style="color: #0f172a;"><strong>Lyu, K. (2023).</strong></span>  [<span style="color: #6E8798; text-decoration: underline;">Social Capital and Self-employment Dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), The Chinese Economy, 56:6, 459-485, 2023.
 
+2. <span style="color: #0f172a;"><strong>Fairlie, R., Fossen, F., Lyu, K. (forthcoming).</strong></span>  [<span style="color: #6E8798; text-decoration: underline;">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</span>](https://www.ifo.de/en/cesifo/publications/2025/working-paper/tale-two-startups-loss-and-gain-startups-us-economy-pandemic), <em>Small Business Economics</em> (forthcoming).
+
 <div style="display: none;">
 2. <span style="color: #0f172a;"><strong>Liu, X., Jia, X., Lyu, K. et al. (2024).</strong></span> 
 [<span style="color: #6E8798; text-decoration: underline;">The impact of low-carbon city pilot policy on urban energy transition...</span>](https://link.springer.com/article/10.1007/s40974-024-00316-w), Energy, Ecology and Environment, 1-20, 2024.
@@ -160,6 +162,7 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 
 </div>
 
+<div style="display: none;">
 4. <a href="https://www.ifo.de/en/cesifo/publications/2025/working-paper/tale-two-startups-loss-and-gain-startups-us-economy-pandemic"
       style="color:#6E8798 !important; text-decoration: underline !important;">
       A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic
@@ -193,8 +196,9 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
   </figure>
 </div>
 </div>
+</div>
 
-5. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480"
+4. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480"
       style="color:#6E8798 !important; text-decoration: underline !important;">
       Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China
     </a>  
@@ -224,7 +228,7 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
 </div>
 </div>
 
-6. <a href="https://www.researchsquare.com/article/rs-7697929/v1"
+5. <a href="https://www.researchsquare.com/article/rs-7697929/v1"
       style="color:#6E8798 !important; text-decoration: underline !important;">
       The Effect of the Kansas Tax Reform on Self-Employment Hours Worked
     </a>  
@@ -251,7 +255,7 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
 
 </div>
 
-7. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876"
+6. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876"
       style="color:#6E8798 !important; text-decoration: underline !important;">
       From Vice to Venture: Evaluating the Impact of Smoking and Drinking on Self-employment in China
     </a>  
