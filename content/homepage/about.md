@@ -92,6 +92,10 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 ## News Feed
 
 <div class="news-item" style="background-color:#d0e7fc;">
+  <em>01/16/2026</em> - Paper published in <em>Small Business Economics</em>: <a href="https://link.springer.com/article/10.1007/s11187-025-01171-7">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</a>.
+</div>
+
+<div class="news-item" style="background-color:#aad1f9;">
   <div style="margin-top:4px;">
     <em>12/05/2025</em> — Our paper, <em>"Taxes, Incentives and Entrepreneurship:<br>Evidence from the Universe of U.S. Startups"</em>, will be presented at the
     <a href="https://www-nber-org.unr.idm.oclc.org/conferences/place-based-policies-and-entrepreneurship-fall-2025">NBER Place-Based Policies and Entrepreneurship Conference</a>.
@@ -103,7 +107,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
   
 </div>
 
-<div class="news-item" style="background-color:#aad1f9;">
+<div class="news-item" style="background-color:#8fc1f6;">
   <div>
     <em>05/01/2026-05/03/2026</em> — Our paper, 
     <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the
@@ -119,6 +123,3 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
   </div>
 </div>
 
-<div class="news-item" style="background-color:#8fc1f6;">
-  <em>07/11/2025–07/17/2025</em> - Participated in the <a href="https://www.nber.org/conferences/innovation-research-boot-camp-summer-2025">2025 NBER Innovation Research Boot Camp</a>.
-</div>
