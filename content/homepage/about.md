@@ -92,7 +92,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
 ## News Feed
 
 <div class="news-item" style="background-color:#d0e7fc;">
-  <em>01/16/2026</em> - Paper published in <em>Small Business Economics</em>: <a href="https://link.springer.com/article/10.1007/s11187-025-01171-7">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</a>.
+  <em>01/16/2026</em> — Paper published in <em>Small Business Economics</em>: <a href="https://link.springer.com/article/10.1007/s11187-025-01171-7">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</a>.
 </div>
 
 <div class="news-item" style="background-color:#aad1f9;">
