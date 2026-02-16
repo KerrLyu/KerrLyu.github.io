@@ -53,7 +53,7 @@ IZA Discussion Paper No. 18101<br>
   <span class="status-pill-dot"></span>
  Revise &amp; Resubmit  at <em>Labour Economics</em>
 </span><br>
-*Presented at 29th SOLE Annual Meeting 2026, GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024*  
+*Presented at 29th SOLE Annual Meeting 2026, PhD-EVS 2026, GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<span style="font-size:0.7em; vertical-align: super;">✚</span>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024*  
 *Second Prize, Smart Economic Planning and Industrial Policy Conference 2025*
 <br><span style="font-size:0.75em; color:#6E8798;">✚ coauthor presentation</span>
 </span>  
