@@ -246,7 +246,9 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
     <span class="status-pill-dot"></span>
     Revise &amp; Resubmit at <em>International Tax and Public Finance</em>
   </span><br>
-  *Presented at 117th NTA Annual Conference on Taxation 2024*
+  *Presented at 117th NTA Annual Conference on Taxation 2024<span style="font-size:0.7em; vertical-align: super;">✚</span>*
+  <br>
+<span style="font-size:0.75em; color:#6E8798;">✚ coauthor presentation</span>
 </span>
 
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr; gap: 20px; align-items: start; margin-top: 10px;">
