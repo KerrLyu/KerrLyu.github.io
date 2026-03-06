@@ -207,7 +207,9 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
 <span style="color: #0f172a;">
 _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
 <span style="font-size: 0.9em;">
-*Under Review; Presented at CES NA Annual Conference 2026, 100th WEAI 2025*
+*Under Review; Presented at CES NA Annual Conference 2026<span style="font-size:0.7em; vertical-align: super;">✚</span>, 100th WEAI 2025*
+<br>
+<span style="font-size:0.75em; color:#6E8798;">✚ coauthor presentation</span>
 </span> 
 
 <div class="responsive-grid" style="display: grid; grid-template-columns: 1fr 450px; gap: 20px; align-items: start; margin-top: 10px;">
