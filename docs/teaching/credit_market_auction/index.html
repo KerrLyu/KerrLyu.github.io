@@ -12,7 +12,7 @@
 
 <meta name="google-site-verification" content="dpymyxYMLzClXP7y7t23MfdEGHLanDqQGgRr-q1e6TY" />
 <meta name="generator" content="Hugo Eureka 0.9.3" />
-<link rel="stylesheet" href="https://KerrLyu.github.io/css/eureka.min.d6de8815a2a562a699a7e9ef88a24bb4b976ed4281e36ef61a465ba15a86fae033525553e8305aed55044f9dc7029685.css">
+<link rel="stylesheet" href="https://KerrLyu.github.io/css/eureka.min.660d6de1dd03430d5ea22b21b9eecaab6442d254df184d1302a8d4ffa6d6577c5f654618a6dc493bfeaeefdd909f8a73.css">
 <script defer src="https://KerrLyu.github.io/js/eureka.min.fa9a6bf6d7a50bb635b4cca7d2ba5cf3dfb095ae3798773f1328f7950028b48c17d06276594e1b5f244a25a6c969a705.js"></script>
 
 
@@ -272,47 +272,6 @@ of lenders, attempting to maximize their returns while considering their competi
   
 
   
-    <div class="me-6 my-2">
-      <i class="fas fa-eye me-1"></i>
-      <span id="goatcounter-visit-count">Loading views...</span>
-    </div>
-    <script>
-      document.addEventListener("DOMContentLoaded", function () {
-        const mountVisitCount = () => {
-          if (!window.goatcounter || typeof window.goatcounter.visit_count !== "function") {
-            return false;
-          }
-
-          window.goatcounter.visit_count({
-            append: "#goatcounter-visit-count",
-            path: location.pathname,
-            no_branding: true,
-          });
-          return true;
-        };
-
-        if (mountVisitCount()) {
-          return;
-        }
-
-        let attempts = 0;
-        const timer = window.setInterval(() => {
-          attempts += 1;
-          if (mountVisitCount() || attempts > 50) {
-            window.clearInterval(timer);
-            if (attempts > 50) {
-              const node = document.getElementById("goatcounter-visit-count");
-              if (node) {
-                node.textContent = "Views unavailable";
-              }
-            }
-          }
-        }, 200);
-      });
-    </script>
-  
-
-  
 
   
 </div>
@@ -354,6 +313,42 @@ and interest rates. The five winners are the lenders with the top five highest r
 influenced bidding strategies and decisions. Encourage students to share their experiences and insights
 from the game.</li>
 </ol>
+
+  
+    <div id="goatcounter-visit-counter" class="visit-counter" hidden>
+      <span class="visit-counter-label">Views for this page:</span>
+      <span id="goatcounter-visit-count" class="visit-counter-value"></span>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const container = document.getElementById("goatcounter-visit-counter");
+        const countNode = document.getElementById("goatcounter-visit-count");
+
+        if (!container || !countNode) {
+          return;
+        }
+
+        const code = "kerrlyu";
+        const path = location.pathname;
+        const endpoint = `https://${code}.goatcounter.com/counter/${encodeURIComponent(path)}.json`;
+
+        window.setTimeout(async () => {
+          try {
+            const response = await fetch(endpoint, { headers: { "Accept": "application/json" } });
+            if (!response.ok) {
+              return;
+            }
+            const data = await response.json();
+            const count = typeof data.count === "number" ? data.count : 0;
+            countNode.textContent = String(count);
+            container.hidden = false;
+          } catch (error) {
+            
+          }
+        }, 1200);
+      });
+    </script>
+  
 </article>
 
 

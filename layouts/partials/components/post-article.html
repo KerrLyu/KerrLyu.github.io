@@ -10,4 +10,40 @@
   {{ end }}
 
   {{ .Content }}
+
+  {{ if and .Params.showVisitCount .Site.Params.goatcounter.code }}
+    <div id="goatcounter-visit-counter" class="visit-counter" hidden>
+      <span class="visit-counter-label">Views for this page:</span>
+      <span id="goatcounter-visit-count" class="visit-counter-value"></span>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const container = document.getElementById("goatcounter-visit-counter");
+        const countNode = document.getElementById("goatcounter-visit-count");
+
+        if (!container || !countNode) {
+          return;
+        }
+
+        const code = "{{ .Site.Params.goatcounter.code }}";
+        const path = location.pathname;
+        const endpoint = `https://${code}.goatcounter.com/counter/${encodeURIComponent(path)}.json`;
+
+        window.setTimeout(async () => {
+          try {
+            const response = await fetch(endpoint, { headers: { "Accept": "application/json" } });
+            if (!response.ok) {
+              return;
+            }
+            const data = await response.json();
+            const count = typeof data.count === "number" ? data.count : 0;
+            countNode.textContent = String(count);
+            container.hidden = false;
+          } catch (error) {
+            // Keep the counter hidden if the request is blocked or unavailable.
+          }
+        }, 1200);
+      });
+    </script>
+  {{ end }}
 </article>

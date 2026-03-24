@@ -42,3 +42,19 @@
 .news-item-entry {
   margin-top: 4px;
 }
+
+.visit-counter {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(107, 114, 128, 0.2);
+  font-size: 0.95rem;
+  color: #6b7280;
+}
+
+.visit-counter-label {
+  margin-right: 0.35rem;
+}
+
+.visit-counter-value {
+  color: inherit;
+}
