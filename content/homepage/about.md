@@ -1,7 +1,7 @@
 ---
 title: Ke (Kerr) Lyu
 draft: false
-role: Ph.D. Candidate in Economicsd
+role: Ph.D. Candidate in Economics
 avatar: /jpg/portrait.jpg
 bio: 1664 N. Virginia Street, The John Tulloch Business Building, Reno, NV 89557 
 organization:
