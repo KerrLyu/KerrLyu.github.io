@@ -9,6 +9,10 @@ series:
 date: '2025-10-14'
 lastmod: '2025-10-14'
 draft: false
+hideDate: true
+showVisitCount: true
+aliases:
+  - /teaching/econ_103/job_market_bingo/
 ---
 
 To help students understand the dynamics of employment and unemployment in the labor market through

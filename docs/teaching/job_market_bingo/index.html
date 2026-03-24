@@ -76,6 +76,9 @@
 
 <link rel="stylesheet" href="/css/custom.css">
 
+<script data-goatcounter="https://kerrlyu.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+
+
 
 <link rel="stylesheet" href="/css/collapse.css">
 <link rel="stylesheet" href="/css/text-align.css">
@@ -259,18 +262,54 @@ their implications." />
   <div
   class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
 >
-  <div class="me-6 my-2">
-    <i class="fas fa-calendar me-1"></i>
-    <span
-      >2025</span
-    >
-  </div>
+  
 
   
     <div class="me-6 my-2">
-    <i class="fas fa-clock me-1"></i>
-    <span>1 min read</span>
-  </div>
+      <i class="fas fa-clock me-1"></i>
+      <span>1 min read</span>
+    </div>
+  
+
+  
+    <div class="me-6 my-2">
+      <i class="fas fa-eye me-1"></i>
+      <span id="goatcounter-visit-count">Loading views...</span>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const mountVisitCount = () => {
+          if (!window.goatcounter || typeof window.goatcounter.visit_count !== "function") {
+            return false;
+          }
+
+          window.goatcounter.visit_count({
+            append: "#goatcounter-visit-count",
+            path: location.pathname,
+            no_branding: true,
+          });
+          return true;
+        };
+
+        if (mountVisitCount()) {
+          return;
+        }
+
+        let attempts = 0;
+        const timer = window.setInterval(() => {
+          attempts += 1;
+          if (mountVisitCount() || attempts > 50) {
+            window.clearInterval(timer);
+            if (attempts > 50) {
+              const node = document.getElementById("goatcounter-visit-count");
+              if (node) {
+                node.textContent = "Views unavailable";
+              }
+            }
+          }
+        }, 200);
+      });
+    </script>
   
 
   

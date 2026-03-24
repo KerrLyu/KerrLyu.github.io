@@ -9,6 +9,10 @@ series:
 date: '2025-10-14'
 lastmod: '2025-10-14'
 draft: false
+hideDate: true
+showVisitCount: true
+aliases:
+  - /teaching/econ_103/credit_market_auction/
 ---
 
 This game is designed to help freshmen university students understand the credit market and

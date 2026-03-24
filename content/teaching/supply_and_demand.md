@@ -9,6 +9,10 @@ series:
 date: '2025-10-14'
 lastmod: '2025-10-14'
 draft: false
+hideDate: true
+showVisitCount: true
+aliases:
+  - /teaching/econ_103/supply_and_demand/
 ---
 
 In this game, students will take on the role of buyers and sellers in a market for a particular product. The

@@ -1,12 +1,14 @@
 <div
   class="text-tertiary-text not-prose mt-2 flex flex-row flex-wrap items-center"
 >
-  <div class="me-6 my-2">
-    <i class="fas fa-calendar me-1"></i>
-    <span
-      >{{ .Date.Format (.Site.Params.dateFormat | default "2006") }}</span
-    >
-  </div>
+  {{ if not .Params.hideDate }}
+    <div class="me-6 my-2">
+      <i class="fas fa-calendar me-1"></i>
+      <span
+        >{{ .Date.Format (.Site.Params.dateFormat | default "2006") }}</span
+      >
+    </div>
+  {{ end }}
 
   {{ if eq .Layout "doc-list" }}
     <div class="me-6 my-2">
@@ -15,9 +17,50 @@
     </div>
   {{ else }}
     <div class="me-6 my-2">
-    <i class="fas fa-clock me-1"></i>
-    <span>{{ i18n "readingTime" .ReadingTime }}</span>
-  </div>
+      <i class="fas fa-clock me-1"></i>
+      <span>{{ i18n "readingTime" .ReadingTime }}</span>
+    </div>
+  {{ end }}
+
+  {{ if and .Params.showVisitCount .Site.Params.goatcounter.code }}
+    <div class="me-6 my-2">
+      <i class="fas fa-eye me-1"></i>
+      <span id="goatcounter-visit-count">Loading views...</span>
+    </div>
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const mountVisitCount = () => {
+          if (!window.goatcounter || typeof window.goatcounter.visit_count !== "function") {
+            return false;
+          }
+
+          window.goatcounter.visit_count({
+            append: "#goatcounter-visit-count",
+            path: location.pathname,
+            no_branding: true,
+          });
+          return true;
+        };
+
+        if (mountVisitCount()) {
+          return;
+        }
+
+        let attempts = 0;
+        const timer = window.setInterval(() => {
+          attempts += 1;
+          if (mountVisitCount() || attempts > 50) {
+            window.clearInterval(timer);
+            if (attempts > 50) {
+              const node = document.getElementById("goatcounter-visit-count");
+              if (node) {
+                node.textContent = "Views unavailable";
+              }
+            }
+          }
+        }, 200);
+      });
+    </script>
   {{ end }}
 
   {{ with .GetTerms "categories" }}

@@ -169,6 +169,9 @@
 {{- end }}  */}}
 
 <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+{{ with .Site.Params.goatcounter.code }}
+<script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+{{ end }}
 
 {{ partial "custom-head" . }}
 
