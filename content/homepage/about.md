@@ -58,45 +58,14 @@ My research fields are **Labor Economics**, **Economics of Entrepreneurship**, *
 
 I have taught a variety of undergraduate and graduate-level courses as an instructor and am passionate about fostering an active, dynamic, and inclusive learning environment where students can connect theory with real-world challenges.
 
-<style>
-  .news-item {
-    padding: 14px 18px;
-    margin-bottom: 16px;
-    border-radius: 10px;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
-    transition: transform 0.2s ease;
-  }
-
-  .news-item:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  }
-
-  .news-item em {
-    font-style: normal;
-    font-weight: 500;
-    color: #333;
-  }
-
-  .news-item strong {
-    font-weight: 600;
-    color: #000;
-  }
-
-  .news-item a {
-    color: #003366;
-    text-decoration: underline;
-  }
-</style>
-
 ## News Feed
 
-<div class="news-item" style="background-color:#d0e7fc;">
+<div class="news-item news-item-light">
   <em>01/16/2026</em> — Paper published in <em>Small Business Economics</em>: <a href="https://link.springer.com/article/10.1007/s11187-025-01171-7">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</a>.
 </div>
 
-<div class="news-item" style="background-color:#aad1f9;">
-  <div style="margin-top:4px;">
+<div class="news-item news-item-mid">
+  <div class="news-item-entry">
     <em>12/05/2025</em> — Our paper, <em>"Taxes, Incentives and Entrepreneurship:<br>Evidence from the Universe of U.S. Startups"</em>, will be presented at the
     <a href="https://www-nber-org.unr.idm.oclc.org/conferences/place-based-policies-and-entrepreneurship-fall-2025">NBER Place-Based Policies and Entrepreneurship Conference</a>.
   </div>
@@ -107,7 +76,7 @@ I have taught a variety of undergraduate and graduate-level courses as an instru
   
 </div>
 
-<div class="news-item" style="background-color:#8fc1f6;">
+<div class="news-item news-item-strong">
   <div>
     <em>05/01/2026-05/03/2026</em> — Our paper, 
     <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the
