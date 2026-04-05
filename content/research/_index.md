@@ -25,7 +25,9 @@ title: Research
 
 1. <span style="color: #0f172a;"><strong>Fairlie, R., Fossen, F., Lyu, K. (2026).</strong></span>  [<span style="color: #6E8798; text-decoration: underline;">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</span>](https://doi.org/10.1007/s11187-025-01171-7), <em>Small Business Economics</em>.
 
-2. <span style="color: #0f172a;"><strong>Lyu, K. (2023).</strong></span>  [<span style="color: #6E8798; text-decoration: underline;">Social Capital and Self-employment Dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), <em>The Chinese Economy</em>, 56:6, 459-485, 2023.
+2. <span style="color: #0f172a;"><strong>Brodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., ... &amp; Hausladen, C. I. (2026).</strong></span>  [<span style="color: #6E8798; text-decoration: underline;">Reproducibility and Robustness of Economics and Political Science Research</span>](https://www.nature.com/articles/s41586-026-10251-x), <em>Nature</em>, 652(8108), 151-156.
+
+3. <span style="color: #0f172a;"><strong>Lyu, K. (2023).</strong></span>  [<span style="color: #6E8798; text-decoration: underline;">Social Capital and Self-employment Dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), <em>The Chinese Economy</em>, 56:6, 459-485, 2023.
 
 
 
