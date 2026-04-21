@@ -22,13 +22,13 @@ their implications.
 <!--more-->
 
 ## Download Here!
-[Introduction](https://KerrLyu.github.io/pdf/game2_intro.pdf) 
+[Introduction](/pdf/game2_intro.pdf) 
 
-[Slides](https://KerrLyu.github.io/pdf/game2_slides.pdf) 
+[Slides](/pdf/game2_slides.pdf) 
 
-[Bingo Card](https://KerrLyu.github.io/pdf/game2_bingo_card.pdf)
+[Bingo Card](/pdf/game2_bingo_card.pdf)
 
-[Bingo Card (Instructor)](https://KerrLyu.github.io/pdf/game2_bingo_card_instructor.pdf)
+[Bingo Card (Instructor)](/pdf/game2_bingo_card_instructor.pdf)
 
 ### Game Insturctions
 

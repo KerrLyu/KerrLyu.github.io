@@ -16,7 +16,7 @@ In Intermediate Macroeconomics, I designed a Zoom-based workshop where students 
 
 Economic growth theory can feel abstract. To make it tangible, I created a session that directly connected models with real data:
 - Students explored **exponential growth models**, **regression-based forecasting**, and **growth accounting**;
-- We worked with **U.S. GDP, capital, and employment data (1948–2023)**:contentReference[oaicite:0]{index=0};
+- We worked with **U.S. GDP, capital, and employment data (1948–2023)**;
 - Students built and tested these models themselves inside Excel, seeing results update live.
 
 By engaging in applied modeling, students strengthened their ability to:
@@ -31,16 +31,16 @@ These are transferable skills students can highlight in graduate school applicat
 ### 2. Implementation via Zoom and Excel
 
 The workshop combined **real-time demonstration** with **active practice**:
-- I shared my screen to walk students through GDP trend analysis using exponential and polynomial models:contentReference[oaicite:1]{index=1}:contentReference[oaicite:2]{index=2};
+- I shared my screen to walk students through GDP trend analysis using exponential and polynomial models;
 - Students worked with an Excel file I distributed beforehand, applying each step themselves;
 - I showed how to linearize an exponential model with natural logs and then estimate regressions inside Excel;
 - We interpreted coefficients, evaluated forecast accuracy, and debated the policy relevance of different growth scenarios.
 
-<div style="width: 60%; margin: auto;">
-  <img src="/jpg/tech_example_zoom_excel.jpg" alt="Excel Forecasting Chart" style="width: 100%;">
+<div class="media-figure">
+  <img src="/jpg/tech_example_zoom_excel.jpg" alt="Excel Forecasting Chart">
 </div>
 
-<p style="text-align: center;"><em>Figure: U.S. Real GDP (1948–2023) and Forecast Using Exponential Trend</em></p>
+<p class="figure-caption"><em>Figure: U.S. Real GDP (1948–2023) and Forecast Using Exponential Trend</em></p>
 
 This style of interactive teaching mirrors how analysts and researchers work in practice—collaborating on shared screens, testing model variations, and interpreting real-time results.
 

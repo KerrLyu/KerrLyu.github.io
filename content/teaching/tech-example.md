@@ -16,8 +16,8 @@ In my *Principles of Macroeconomics* class, I integrated **Mentimeter** across t
 
 Before the course began, I surveyed students on their preferred learning formats and macroeconomic interests. This allowed me to adjust the structure and content of the course to better match their preferences.
 
-<div style="width: 60%; margin: auto;">
-  <img src="/jpg/Mentimeter_example_Page_1.jpg" alt="Pre-class Survey" style="width: 100%;">
+<div class="media-figure">
+  <img src="/jpg/Mentimeter_example_Page_1.jpg" alt="Pre-class Survey">
 </div>
 
 *Insight:* Most students preferred lecture-based delivery and game-based learning over discussions. This insight helped shape my lesson planning and use of classroom activities.
@@ -28,9 +28,9 @@ Before the course began, I surveyed students on their preferred learning formats
 
 To introduce key macroeconomic topics and assess understanding, I used Mentimeter’s live multiple-choice and ranking features. This promoted active participation and enabled me to clarify misconceptions immediately.
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <img src="/jpg/Mentimeter_example_Page_3.jpg" alt="Spending Ranking Poll" width="48%">
-  <img src="/jpg/Mentimeter_example_Page_4.jpg" alt="GDP Trend Poll" width="48%">
+<div class="media-gallery">
+  <img src="/jpg/Mentimeter_example_Page_3.jpg" alt="Spending Ranking Poll">
+  <img src="/jpg/Mentimeter_example_Page_4.jpg" alt="GDP Trend Poll">
 </div>
 
 *Example Questions:*
@@ -45,9 +45,9 @@ These live polls sparked engagement and led to rich in-class discussions.
 
 Toward the end of class, I used Mentimeter’s word cloud function to facilitate reflection and discussion. This gave students the freedom to express ideas anonymously and creatively.
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <img src="/jpg/Mentimeter_example_Page_2.jpg" alt="Inflation Word Cloud" width="48%">
-  <img src="/jpg/Mentimeter_example_Page_5.jpg" alt="Scarcity Word Cloud" width="48%">
+<div class="media-gallery">
+  <img src="/jpg/Mentimeter_example_Page_2.jpg" alt="Inflation Word Cloud">
+  <img src="/jpg/Mentimeter_example_Page_5.jpg" alt="Scarcity Word Cloud">
 </div>
 
 *Example Prompts:*
