@@ -56,8 +56,6 @@ My research fields are **Labor Economics**, **Economics of Entrepreneurship**, *
 
 ❓To what extent can policies designed to promote self-employment effectively enhance social welfare?
 
-I have taught a variety of undergraduate and graduate-level courses as an instructor and am passionate about fostering an active, dynamic, and inclusive learning environment where students can connect theory with real-world challenges.
-
 ## News Feed
 
 <div class="news-item news-item-light">
