@@ -33,10 +33,6 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
 </span>  
 <span class="research-meta">
 IZA Discussion Paper No. 18101<br>
-<span class="status-pill">
-  <span class="status-pill-dot"></span>
- Revise &amp; Resubmit  at <em>Labour Economics</em>
-</span><br>
 *Presented at 29th SOLE Annual Meeting 2026, PhD-EVS 2026, GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<sup>✚</sup>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024*  
 *Second Prize, Smart Economic Planning and Industrial Policy Conference 2025*
 <br><span class="research-footnote">✚ coauthor presentation</span>
@@ -65,10 +61,6 @@ IZA Discussion Paper No. 18101<br>
   <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
 </span>  
 <span class="research-meta">
-  <span class="status-pill">
-    <span class="status-pill-dot"></span>
-    Reject &amp; Resubmit at <em>Journal of Banking &amp; Finance</em>
-  </span>
 </span>
 
 <div class="research-panel-grid">
@@ -91,7 +83,7 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>,
 and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_
 </span>  
 <span class="research-meta">
-*Under Review; Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<sup>✚</sup>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<sup>✚</sup>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<sup>✚</sup>, 5th UCLA Anderson Price Research Conference 2025, Goergia State University 2025<sup>✚</sup>, University of Michigan 2025<sup>✚</sup>, University of Nevada, Reno 2025*
+*Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<sup>✚</sup>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<sup>✚</sup>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<sup>✚</sup>, 5th UCLA Anderson Price Research Conference 2025, Goergia State University 2025<sup>✚</sup>, University of Michigan 2025<sup>✚</sup>, University of Nevada, Reno 2025*
 <br>
 <span class="research-footnote">✚ coauthor presentation</span>
 </span> 
@@ -126,10 +118,6 @@ and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew John
 _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
 </span>  
 <span class="research-meta">
-<span class="status-pill">
-  <span class="status-pill-dot"></span>
-  Revise &amp; Resubmit at <em>Small Business Economics</em>
-</span><br>
 *IZA Discussion Paper No. 18160, CESifo Working Paper No. 12163*  
 </span>
 <div class="research-panel-grid research-panel-grid--wide">
@@ -160,7 +148,7 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a> and <
 <span class="research-authors">
 _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang_</span>  
 <span class="research-meta">
-*Under Review; Presented at CES NA Annual Conference 2026<sup>✚</sup>, 100th WEAI 2025*
+*Presented at CES NA Annual Conference 2026<sup>✚</sup>, 100th WEAI 2025*
 <br>
 <span class="research-footnote">✚ coauthor presentation</span>
 </span> 
@@ -195,10 +183,6 @@ _With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>,
 and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingjing Yang</a>_
 </span>  
 <span class="research-meta">
-  <span class="status-pill">
-    <span class="status-pill-dot"></span>
-    Revise &amp; Resubmit at <em>International Tax and Public Finance</em>
-  </span><br>
   *Presented at 117th NTA Annual Conference on Taxation 2024<sup>✚</sup>*
   <br>
 <span class="research-footnote">✚ coauthor presentation</span>
@@ -222,10 +206,6 @@ and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingj
   _Solo-authored paper_
 </span>  
 <span class="research-meta">
-  <span class="status-pill">
-    <span class="status-pill-dot"></span>
-    Revise &amp; Resubmit at <em>Journal of Entrepreneurship in Emerging Economies</em>
-  </span>
 </span>
 
 <div class="research-panel-grid">
