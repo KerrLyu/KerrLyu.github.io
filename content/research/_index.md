@@ -11,6 +11,8 @@ title: Research
 
 3. <span class="research-authors"><strong>Lyu, K. (2023).</strong></span>  [<span class="research-link">Social Capital and Self-employment Dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), <em>The Chinese Economy</em>, 56:6, 459-485, 2023.
 
+4. <span class="research-authors"><strong>Can, E., Pham, H., Yang, J., &amp; Lyu, K. (forthcoming).</strong></span>  [<span class="research-link">The Effect of the Kansas Tax Reform on Self-Employment Hours Worked</span>](https://www.researchsquare.com/article/rs-7697929/v1), <em>International Tax and Public Finance</em>.
+
 
 
 <div class="research-hidden">
@@ -171,31 +173,6 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
     <figcaption>Targeted Poverty Alleviation — County Coverage</figcaption>
   </figure>
 </div>
-</div>
-
-5. <a href="https://www.researchsquare.com/article/rs-7697929/v1"
-      class="research-link-anchor">
-      The Effect of the Kansas Tax Reform on Self-Employment Hours Worked
-    </a>  
-<span class="research-authors">
-_With <a href="https://www.uah.edu/business/faculty-staff/ege-can">Ege Can</a>, 
-<a href="https://www.uah.edu/business/faculty-staff/hieu-pham">Hieu Pham</a>, 
-and <a href="https://www.unr.edu/business/faculty-and-staff/yang-jingjing">Jingjing Yang</a>_
-</span>  
-<span class="research-meta">
-  *Presented at 117th NTA Annual Conference on Taxation 2024<sup>✚</sup>*
-  <br>
-<span class="research-footnote">✚ coauthor presentation</span>
-</span>
-
-<div class="research-panel-grid">
-
-  <div class="research-abstract">
-    <p><strong>Abstract:</strong><br>
-      In 2012, Kansas exempted pass-through business income from the state individual income tax. We examine the reform’s causal effect on entrepreneurial labor supply using a difference-indifferences design with Current Population Survey and American Community Survey microdata. The reform caused an immediate, negative, and statistically significant reduction in weekly hours among the self-employed, with the largest response for the unincorporated. The effect attenuates and does not persist. This outcome contrasts with the reform’s goal of promoting business activity. These findings provide new evidence on the intensive margin impacts of tax policy on entrepreneurship.
-    </p>
-  </div>
-
 </div>
 
 6. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876"

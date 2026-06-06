@@ -63,15 +63,7 @@ My research fields are **Labor Economics**, **Economics of Entrepreneurship**, *
 </div>
 
 <div class="news-item news-item-mid">
-  <div class="news-item-entry">
-    <em>12/05/2025</em> — Our paper, <em>"Taxes, Incentives and Entrepreneurship:<br>Evidence from the Universe of U.S. Startups"</em>, will be presented at the
-    <a href="https://www-nber-org.unr.idm.oclc.org/conferences/place-based-policies-and-entrepreneurship-fall-2025">NBER Place-Based Policies and Entrepreneurship Conference</a>.
-  </div>
-  <div>
-    <em>10/24/2025</em> — The same paper has also been presented at the
-    <a href="https://www.nber.org/conferences/economic-analysis-business-taxation-fall-2025">NBER Economic Analysis of Business Taxation Workshop</a>.
-  </div>
-  
+  <em>06/06/2026</em> — Our paper, <em>"The Effect of the Kansas Tax Reform on Self-Employment Hours Worked"</em>, has been accepted for publication in <em>International Tax and Public Finance</em>.
 </div>
 
 <div class="news-item news-item-strong">
@@ -80,12 +72,6 @@ My research fields are **Labor Economics**, **Economics of Entrepreneurship**, *
     <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em>, has been accepted for presentation at the
     <a href="https://www.sole-jole.org/upcoming-meeting">
       Society of Labor Economists' 29th Annual Meeting
-    </a>.
-  </div>
-  <div>
-    <em>06/04/2025–06/07/2025</em> — Presented the same paper at the
-    <a href="https://www.babson.edu/entrepreneurship-center/thought-leadership/babson-college-entrepreneurship-research-conference-bcerc/2025-bcerc-babson-college/">
-      45th Babson College Entrepreneurship Research Conference (BCERC)
     </a>.
   </div>
 </div>
