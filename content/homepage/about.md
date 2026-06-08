@@ -58,10 +58,6 @@ My research fields are **Labor Economics**, **Economics of Entrepreneurship**, *
 
 ## News Feed
 
-<div class="news-item news-item-light">
-  <em>01/16/2026</em> — Paper published in <em>Small Business Economics</em>: <a href="https://link.springer.com/article/10.1007/s11187-025-01171-7">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</a>.
-</div>
-
 <div class="news-item news-item-mid">
   <em>06/06/2026</em> — Our paper, <em>"The Effect of the Kansas Tax Reform on Self-Employment Hours Worked"</em>, has been accepted for publication in <em>International Tax and Public Finance</em>.
 </div>
@@ -74,5 +70,9 @@ My research fields are **Labor Economics**, **Economics of Entrepreneurship**, *
       Society of Labor Economists' 29th Annual Meeting
     </a>.
   </div>
+</div>
+
+<div class="news-item news-item-light">
+  <em>01/16/2026</em> — Paper published in <em>Small Business Economics</em>: <a href="https://link.springer.com/article/10.1007/s11187-025-01171-7">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</a>.
 </div>
 

@@ -3,15 +3,15 @@ title: Research
 ---
 ## Publications
 
-1. <span class="research-authors"><strong>Fairlie, R., Fossen, F., Lyu, K. (2026).</strong></span>  [<span class="research-link">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</span>](https://doi.org/10.1007/s11187-025-01171-7), <em>Small Business Economics</em>.
+1. <span class="research-authors"><strong>Can, E., Pham, H., Yang, J., &amp; Lyu, K. (forthcoming).</strong></span>  [<span class="research-link">The Effect of the Kansas Tax Reform on Self-Employment Hours Worked</span>](https://www.researchsquare.com/article/rs-7697929/v1), <em>International Tax and Public Finance</em>.
 
-2. <span class="research-authors"><strong>Brodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., ... &amp; Hausladen, C. I. (2026).</strong></span>  [<span class="research-link">Reproducibility and Robustness of Economics and Political Science Research</span>](https://www.nature.com/articles/s41586-026-10251-x), <em>Nature</em>, 652(8108), 151-156.
+2. <span class="research-authors"><strong>Fairlie, R., Fossen, F., Lyu, K. (2026).</strong></span>  [<span class="research-link">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</span>](https://doi.org/10.1007/s11187-025-01171-7), <em>Small Business Economics</em>.
+
+3. <span class="research-authors"><strong>Brodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., ... &amp; Hausladen, C. I. (2026).</strong></span>  [<span class="research-link">Reproducibility and Robustness of Economics and Political Science Research</span>](https://www.nature.com/articles/s41586-026-10251-x), <em>Nature</em>, 652(8108), 151-156.
 <span class="research-collab-note">Contributing author in a large-scale multi-author collaboration.</span>
 
 
-3. <span class="research-authors"><strong>Lyu, K. (2023).</strong></span>  [<span class="research-link">Social Capital and Self-employment Dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), <em>The Chinese Economy</em>, 56:6, 459-485, 2023.
-
-4. <span class="research-authors"><strong>Can, E., Pham, H., Yang, J., &amp; Lyu, K. (forthcoming).</strong></span>  [<span class="research-link">The Effect of the Kansas Tax Reform on Self-Employment Hours Worked</span>](https://www.researchsquare.com/article/rs-7697929/v1), <em>International Tax and Public Finance</em>.
+4. <span class="research-authors"><strong>Lyu, K. (2023).</strong></span>  [<span class="research-link">Social Capital and Self-employment Dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028), <em>The Chinese Economy</em>, 56:6, 459-485, 2023.
 
 
 
