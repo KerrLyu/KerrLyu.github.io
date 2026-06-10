@@ -175,7 +175,7 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shu
 </div>
 </div>
 
-6. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876"
+5. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876"
       class="research-link-anchor">
       From Vice to Venture: Evaluating the Impact of Smoking and Drinking on Self-employment in China
     </a>  
