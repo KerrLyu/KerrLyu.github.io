@@ -10,7 +10,7 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:klyu@unr.edu
+    url: mailto:lvke1220@gmail.com
   - icon: google-scholar
     iconPack: fab
     url: https://scholar.google.com/citations?user=6GMuXIwAAAAJ&hl=en
