@@ -1,0 +1,260 @@
+\documentclass[12pt,letterpaper]{report}
+
+\usepackage[T1]{fontenc} % output T1 font encoding (8-bit) for accented characters as single glyph
+\usepackage[strict,autostyle]{csquotes} % smart and nestable quote marks
+\usepackage[american]{babel}
+
+\usepackage{microtype}% improve text appearance with kerning, etc
+\microtypesetup{nopatch=footnote}
+\usepackage{datetime} % enable formatting of date output
+\usepackage{tabto}    % make nice tabbing
+\usepackage{hyperref} % enable hyperlinks and pdf metadata
+\usepackage{geometry} % manually set page margins
+\usepackage{enumitem} % enumerate with [resume] option
+\usepackage{titlesec} % allow custom section fonts
+\usepackage{setspace} % custom line spacing
+\usepackage[normalem]{ulem}  % 
+\usepackage[backend=biber, style=apa, maxcitenames=6, mincitenames=1,
+  maxbibnames=99, minbibnames=3, url=false, doi=false, isbn=false, eprint=false]{biblatex}
+  \DeclareNameFormat{apaauthor}{%
+  \nameparts{#1}%
+  \usebibmacro{name:family-given}
+    {\namepartfamily}
+    {\namepartgiven} % <-- full given name (NOT initials)
+    {\namepartprefix}
+    {\namepartsuffix}%
+  \usebibmacro{name:andothers}%
+}
+\DeclareFieldFormat[article]{journaltitle}{#1}
+\DeclareFieldFormat[article]{journalsubtitle}{#1}
+\DeclareFieldFormat[article]{issuetitle}{#1}
+\DeclareFieldFormat[article]{issuesubtitle}{#1}
+\addbibresource{biblio_cv.bib}
+\newcommand{\myname}{Ke Lyu}
+
+% select default typefaces
+\usepackage{ebgaramond} % document's serif typeface
+\usepackage{tgheros}    % document's sans serif typeface
+
+% how far to tab for list items with left-aligned date: different fonts need different widths
+\newcommand{\listtabwidth}{1.7cm}
+
+% define font to use as document's title
+\newcommand{\namefont}[1]{{\normalfont\bfseries\Huge{#1}}}
+
+% set section heading fonts and before/after spacing
+\SetTracking{encoding=*, family=\sfdefault}{30} % increase sans serif headings tracking
+\titleformat{\section}{\lsstyle\sffamily\small\bfseries\uppercase}{}{}{}{}
+\titlespacing{\section}{0pt}{16pt plus 4pt minus 4pt}{8pt plus 2pt minus 2pt}
+
+% set subsection heading fonts and before/after spacing
+\titleformat{\subsection}{\lsstyle\sffamily\footnotesize\bfseries}{}{}{}{}
+\titlespacing{\subsection}{0pt}{16pt plus 4pt minus 4pt}{4pt plus 2pt minus 2pt}
+
+% set page margins (assumes letter paper)
+\geometry{body={6.5in, 9.0in},
+    left=1.0in,
+    top=1.0in}
+
+% prevent paragraph indentation
+\setlength\parindent{0em}
+
+% set line spacing
+\setstretch{0.9}
+
+% define space between list items
+\newcommand{\listitemspace}{0.25em}
+
+% make unordered lists without bullets and use compact spacing
+\renewenvironment{itemize}
+{\begin{list}{}{\setlength{\leftmargin}{0em}
+                \setlength{\parskip}{0em}
+                \setlength{\itemsep}{\listitemspace}
+                \setlength{\parsep}{\listitemspace}}}
+{\end{list}}
+
+% make tabbed lists so content is left-aligned next to years
+\TabPositions{\listtabwidth}
+\newlist{tablist}{description}{3}
+\setlist[tablist]{leftmargin=\listtabwidth,
+    labelindent=0em,
+    topsep=0em,
+    partopsep=0em,
+    itemsep=\listitemspace,
+    parsep=\listitemspace,
+    font=\normalfont}
+
+\newdateformat{monthyeardate}{\monthname[\THEMONTH] \THEYEAR}
+
+\hypersetup{
+    colorlinks  = true,
+    urlcolor    = black,
+    citecolor   = black,
+    linkcolor   = black,
+    pdfauthor   = {\myname},
+    pdfkeywords = {Deep Learning, Machine Learning, Smart Meter ,Social Computation},
+    pdftitle    = {\myname: Curriculum Vitae},
+    pdfsubject  = {Curriculum Vitae},
+    pdfpagemode = UseNone
+}
+
+\begin{document}
+    \raggedright{}
+    \noindent\rule{\textwidth}{0.4pt} \\ 
+    \hfill June 2026 
+
+    \namefont{\myname}\\[0.2em]
+    { Pronouns: She/her/hers}
+
+    \vspace{1em}
+    \begin{minipage}[t]{0.500\textwidth}
+        Rankin College of Business\\
+        Southern Arkansas University
+    \end{minipage}
+\begin{minipage}[t]{0.495\textwidth}
+    \flushright{}
+    \href{mailto:lvke1220@gmail.com}{lvke1220@gmail.com} \\
+    \href{https://kerrlyu.github.io/}{Website: https://kerrlyu.github.io/}
+\end{minipage}
+
+    \section*{Employment}
+\begin{tablist} 
+\item[2026--] \tab{}Assistant Professor of Economics, Southern Arkansas University 
+\end{tablist}
+    \section*{Education}
+    \begin{tablist}
+      \item[Ph.D.] \tab{}Economics, University of Nevada-Reno, USA, 2020--2026
+      \item[MSc] \tab{}Economics, University of Edinburgh, UK, 2018--2019
+      \item[BSc] \tab{}Public Finance, Shandong University of Finance and Economics, China, 2014--2018
+      \end{tablist}
+    
+    \section*{Fields}
+    \begin{itemize}
+      \item Labor Economics, Economics of Entrepreneurship, Public Economics, Health Economics
+    \end{itemize}
+    
+\section*{Affiliations}
+\begin{tablist}
+\item[2025--] \tab{}Special Sworn Status Researcher, U.S. Census Bureau
+\item[2025--] \tab{}Research Affiliate, Global Labor Organization (GLO)
+\end{tablist}
+    
+\section*{Publications}
+\begin{tablist}
+\item \fullcite{can2012kansas}
+\item \fullcite{fairlie2025startups}
+\item \fullcite{lyu2023social}
+\end{tablist}
+\section*{Working Papers}
+\begin{tablist}
+\item \fullcite{lyumw}
+\item \fullcite{lyuvice}
+\item \fullcite{flanigan2025credit}	
+\item \fullcite{lyustartup}
+\item \fullcite{lyupoverty}	
+\end{tablist}
+\section*{Work in Progress}
+\begin{tablist}
+\item \fullcite{lyu2025startup2}
+\item \fullcite{lyu2025startup3}
+\item \fullcite{liu2025ai}
+\item \fullcite{lyubanking}
+
+\end{tablist}
+
+\section*{Teaching}
+\noindent \textbf{Teaching innovation:} Designed and implemented interactive classroom games and simulations for core economics concepts:
+\href{https://kerrlyu.github.io/teaching/econ\_103/supply\_and\_demand/}{Supply \& Demand market experiment},
+\href{https://kerrlyu.github.io/teaching/econ\_103/credit\_market\_auction/}{Credit Market Auction},
+\href{https://kerrlyu.github.io/teaching/econ\_103/job\_market\_bingo/}{Job Market Bingo}.
+
+    \subsection*{Lecturer}
+\begin{tablist}[leftmargin=0pt,labelwidth=4cm,labelsep=0.8em,align=parleft]
+  \item[Summer 2025] ECON 303 Intermediate Macroeconomics (Teaching Evaluation: 4.0/4.0)
+  \item[Summer 2025, 2023, 2022] Department Math Camp (for $1^{st}$-year Ph.D. and Master’s students)
+  \item[Summer 2023] ECON 261 Principles of Statistics (Teaching Evaluation: 3.6/4.0)
+  \item[Spring 2023] ECON 103 Principles of Macroeconomics (Teaching Evaluation: 3.2/4.0)
+  \item[Fall 2022]  ECON 261 Principles of Statistics
+\end{tablist}
+\subsection*{Teaching Assistant}
+\begin{tablist}[leftmargin=0pt,labelwidth=4cm,labelsep=0.8em,align=parleft]
+  \item[Fall 2024] ECON 743 Applied Microeconometric Methods
+  \item[Spring 2022] ECON 365 Labor Economics
+  \item[Fall 2021] ECON 702 Advanced Microeconomics
+  \item[Fall 2021] ECON 261 Principles of Statistics
+\end{tablist}
+
+\section*{Service}
+    \begin{tablist}
+        \item[2025] \tab{}Mentor \tab{}UNR Honors Career \& Community Mentorship Program    
+    \end{tablist}
+    
+\section*{Workshops \& Professional Development (Selected)}
+\begin{tablist}
+  \item[2025] \tab{}NBER Innovation Information Initiative Meeting
+  \item[2025] \tab{}NBER Economic Analysis of Business Taxation Workshop
+  \item[2025] \tab{}WEFI (Workshop on Entrepreneurial Finance and Innovation) Seminar Series
+  \item[2025] \tab{}NBER Innovation Research Boot Camp
+  \item[2024] \tab{}CSWEP Mentoring Workshop for Third-Year and Beyond Women \& Nonbinary Economics PhD Students
+  \item[2024] \tab{}2nd REGIS Summer School
+\end{tablist}
+
+\section*{Refereed Conference Presentations}
+\begin{tablist}
+  \item[2026] \tab{}29th SOLE Annual Meeting
+  %\item[2026] \tab{}CES NA Annual Conference
+%\item[2026] \tab{}PhD --- Economics Virtual Seminar
+  \item[2025] \tab{}Global GLO-JOPE Conference (GLO-Bonn-2025)
+  \item[2025] \tab{}NBER Place-Based Policies and Entrepreneurship Conference
+  \item[2025] \tab{}95th Southern Economic Association (SEA) Annual Meeting
+  \item[2025] \tab{}20th Economics Graduate Student Conference (EGSC), Washington University in St. Louis
+  \item[2025] \tab{}6th SOLE/EALE/AASLE World Labor Conference
+  \item[2025] \tab{}100th Western Economic Association International (WEAI) Annual Conference
+  \item[2025] \tab{}45th Babson College Entrepreneurship Research Conference (BCERC)
+  \item[2025] \tab{}5th UCLA Price Winter Research Conference
+  \item[2024] \tab{}3rd Small Business Economics Journal (SBEJ) Online Conference for Young Researchers
+  \item[2024] \tab{}94th Southern Economic Association (SEA) Annual Meeting
+  \item[2023] \tab{}98th Western Economic Association International (WEAI) Annual Conference
+\end{tablist}
+
+    \section*{Grants \& Awards}
+    \begin{tablist}
+    \item[2025] \tab{}Second Prize, Best Presentation Award, Smart Economic Planning \& Industrial Policy (SEPIP) Conference (\$750)
+    \item[2025] \tab{}Expense Support Grant, Institute for Humane Studies (\$700)
+    \item[2025] \tab{}Outstanding Graduate Student Award, University of Nevada, Reno
+    \item[2023] \tab{}Graduate Student Association Travel Award, University of Nevada, Reno (\$2,500 in total)
+    \item[2022] \tab{}Department of Economics Best Second Year Paper Award, University of Nevada, Reno (\$500)
+    \end{tablist}
+
+    \section*{Refereeing}
+\begin{tablist}[leftmargin=0pt,labelwidth=0pt,labelsep=0pt]
+  \item[] Journal of Business Venturing, China Economic Review, Small Business Economics, Applied Economics, Asian Economic Journal, Applied Economics Letters, China Economic Journal, Journal of Entrepreneurship in Emerging Economies
+\end{tablist}
+    
+%    \section*{Research Experience and Assistantship}
+%    \begin{tablist}
+%\item[2020--2021] \tab{}Research Assistant, Southern University of Science and Technology, China
+%\item[2019--2020] \tab{}Research Assistant, Chinese Academy of Agricultural Sciences, China
+ %   \end{tablist}
+
+    \section*{Skills}
+    \begin{tablist}
+        \item[Programming] \tab{}Stata, Python, R, \LaTeX
+        \item[Languages] \tab{}English (Fluent), Mandarin (Native), Korean (Basic)
+    \end{tablist}
+
+    \section*{References}
+    \noindent
+\begin{tabular}{p{7cm} p{7cm}}
+    \textbf{Frank M. Fossen} (Chair) & \textbf{Robert W. Fairlie} \\
+    Professor of Economics & Distinguished Professor of Public Policy and Economics \\
+    University of Nevada, Reno & University of California, Los Angeles\\
+    \texttt{ffossen@unr.edu} & \texttt{rfairlie@ucla.edu} \\
+    \\
+    \textbf{Shunfeng Song} & \textbf{Sankar Mukhopadhyay} \\
+    Professor of Economics & Professor of Economics \\
+    University of Nevada, Reno & University of Nevada, Reno \\
+    \texttt{song@unr.edu} & \texttt{sankarm@unr.edu} \\
+\end{tabular}
+
+\end{document}
