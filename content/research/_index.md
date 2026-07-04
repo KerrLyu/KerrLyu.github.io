@@ -3,7 +3,7 @@ title: Research
 ---
 ## Publications
 
-1. <span class="research-authors"><strong>Can, E., Lyu, K., Yang, J., &amp; Pham, H. (forthcoming).</strong></span>  [<span class="research-link">The Effect of the Kansas Tax Reform on Self-Employment Hours Worked</span>](https://www.researchsquare.com/article/rs-7697929/v1), <em>International Tax and Public Finance</em>.
+1. <span class="research-authors"><strong>Can, E., Lyu, K., Yang, J., &amp; Pham, H. (2026).</strong></span>  [<span class="research-link">The Effect of the Kansas Tax Reform on Self-Employment Hours Worked</span>](https://link.springer.com/article/10.1007/s10797-026-09985-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260704&utm_content=10.1007/s10797-026-09985-1), <em>International Tax and Public Finance</em>.
 
 2. <span class="research-authors"><strong>Fairlie, R., Fossen, F., Lyu, K. (2026).</strong></span>  [<span class="research-link">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</span>](https://doi.org/10.1007/s11187-025-01171-7), <em>Small Business Economics</em>.
 
