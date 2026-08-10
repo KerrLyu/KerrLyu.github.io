@@ -1,16 +1,16 @@
 ---
 title: Ke (Kerr) Lyu
 draft: false
-role: Ph.D. Candidate in Economics
+role: Assistant Professor of Economics
 avatar: /jpg/portrait.jpg
-bio: 1664 N. Virginia Street, The John Tulloch Business Building, Reno, NV 89557 
+bio: Blanchard Hall 314, 100 E. University, Magnolia, AR 71753 
 organization:
-  name: University of Nevada, Reno (UNR)
-  url: https://www.unr.edu/business/departments-and-disciplines/economics
+  name: Southern Arkansas University
+  url: https://web.saumag.edu/business/about/
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:lvke1220@gmail.com
+    url: mailto:klyu@saumag.edu
   - icon: google-scholar
     iconPack: fab
     url: https://scholar.google.com/citations?user=6GMuXIwAAAAJ&hl=en
@@ -48,7 +48,7 @@ widget:
 
 ## Self Introduction
 
-I am a sixth-year Ph.D. candidate in the Department of Economics at the University of Nevada, Reno (UNR). In Fall 2026, I will join Southern Arkansas University as Assistant Professor of Economics.
+I am Assistant Professor of Economics in the Rankin College of Business at Southern Arkansas University.
 
 My research fields are **Labor Economics**, **Economics of Entrepreneurship**, **Public Economics**, and **Health Economics**. Broadly, my research examines how public policies and individual factors shape entrepreneurial activity, particularly among “fragile” or early-stage ventures such as solo self-employment, nonemployer firms, and unincorporated businesses. Two key questions drive my research: 
 
