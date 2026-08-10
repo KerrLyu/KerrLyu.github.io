@@ -16,24 +16,24 @@ sidebar:
 
 ## Teaching Experience
 
+### Southern Arkansas University
+
 **Instructor**
 
 1. **ECON 2103 Principles of Microeconomics** – Fall 2026  
-2. **GBUS 3183 Statistics and Analysis II** – Fall 2026  
-3. **ECON 303 Intermediate Macroeconomics** – Summer 2025  
-4. **ECON 261 Principles of Statistics** – Summer 2023, Fall 2022  
-5. **ECON 103 Principles of Macroeconomics** – Spring 2023  
+2. **GBUS 3183 Statistics and Analysis II** – Fall 2026
+
+### University of Nevada, Reno
+
+**Instructor**
+
+1. **ECON 303 Intermediate Macroeconomics** – Summer 2025  
+2. **ECON 261 Principles of Statistics** – Summer 2023, Fall 2022  
+3. **ECON 103 Principles of Macroeconomics** – Spring 2023  
    - [🔥 Supply and Demand Class Game (Most Downloaded)](/teaching/supply_and_demand/)
    - [Credit Market Auction Class Game](/teaching/credit_market_auction/)
    - [Job Market Bingo Class Game](/teaching/job_market_bingo/)  
-6. **Math Camp for Incoming Master’s and Ph.D. Students** – Summer 2025, 2023, 2022
-
-**Teaching Assistant**
-
-1. **ECON 743 Applied Microeconometric Methods** – Fall 2024  
-2. **ECON 365 Labor Economics** – Spring 2022  
-3. **ECON 702 Advanced Microeconomics** – Fall 2021  
-4. **ECON 261 Principles of Statistics** – Fall 2021
+4. **Math Camp for Incoming Master’s and Ph.D. Students** – Summer 2025, 2023, 2022
 
 ## Student Feedback Highlights 
 

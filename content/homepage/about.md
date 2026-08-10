@@ -1,7 +1,7 @@
 ---
 title: Ke (Kerr) Lyu
 draft: false
-role: Assistant Professor of Economics
+role: Assistant Professor of Economics and Statistics
 avatar: /jpg/portrait.jpg
 bio: Blanchard Hall 314, 100 E. University, Magnolia, AR 71753 
 organization:
@@ -48,7 +48,7 @@ widget:
 
 ## Self Introduction
 
-I am Assistant Professor of Economics in the Rankin College of Business at Southern Arkansas University.
+I am Assistant Professor of Economics and Statistics in the Rankin College of Business at Southern Arkansas University.
 
 My research fields are **Labor Economics**, **Economics of Entrepreneurship**, **Public Economics**, and **Health Economics**. Broadly, my research examines how public policies and individual factors shape entrepreneurial activity, particularly among “fragile” or early-stage ventures such as solo self-employment, nonemployer firms, and unincorporated businesses. Two key questions drive my research: 
 
