@@ -14,8 +14,6 @@ sidebar:
         url: /teaching/tech-example2/
 ---
 
-## Teaching Experience
-
 ### Southern Arkansas University
 
 **Instructor**
