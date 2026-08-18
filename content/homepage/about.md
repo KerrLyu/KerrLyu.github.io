@@ -3,7 +3,7 @@ title: Ke (Kerr) Lyu
 draft: false
 role: Assistant Professor of Economics and Statistics
 avatar: /jpg/portrait.jpg
-bio: Blanchard Hall 314, 100 E. University, Magnolia, AR 71753 
+bio: Blanchard Hall 323, 100 E. University, Magnolia, AR 71753 
 organization:
   name: Southern Arkansas University
   url: https://web.saumag.edu/business/about/
