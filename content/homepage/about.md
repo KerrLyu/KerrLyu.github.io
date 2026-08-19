@@ -50,7 +50,7 @@ widget:
 
 I am Assistant Professor of Economics and Statistics in the Rankin College of Business at Southern Arkansas University.
 
-My research fields are **Labor Economics**, **Economics of Entrepreneurship**, **Public Economics**, and **Health Economics**. Broadly, my research examines how public policies and individual factors shape entrepreneurial activity, particularly among “fragile” or early-stage ventures such as solo self-employment, nonemployer firms, and unincorporated businesses. Two key questions drive my research: 
+My research fields are **Labor Economics**, **Economics of Entrepreneurship**, and **Public Economics**. Broadly, my research examines how public policies and individual factors shape entrepreneurial activity, particularly among “fragile” or early-stage ventures such as solo self-employment, nonemployer firms, and unincorporated businesses. Two key questions drive my research: 
 
 ❓What drives self-employment? Is it primarily dominated and driven by opportunity or by necessity in both high- and middle-income countries?
 
