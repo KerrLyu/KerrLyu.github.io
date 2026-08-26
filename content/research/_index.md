@@ -35,6 +35,7 @@ _With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Fran
 </span>  
 <span class="research-meta">
 IZA Discussion Paper No. 18101<br>
+Revise and Resubmit at <em>Labour Economics</em><br>
 *Presented at 29th SOLE Annual Meeting 2026, PhD-EVS 2026, GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<sup>✚</sup>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024*  
 *Second Prize, Smart Economic Planning and Industrial Policy Conference 2025*
 <br><span class="research-footnote">✚ coauthor presentation</span>
@@ -63,6 +64,7 @@ IZA Discussion Paper No. 18101<br>
   <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
 </span>  
 <span class="research-meta">
+Revise and Resubmit at <em>Journal of Banking and Finance</em>
 </span>
 
 <div class="research-panel-grid">
