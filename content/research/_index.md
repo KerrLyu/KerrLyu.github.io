@@ -52,7 +52,7 @@ Revise and Resubmit at <em>Labour Economics</em><br>
 <div class="fig-wrap">
     <figure class="fig">
       <img src="/jpg/mw_website.jpg" alt="Contiguous county pairs with minimum wage differences, 2020" loading="lazy" decoding="async">
-      <figcaption>Contiguous Boundary Pair Counties with Minimum Wage in 2020</figcaption>
+      <figcaption>Contiguous County Pairs with Minimum Wage Differences in 2020</figcaption>
     </figure>
   </div>
 
@@ -87,7 +87,7 @@ _With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>,
 and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a>_
 </span>  
 <span class="research-meta">
-*Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<sup>✚</sup>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<sup>✚</sup>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<sup>✚</sup>, 5th UCLA Anderson Price Research Conference 2025, Goergia State University 2025<sup>✚</sup>, University of Michigan 2025<sup>✚</sup>, University of Nevada, Reno 2025*
+*Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<sup>✚</sup>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<sup>✚</sup>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<sup>✚</sup>, 5th UCLA Anderson Price Research Conference 2025, Georgia State University 2025<sup>✚</sup>, University of Michigan 2025<sup>✚</sup>, University of Nevada, Reno 2025*
 <br>
 <span class="research-footnote">✚ coauthor presentation</span>
 </span> 

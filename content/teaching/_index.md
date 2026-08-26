@@ -5,13 +5,6 @@ date: 2025-01-10
 read_time: false
 noBg: true
 hideMeta: true
-sidebar:
-   title: What's More
-   items:
-      - title: Teaching with Technology - Mentimeter
-        url: /teaching/tech-example/
-      - title: Teaching with Technology – Zoom and Excel
-        url: /teaching/tech-example2/
 ---
 
 ### Southern Arkansas University
@@ -33,12 +26,12 @@ sidebar:
    - [Job Market Bingo Class Game](/teaching/job_market_bingo/)  
 4. **Math Camp for Incoming Master’s and Ph.D. Students** – Summer 2025, 2023, 2022
 
-## Student Feedback Highlights 
+## Student Feedback Highlights
 
 <div class="feedback-grid">
   <span>"Absolutely amazing instructor. The class games helped me learn a lot."</span>
   <span>"I love how she set up the class and her policies. It made a hard topic easier."</span>
-  <span>"Professor Lyu knows what she’s teaching and presents it in a clear, fun way."</span>
+  <span>"Professor Lyu knows her material and presents it in a clear, engaging way."</span>
   <span>"Very pleasant course with great learning opportunities."</span>
   <span>"She gives many chances to succeed — something I truly appreciate."</span>
   <span>"The notes and lectures were easy to follow and helpful."</span>
