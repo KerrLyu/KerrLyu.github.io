@@ -48,7 +48,7 @@ widget:
 
 ## Self Introduction
 
-I am an Assistant Professor of Economics and Statistics in the Rankin College of Business at Southern Arkansas University.
+I am an Assistant Professor of Economics and Statistics in the David F. Rankin College of Business at Southern Arkansas University.
 
 My research fields are **Labor Economics**, **Economics of Entrepreneurship**, and **Public Economics**. Broadly, my research examines how public policies and individual factors shape entrepreneurial activity, especially in “fragile” or early-stage ventures such as solo self-employment, nonemployer firms, and unincorporated businesses. Two key questions guide my research:
 
@@ -69,4 +69,3 @@ My research fields are **Labor Economics**, **Economics of Entrepreneurship**, a
 <div class="news-item news-item-light">
   <em>01/16/2026</em> — <em>Small Business Economics</em> published <a href="https://link.springer.com/article/10.1007/s11187-025-01171-7">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</a>.
 </div>
-
