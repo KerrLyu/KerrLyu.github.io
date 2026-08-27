@@ -25,8 +25,7 @@ title: Research
 
 ## Working Papers
 
-1. **_Job Market Paper_**: 
-<span class="research-link">
+1. <span class="research-link">
 <strong><a href="https://www.iza.org/publications/dp/18101/how-do-minimum-wages-affect-nonemployer-businesses-in-the-united-states" class="research-link-anchor">
 How Do Minimum Wages Affect Nonemployer Businesses in the United States?
 </a></strong></span>  

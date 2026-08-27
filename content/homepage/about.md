@@ -63,7 +63,7 @@ My research fields are **Labor Economics**, **Economics of Entrepreneurship**, a
 </div>
 
 <div class="news-item news-item-strong">
-  <em>05/01/2026–05/03/2026</em> — Our paper <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em> was accepted for presentation at the <a href="https://www.sole-jole.org/upcoming-meeting">Society of Labor Economists' 29th Annual Meeting</a>.
+  <em>05/01/2026–05/03/2026</em> — Our paper <em>"How Do Minimum Wages Affect Nonemployer Business Establishments in the United States?"</em> was presented at the <a href="https://www.sole-jole.org/upcoming-meeting">Society of Labor Economists' 29th Annual Meeting</a>.
 </div>
 
 <div class="news-item news-item-light">
