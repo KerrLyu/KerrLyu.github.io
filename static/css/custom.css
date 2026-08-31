@@ -135,6 +135,27 @@
   display: none;
 }
 
+.research-list {
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+}
+
+.research-entry {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr);
+  column-gap: 12px;
+  align-items: start;
+}
+
+.research-entry-number {
+  color: #555;
+}
+
+.research-entry-body > p {
+  margin: 0;
+}
+
 .research-panel-grid {
   display: grid;
   grid-template-columns: 1fr;
