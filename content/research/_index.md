@@ -25,37 +25,34 @@ title: Research
 
 ## Working Papers
 
-1. <span class="research-link">
-<strong><a href="https://www.iza.org/publications/dp/18101/how-do-minimum-wages-affect-nonemployer-businesses-in-the-united-states" class="research-link-anchor">
-How Do Minimum Wages Affect Nonemployer Businesses in the United States?
-</a></strong></span>  
-<span class="research-authors">
-_With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>_
-</span>  
-<span class="research-meta">
-IZA Discussion Paper No. 18101<br>
-Revise and Resubmit at <em>Labour Economics</em><br>
-*Presented at 29th SOLE Annual Meeting 2026, PhD-EVS 2026, GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<sup>✚</sup>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024*  
-*Second Prize, Smart Economic Planning and Industrial Policy Conference 2025*
-<br><span class="research-footnote">✚ coauthor presentation</span>
-</span>  
+<ol>
+  <li>
+    <p><strong><a href="https://www.iza.org/publications/dp/18101/how-do-minimum-wages-affect-nonemployer-businesses-in-the-united-states" class="research-link-anchor">How Do Minimum Wages Affect Nonemployer Businesses in the United States?</a></strong><br>
+    <span class="research-authors"><em>With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a></em></span><br>
+    <span class="research-meta">
+    IZA Discussion Paper No. 18101<br>
+    Revise and Resubmit at <em>Labour Economics</em><br>
+    <em>Presented at 29th SOLE Annual Meeting 2026, PhD-EVS 2026, GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<sup>✚</sup>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024</em><br>
+    <em>Second Prize, Smart Economic Planning and Industrial Policy Conference 2025</em><br>
+    <span class="research-footnote">✚ coauthor presentation</span>
+    </span></p>
 
-<div class="research-panel-grid research-panel-grid--wide">
+    <div class="research-panel-grid research-panel-grid--wide">
+      <div class="research-abstract">
+        <p><strong>Abstract:</strong><br>
+        This paper investigates the impact of regional minimum wage increases on nonemployer business establishments in the United States. We develop a theoretical model of occupational choice motivating our empirical analysis. The effects of minimum wages are estimated using panel data analysis and an identification strategy that compares nonemployer establishments in contiguous counties across neighboring states. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that a $1 increase in the minimum wage leads to a 0.5%–0.9% decrease in the number of nonemployer businesses, likely due to relatively more attractive wage employment. This shift is smaller in counties characterized by higher percentages of Hispanics, African Americans, Asians, and lower percentages of high school graduates. Conversely, higher minimum wages increase the number of nonemployers in the transportation sector as individuals are pushed into the gig economy, which is not covered by minimum wages. Further analysis based on various data sources from official statistics reveals that higher minimum wages discourage transitions from nonemployer to employer status and instead increase transitions from self-employment to wage employment and unemployment. Our findings add perspective to the debate on minimum wages by showing how this regulation affects nonemployers as an important part of their regional institutional environment.
+        </p>
+      </div>
 
-  <div class="research-abstract">
-    <p><strong>Abstract:</strong><br>
-    This paper investigates the impact of regional minimum wage increases on nonemployer business establishments in the United States. We develop a theoretical model of occupational choice motivating our empirical analysis. The effects of minimum wages are estimated using panel data analysis and an identification strategy that compares nonemployer establishments in contiguous counties across neighboring states. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that a $1 increase in the minimum wage leads to a 0.5%–0.9% decrease in the number of nonemployer businesses, likely due to relatively more attractive wage employment. This shift is smaller in counties characterized by higher percentages of Hispanics, African Americans, Asians, and lower percentages of high school graduates. Conversely, higher minimum wages increase the number of nonemployers in the transportation sector as individuals are pushed into the gig economy, which is not covered by minimum wages. Further analysis based on various data sources from official statistics reveals that higher minimum wages discourage transitions from nonemployer to employer status and instead increase transitions from self-employment to wage employment and unemployment. Our findings add perspective to the debate on minimum wages by showing how this regulation affects nonemployers as an important part of their regional institutional environment.
-    </p>
-  </div>
-
-<div class="fig-wrap">
-    <figure class="fig">
-      <img src="/jpg/mw_website.jpg" alt="Contiguous county pairs with minimum wage differences, 2020" loading="lazy" decoding="async">
-      <figcaption>Contiguous County Pairs with Minimum Wage Differences in 2020</figcaption>
-    </figure>
-  </div>
-
-</div>
+      <div class="fig-wrap">
+        <figure class="fig">
+          <img src="/jpg/mw_website.jpg" alt="Contiguous county pairs with minimum wage differences, 2020" loading="lazy" decoding="async">
+          <figcaption>Contiguous County Pairs with Minimum Wage Differences in 2020</figcaption>
+        </figure>
+      </div>
+    </div>
+  </li>
+</ol>
 
 2. Local Credit Supply Shocks Discourage Startups from Loan Applications  
 <span class="research-authors">
