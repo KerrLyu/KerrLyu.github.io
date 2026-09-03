@@ -11,8 +11,11 @@ hideMeta: true
 
 **Instructor**
 
-1. **ECON 2103 Principles of Microeconomics** – Fall 2026  
-2. **GBUS 3183 Statistics and Analysis II** – Fall 2026
+1. **ECON 2103 Principles of Microeconomics** – Spring 2027  
+2. **ECON 2203 Principles of Macroeconomics** – Spring 2027  
+3. **ECON 3093 Managerial Economics** – Spring 2027  
+4. **ECON 2103 Principles of Microeconomics** – Fall 2026  
+5. **GBUS 3183 Statistics and Analysis II** – Fall 2026
 
 ### University of Nevada, Reno
 
