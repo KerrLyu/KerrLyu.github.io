@@ -861,9 +861,9 @@
 .research-link,
 .research-link a,
 .research-link-anchor { color: #5a7e78 !important; }
-.news-item-light { background-color: #e4ede4; }
-.news-item-mid { background-color: #d2e0d2; }
-.news-item-strong { background-color: #bfd3c0; }
+.news-item-light { background-color: #f3f6f1; }
+.news-item-mid { background-color: #edf2ea; }
+.news-item-strong { background-color: #e6eee4; }
 .visit-counter { border-top-color: rgba(90, 126, 120, 0.25); color: #6d7a73; }
 .teaching-intro,
 .game-card p:not(.game-card-kicker),
@@ -871,7 +871,7 @@
 .game-card,
 .game-resource-list a,
 .game-preview img { border-color: #ccd9cf; }
-.game-card { border-top-color: #5a7e78; background: linear-gradient(150deg, #ffffff 0%, #f0f4ed 100%); }
+.game-card { border-top-color: #5a7e78; background: linear-gradient(150deg, #ffffff 0%, #f8f8f4 100%); }
 .game-card-public { border-top-color: #d8a65a; }
 .game-card-market { border-top-color: #5a7e78; }
 .game-card-credit { border-top-color: #718b84; }
@@ -888,24 +888,24 @@
 .teaching-role,
 .game-resource-list span,
 .game-preview figcaption { color: #6d7a73; }
-.game-resource-list a { background: #fbfcf8; }
-.game-resource-list a:hover { border-color: #8da99b; background: #edf4ed; }
-.game-studio-heading { border-color: #d0ddd2; background: radial-gradient(circle at 92% 14%, rgba(90, 126, 120, 0.18), transparent 28%), linear-gradient(135deg, #fbfcf8 0%, #edf3ec 100%); }
+.game-resource-list a { background: #fcfcfa; }
+.game-resource-list a:hover { border-color: #8da99b; background: #f3f6f1; }
+.game-studio-heading { border-color: #d0ddd2; background: radial-gradient(circle at 92% 14%, rgba(90, 126, 120, 0.12), transparent 28%), linear-gradient(135deg, #fcfcfa 0%, #f5f6f2 100%); }
 .game-studio-eyebrow,
 .game-studio-count,
 .game-core-concept > span,
 .game-resource-type { color: #487067 !important; }
 .game-studio-count { border-color: #bdd0c0; background: rgba(255, 255, 255, 0.76); }
-.game-card { --game-accent: #5a7e78; --game-soft: #eef4ed; }
-.game-card-costs { --game-accent: #52776e; --game-soft: #edf4ee; }
+.game-card { --game-accent: #5a7e78; --game-soft: #f5f7f3; }
+.game-card-costs { --game-accent: #52776e; --game-soft: #f4f7f3; }
 .game-card-public { --game-accent: #b7833f; --game-soft: #faf4e7; }
-.game-card-market { --game-accent: #5a7e78; --game-soft: #edf5ee; }
-.game-card-credit { --game-accent: #718b84; --game-soft: #f0f4ef; }
+.game-card-market { --game-accent: #5a7e78; --game-soft: #f4f7f3; }
+.game-card-credit { --game-accent: #718b84; --game-soft: #f5f7f3; }
 .game-card-details { border-color: #d4e0d4; }
 .game-card-details p { color: #62736c !important; }
 .game-card-link { background: var(--game-accent); color: #ffffff; }
 .game-resource-list a::before { background: #5a7e78; }
-.game-core-concept { border-color: #bdd0c0; background: #eff5ed; }
+.game-core-concept { border-color: #bdd0c0; background: #f5f8f3; }
 .research-authors { color: #263c3a; }
 .research-collab-note,
 .research-footnote { color: #5a7e78; }
@@ -913,8 +913,8 @@
 .research-presentations { color: #596b64; }
 .research-presentations summary { color: #487067; }
 .research-presentations summary:hover { color: #263c3a; }
-.research-presentations > div { border-left-color: #b7cdbb; background: #f1f5ee; }
-.status-pill { border-color: #8eaa97; background-color: #e9f1e8; color: #31584f; }
+.research-presentations > div { border-left-color: #b7cdbb; background: #f7f8f4; }
+.status-pill { border-color: #8eaa97; background-color: #f1f5ef; color: #31584f; }
 .status-pill-dot { background-color: #5a7e78; }
 .status-pill--accent { border-color: #d3ae72; background-color: #fbf2df; color: #6a4e23; }
 .fig { background: #ffffff; box-shadow: 0 6px 24px rgba(38, 60, 58, 0.08); }

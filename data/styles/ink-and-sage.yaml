@@ -7,9 +7,9 @@ fonts:
 colors:
   light:
     theme: "#5A7E78"
-    primaryBackground: "#F7F6F0"
+    primaryBackground: "#FBFAF7"
     secondaryBackground: "#FFFFFF"
-    tertiaryBackground: "#EFEEE7"
+    tertiaryBackground: "#F3F2ED"
     primaryText: "#263C3A"
     secondaryText: "#435552"
     tertiaryText: "#6D7A73"
