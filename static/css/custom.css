@@ -663,6 +663,60 @@
   color: #6E8798;
 }
 
+.publication-list {
+  display: grid;
+  gap: 0.8rem;
+  margin: 1.1rem 0 2.5rem;
+}
+
+.publication-card {
+  display: grid;
+  grid-template-columns: 4.75rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid #d8e3ea;
+  border-radius: 0.75rem;
+  background: linear-gradient(110deg, #f7fafc 0%, #ffffff 70%);
+  box-shadow: 0 0.35rem 1rem rgba(33, 56, 74, 0.045);
+  transition: border-color 180ms ease, transform 180ms ease, box-shadow 180ms ease;
+}
+
+.publication-card:hover {
+  transform: translateY(-2px);
+  border-color: #9fb5c4;
+  box-shadow: 0 0.6rem 1.25rem rgba(33, 56, 74, 0.09);
+}
+
+.publication-card time {
+  align-self: start;
+  color: #486b82;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.09em;
+}
+
+.publication-card p,
+.publication-card h3 {
+  margin: 0;
+}
+
+.publication-card h3 {
+  margin-top: 0.25rem;
+  font-family: var(--font-family-heading);
+  font-size: 1.08rem;
+  line-height: 1.35;
+}
+
+.publication-venue {
+  margin-top: 0.45rem !important;
+  color: #53616b;
+}
+
+.publication-card .research-collab-note {
+  margin-top: 0.35rem;
+}
+
 .research-hidden {
   display: none;
 }
@@ -686,6 +740,40 @@
 
 .research-entry-body > p {
   margin: 0;
+}
+
+.research-status-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.55rem 0 0;
+}
+
+.research-presentations {
+  margin-top: 0.55rem;
+  color: #59636b;
+  font-size: 0.9em;
+}
+
+.research-presentations summary {
+  width: fit-content;
+  cursor: pointer;
+  color: #486b82;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.84rem;
+  font-weight: 700;
+}
+
+.research-presentations summary:hover {
+  color: #244e69;
+}
+
+.research-presentations > div {
+  margin-top: 0.55rem;
+  padding: 0.65rem 0.8rem;
+  border-left: 3px solid #bfd1dd;
+  background: #f6f9fb;
+  line-height: 1.55;
 }
 
 .research-panel-grid {
@@ -739,6 +827,12 @@
   flex-shrink: 0;
 }
 
+.status-pill--accent {
+  border-color: #9eb7a8;
+  background-color: #edf5ef;
+  color: #315643;
+}
+
 @media (max-width: 900px) {
   .research-media-grid {
     grid-template-columns: 1fr;
@@ -750,6 +844,11 @@
   .research-panel-grid--wide,
   .game-grid {
     grid-template-columns: 1fr;
+  }
+
+  .publication-card {
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
   }
 
   .teaching-course {

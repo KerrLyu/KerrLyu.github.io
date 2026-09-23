@@ -89,17 +89,3 @@ hideMeta: true
   <div class="teaching-course"><span>Spring 2023</span><strong>ECON 103</strong><span>Principles of Macroeconomics</span></div>
   <div class="teaching-course"><span>Summer 2025, 2023, 2022</span><strong>Math Camp</strong><span>Incoming Master's and Ph.D. Students</span></div>
 </div>
-
-## Student Feedback Highlights
-
-<div class="feedback-grid">
-  <span>"Absolutely amazing instructor. The class games helped me learn a lot."</span>
-  <span>"I love how she set up the class and her policies. It made a hard topic easier."</span>
-  <span>"Professor Lyu knows her material and presents it in a clear, engaging way."</span>
-  <span>"Very pleasant course with great learning opportunities."</span>
-  <span>"She gives many chances to succeed — something I truly appreciate."</span>
-  <span>"The notes and lectures were easy to follow and helpful."</span>
-  <span>"Her teaching style was helpful — the material was easy to understand."</span>
-  <span>"The course was well-paced, and I appreciated the one-week homework window."</span>
-  <span>"Games and simulations provided hands-on experience with the topics."</span>
-</div>

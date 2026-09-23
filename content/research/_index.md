@@ -3,15 +3,41 @@ title: Research
 ---
 ## Publications
 
-1. <span class="research-authors"><strong>Can, E., Lyu, K., Yang, J., &amp; Pham, H. (2026).</strong></span>  [<span class="research-link">The Effect of the Kansas Tax Reform on Self-Employment Hours Worked</span>](https://link.springer.com/article/10.1007/s10797-026-09985-1?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20260704&utm_content=10.1007/s10797-026-09985-1). <em>International Tax and Public Finance</em>.
-
-2. <span class="research-authors"><strong>Fairlie, R., Fossen, F., Lyu, K. (2026).</strong></span>  [<span class="research-link">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</span>](https://doi.org/10.1007/s11187-025-01171-7). <em>Small Business Economics</em>.
-
-3. <span class="research-authors"><strong>Brodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., ... &amp; Hausladen, C. I. (2026).</strong></span>  [<span class="research-link">Reproducibility and Robustness of Economics and Political Science Research</span>](https://www.nature.com/articles/s41586-026-10251-x). <em>Nature</em>, 652(8108), 151-156.
-<span class="research-collab-note">Contributing author in a large-scale multi-author collaboration.</span>
-
-
-4. <span class="research-authors"><strong>Lyu, K. (2023).</strong></span>  [<span class="research-link">Social Capital and Self-employment Dynamics in China</span>](https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028). <em>The Chinese Economy</em>, 56:6, 459-485, 2023.
+<div class="publication-list">
+  <article class="publication-card">
+    <time datetime="2026">2026</time>
+    <div>
+      <p class="research-authors"><strong>Can, E., Lyu, K., Yang, J., &amp; Pham, H.</strong></p>
+      <h3><a href="https://link.springer.com/article/10.1007/s10797-026-09985-1?utm_source=rct_congratemailt&amp;utm_medium=email&amp;utm_campaign=nonoa_20260704&amp;utm_content=10.1007/s10797-026-09985-1" class="research-link-anchor">The Effect of the Kansas Tax Reform on Self-Employment Hours Worked</a></h3>
+      <p class="publication-venue"><em>International Tax and Public Finance</em></p>
+    </div>
+  </article>
+  <article class="publication-card">
+    <time datetime="2026">2026</time>
+    <div>
+      <p class="research-authors"><strong>Fairlie, R., Fossen, F., &amp; Lyu, K.</strong></p>
+      <h3><a href="https://doi.org/10.1007/s11187-025-01171-7" class="research-link-anchor">A Tale of Two Startups: The Loss and Gain of Startups in the U.S. Economy in the Pandemic</a></h3>
+      <p class="publication-venue"><em>Small Business Economics</em></p>
+    </div>
+  </article>
+  <article class="publication-card">
+    <time datetime="2026">2026</time>
+    <div>
+      <p class="research-authors"><strong>Brodeur, A., Mikola, D., Cook, N., Fiala, L., Brailey, T., Briggs, R., ... &amp; Hausladen, C. I.</strong></p>
+      <h3><a href="https://www.nature.com/articles/s41586-026-10251-x" class="research-link-anchor">Reproducibility and Robustness of Economics and Political Science Research</a></h3>
+      <p class="publication-venue"><em>Nature</em>, 652(8108), 151-156</p>
+      <p class="research-collab-note">Contributing author in a large-scale multi-author collaboration.</p>
+    </div>
+  </article>
+  <article class="publication-card">
+    <time datetime="2023">2023</time>
+    <div>
+      <p class="research-authors"><strong>Lyu, K.</strong></p>
+      <h3><a href="https://www.tandfonline.com/doi/full/10.1080/10971475.2023.2227028" class="research-link-anchor">Social Capital and Self-employment Dynamics in China</a></h3>
+      <p class="publication-venue"><em>The Chinese Economy</em>, 56(6), 459-485</p>
+    </div>
+  </article>
+</div>
 
 
 
@@ -30,12 +56,15 @@ title: Research
 <div class="research-entry-number">1.</div>
 <div class="research-entry-body">
 <p><strong><a href="https://www.iza.org/publications/dp/18101/how-do-minimum-wages-affect-nonemployer-businesses-in-the-united-states" class="research-link-anchor">How Do Minimum Wages Affect Nonemployer Businesses in the United States?</a></strong><br>
-<span class="research-authors"><em>With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a></em></span><br>
-<span class="research-meta">IZA Discussion Paper No. 18101<br>
-Revise and Resubmit at <em>Labour Economics</em><br>
-<em>Presented at 29th SOLE Annual Meeting 2026, PhD-EVS 2026, GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<sup>✚</sup>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024</em><br>
-<em>Second Prize, Smart Economic Planning and Industrial Policy Conference 2025</em><br>
-<span class="research-footnote">✚ coauthor presentation</span></span></p>
+<span class="research-authors"><em>With <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a></em></span></p>
+<div class="research-status-row">
+  <span class="status-pill">IZA Discussion Paper No. 18101</span>
+  <span class="status-pill status-pill--accent">Revise and Resubmit at <em>Labour Economics</em></span>
+</div>
+<details class="research-presentations">
+  <summary>Presentations and award</summary>
+  <div><em>Presented at 29th SOLE Annual Meeting 2026, PhD-EVS 2026, GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<sup>✚</sup>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024</em><br><em>Second Prize, Smart Economic Planning and Industrial Policy Conference 2025</em><br><span class="research-footnote">✚ coauthor presentation</span></div>
+</details>
 <div class="research-panel-grid research-panel-grid--wide">
 <div class="research-abstract">
 <p><strong>Abstract:</strong><br>
@@ -55,8 +84,8 @@ This paper investigates the impact of regional minimum wage increases on nonempl
 <div class="research-entry-number">2.</div>
 <div class="research-entry-body">
 <p><strong>Local Credit Supply Shocks Discourage Startups from Loan Applications</strong><br>
-<span class="research-authors"><em>With <a href="https://www.unr.edu/business/faculty-and-staff/flanigan-rachel">Rachel M. Flanigan</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a></em></span><br>
-<span class="research-meta">Revise and Resubmit at <em>Journal of Banking and Finance</em></span></p>
+<span class="research-authors"><em>With <a href="https://www.unr.edu/business/faculty-and-staff/flanigan-rachel">Rachel M. Flanigan</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a></em></span></p>
+<div class="research-status-row"><span class="status-pill status-pill--accent">Revise and Resubmit at <em>Journal of Banking and Finance</em></span></div>
 <div class="research-panel-grid">
 <div class="research-abstract">
 <p><strong>Abstract:</strong><br>
@@ -70,9 +99,11 @@ Are entrepreneurs discouraged from applying for bank loans during a credit crunc
 <div class="research-entry-number">3.</div>
 <div class="research-entry-body">
 <p><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262559" class="research-link-anchor">Taxes, Incentives and Entrepreneurship: Evidence from the Universe of U.S. Startups</a></strong><br>
-<span class="research-authors"><em>With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>, <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>, and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a></em></span><br>
-<span class="research-meta"><em>Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<sup>✚</sup>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<sup>✚</sup>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<sup>✚</sup>, 5th UCLA Anderson Price Research Conference 2025, Georgia State University 2025<sup>✚</sup>, University of Michigan 2025<sup>✚</sup>, University of Nevada, Reno 2025</em><br>
-<span class="research-footnote">✚ coauthor presentation</span></span></p>
+<span class="research-authors"><em>With <a href="https://rfairlie.sites.luskin.ucla.edu/">Robert Fairlie</a>, <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a>, and <a href="https://sites.google.com/site/andrewjohnstoneconomics/">Andrew Johnston</a></em></span></p>
+<details class="research-presentations">
+  <summary>Presentations</summary>
+  <div><em>Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<sup>✚</sup>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<sup>✚</sup>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<sup>✚</sup>, 5th UCLA Anderson Price Research Conference 2025, Georgia State University 2025<sup>✚</sup>, University of Michigan 2025<sup>✚</sup>, University of Nevada, Reno 2025</em><br><span class="research-footnote">✚ coauthor presentation</span></div>
+</details>
 <div class="research-panel-grid research-panel-grid--wide">
 <div class="research-abstract">
 <p><strong>Abstract:</strong><br>
@@ -96,9 +127,11 @@ Governments spend billions of dollars each year on tax cuts and incentives targe
 <div class="research-entry-number">4.</div>
 <div class="research-entry-body">
 <p><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5360480" class="research-link-anchor">Targeted Poverty Alleviation and Unincorporated Entrepreneurship: Evidence from China</a></strong><br>
-<span class="research-authors"><em>With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang</em></span><br>
-<span class="research-meta"><em>Presented at CES NA Annual Conference 2026<sup>✚</sup>, 100th WEAI 2025</em><br>
-<span class="research-footnote">✚ coauthor presentation</span></span></p>
+<span class="research-authors"><em>With <a href="https://www.unr.edu/business/faculty-and-staff/song-shunfeng">Shunfeng Song</a> and Mengfei Zhang</em></span></p>
+<details class="research-presentations">
+  <summary>Presentations</summary>
+  <div><em>Presented at CES NA Annual Conference 2026<sup>✚</sup>, 100th WEAI 2025</em><br><span class="research-footnote">✚ coauthor presentation</span></div>
+</details>
 <div class="research-panel-grid research-panel-grid--wide">
 <div class="research-abstract">
 <p><strong>Abstract:</strong><br>
