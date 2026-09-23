@@ -10,15 +10,32 @@ aliases:
   - /teaching/econ_103/supply_and_demand/
 ---
 
-An interactive market experiment for **ECON 2103: Principles of Microeconomics**. Students take the roles of buyers and sellers while the class tracks demand, supply, and price adjustment toward equilibrium.
+An interactive market experiment for **ECON 2103: Principles of Microeconomics**. Students take the roles of buyers and sellers while the class observes supply, demand, and price adjustment toward equilibrium.
+
+<div class="game-core-concept">
+  <span>Core concept</span>
+  <strong>Supply, Demand, and Equilibrium</strong>
+</div>
 
 ## Game Materials
 
 <div class="game-resource-list">
-  <a href="/teaching-games/market/Market_Game_Instructor_Guide.pdf">Instructor Guide <span>PDF</span></a>
-  <a href="/teaching-games/market/Market_Game_Rules_Slides.pdf">Rules Slides <span>PDF</span></a>
-  <a href="/teaching-games/market/Market_Game_Cards.pdf">Market Game Cards <span>PDF</span></a>
-  <a href="/teaching-games/market/Market_Game_Dashboard.html">Open Live Market Dashboard <span>HTML</span></a>
+  <a href="/teaching-games/market/Market_Game_Instructor_Guide.pdf" download>
+    <span class="game-resource-copy"><strong>Instructor Guide</strong><small>Setup notes, round-by-round instructions, and debrief questions.</small></span>
+    <span class="game-resource-type">PDF <b aria-hidden="true">↓</b></span>
+  </a>
+  <a href="/teaching-games/market/Market_Game_Rules_Slides.pdf" download>
+    <span class="game-resource-copy"><strong>Rules Slides</strong><small>Slides that explain the buyer and seller roles before trading begins.</small></span>
+    <span class="game-resource-type">PDF <b aria-hidden="true">↓</b></span>
+  </a>
+  <a href="/teaching-games/market/Market_Game_Cards.pdf" download>
+    <span class="game-resource-copy"><strong>Market Game Cards</strong><small>Printable buyer-value and seller-cost cards for the experiment.</small></span>
+    <span class="game-resource-type">PDF <b aria-hidden="true">↓</b></span>
+  </a>
+  <a href="/teaching-games/market/Market_Game_Dashboard.html">
+    <span class="game-resource-copy"><strong>Live Market Dashboard</strong><small>An in-browser dashboard for recording trades and visualizing market outcomes.</small></span>
+    <span class="game-resource-type">HTML <b aria-hidden="true">↗</b></span>
+  </a>
 </div>
 
 ## Expected Pattern
@@ -27,4 +44,3 @@ An interactive market experiment for **ECON 2103: Principles of Microeconomics**
   <img src="/teaching-games/market/expected_pattern.png" alt="Expected market-game pattern" loading="lazy">
   <figcaption>Example pattern for the market-game dashboard.</figcaption>
 </figure>
-

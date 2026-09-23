@@ -7,21 +7,21 @@ noBg: true
 hideMeta: true
 ---
 
-## Classroom Games
+## Principles of Microeconomics
 
 <div class="game-studio-heading">
   <p class="game-studio-eyebrow">Learning by Doing</p>
-  <p class="teaching-intro">Interactive activities developed for <strong>ECON 2103: Principles of Microeconomics</strong>. Each game includes ready-to-use instructor and student materials.</p>
+  <p class="teaching-intro">Interactive activities for <strong>Principles of Microeconomics</strong>. Each game includes ready-to-use instructor and student materials.</p>
   <span class="game-studio-count">3 microeconomics activities</span>
 </div>
 
 <div class="game-grid">
   <article class="game-card game-card-costs">
     <span class="game-card-number">01</span>
-    <p class="game-card-kicker">ECON 2103 · Costs</p>
+    <p class="game-card-kicker">Costs</p>
     <h3>EconGlider Factory</h3>
     <p>Students connect production decisions, costs, and marginal cost through a hands-on factory activity.</p>
-    <span class="game-concept">Firm marginal cost and production</span>
+    <span class="game-concept">Firm Cost and Production</span>
     <div class="game-card-actions">
       <details class="game-card-details"><summary>Explore the activity</summary><p>Students choose output, compare cost schedules, and identify how marginal cost changes with production.</p></details>
       <a class="game-card-link" href="/teaching/econglider-factory/">Open materials <span aria-hidden="true">→</span></a>
@@ -29,10 +29,10 @@ hideMeta: true
   </article>
   <article class="game-card game-card-public">
     <span class="game-card-number">02</span>
-    <p class="game-card-kicker">ECON 2103 · Public Goods</p>
+    <p class="game-card-kicker">Public Goods</p>
     <h3>Contribution Game</h3>
     <p>Students make contribution decisions, observe group outcomes, and discuss public-goods incentives.</p>
-    <span class="game-concept">Public goods</span>
+    <span class="game-concept">Public Goods</span>
     <div class="game-card-actions">
       <details class="game-card-details"><summary>Explore the activity</summary><p>Students compare private contributions with group outcomes and discuss incentives for cooperation and free riding.</p></details>
       <a class="game-card-link" href="/teaching/contribution-game/">Open materials <span aria-hidden="true">→</span></a>
@@ -40,10 +40,10 @@ hideMeta: true
   </article>
   <article class="game-card game-card-market">
     <span class="game-card-number">03</span>
-    <p class="game-card-kicker">ECON 2103 · Markets</p>
+    <p class="game-card-kicker">Markets</p>
     <h3>Market Game</h3>
     <p>Students act as buyers and sellers while the class observes prices adjust toward market equilibrium.</p>
-    <span class="game-concept">Supply and demand</span>
+    <span class="game-concept">Supply, Demand, and Equilibrium</span>
     <div class="game-card-actions">
       <details class="game-card-details"><summary>Explore the activity</summary><p>Students submit buying and selling decisions over several rounds and observe how market pressure changes prices.</p></details>
       <a class="game-card-link" href="/teaching/supply_and_demand/">Open materials <span aria-hidden="true">→</span></a>
@@ -51,15 +51,15 @@ hideMeta: true
   </article>
 </div>
 
-### Other Classroom Activity
+## Principles of Macroeconomics
 
 <div class="game-grid game-grid-single">
   <article class="game-card game-card-credit">
     <span class="game-card-number">04</span>
-    <p class="game-card-kicker">ECON 103 · Macro</p>
+    <p class="game-card-kicker">Macro</p>
     <h3>Credit Market Auction</h3>
     <p>Students compete as lenders for loan opportunities and explore interest rates, risk, and credit-market decisions.</p>
-    <span class="game-concept">Credit markets and game theory</span>
+    <span class="game-concept">Credit Markets and Strategic Bidding</span>
     <div class="game-card-actions">
       <details class="game-card-details"><summary>Explore the activity</summary><p>Students bid on loan opportunities, compare interest-rate offers, and discuss risk and strategic competition.</p></details>
       <a class="game-card-link" href="/teaching/credit_market_auction/">Open materials <span aria-hidden="true">→</span></a>

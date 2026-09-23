@@ -15,18 +15,31 @@ aliases:
   - /teaching/econ_103/credit_market_auction/
 ---
 
-This game is designed to help freshmen university students understand the credit market and
-game theory by engaging in a competitive auction for loan opportunities. Participants will take on the roles
-of lenders, attempting to maximize their returns while considering their competitors' strategies.
+An auction activity for **ECON 103: Principles of Macroeconomics**. Students act as lenders who assess borrowers, price risk, and make lending decisions under uncertainty.
+
+<div class="game-core-concept">
+  <span>Core concept</span>
+  <strong>Credit Markets and Strategic Bidding</strong>
+</div>
 
 <!--more-->
 
-## Download Here!
-[Introduction](/pdf/game3_intro.pdf) 
+## Game Materials
 
-[Slides](/pdf/game3_slides.pdf) 
-
-[Bingo Card](/pdf/game3_auction_card.pdf)
+<div class="game-resource-list">
+  <a href="/pdf/game3_intro.pdf" download>
+    <span class="game-resource-copy"><strong>Introduction</strong><small>An overview of the activity, learning goals, and instructor setup.</small></span>
+    <span class="game-resource-type">PDF <b aria-hidden="true">↓</b></span>
+  </a>
+  <a href="/pdf/game3_slides.pdf" download>
+    <span class="game-resource-copy"><strong>Activity Slides</strong><small>Slides that introduce the auction rules, borrower information, and rounds.</small></span>
+    <span class="game-resource-type">PDF <b aria-hidden="true">↓</b></span>
+  </a>
+  <a href="/pdf/game3_auction_card.pdf" download>
+    <span class="game-resource-copy"><strong>Auction Cards</strong><small>Printable borrower cards used by lenders to evaluate projects and place bids.</small></span>
+    <span class="game-resource-type">PDF <b aria-hidden="true">↓</b></span>
+  </a>
+</div>
 
 ### Game Insturctions
 

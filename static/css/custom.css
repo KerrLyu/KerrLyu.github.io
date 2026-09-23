@@ -530,6 +530,78 @@
   width: 0.5rem;
 }
 
+.game-core-concept {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem 0.75rem;
+  width: fit-content;
+  max-width: 100%;
+  margin: 1.4rem 0 2rem;
+  padding: 0.65rem 0.9rem;
+  border: 1px solid #b8c9d5;
+  border-radius: 0.8rem;
+  background: #f2f7fa;
+}
+
+.game-core-concept > span {
+  color: #486b82;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.game-core-concept strong {
+  color: var(--theme);
+  font-family: var(--font-family-heading);
+  font-size: 1rem;
+}
+
+.game-resource-copy {
+  display: flex !important;
+  flex: 1 1 auto;
+  flex-direction: column;
+  gap: 0.18rem;
+  min-width: 0;
+  color: var(--theme) !important;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  letter-spacing: normal !important;
+  text-transform: none !important;
+}
+
+.game-resource-copy strong {
+  color: var(--theme);
+  font-family: "Segoe UI", sans-serif;
+  font-size: 1rem;
+  font-weight: 800;
+}
+
+.game-resource-copy small {
+  color: var(--content);
+  font-size: 0.84rem;
+  line-height: 1.4;
+}
+
+.game-resource-type {
+  flex: 0 0 auto;
+  color: #486b82 !important;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.72rem !important;
+  font-weight: 800 !important;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.game-resource-type b {
+  display: inline-block;
+  margin-left: 0.15rem;
+  font-size: 0.95rem;
+}
+
 @keyframes game-card-enter {
   from {
     opacity: 0;
