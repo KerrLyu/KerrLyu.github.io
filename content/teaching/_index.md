@@ -51,8 +51,6 @@ hideMeta: true
   </article>
 </div>
 
-<p class="teaching-extra"><a href="/teaching-games/additional/ECON2103_Elasticity_CardSort_printable.pdf">Additional printable: Elasticity Card Sort</a></p>
-
 ### Other Classroom Activity
 
 <div class="game-grid game-grid-single">

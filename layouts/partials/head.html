@@ -168,7 +168,8 @@
 </script>
 {{- end }}  */}}
 
-<link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+{{ $customCSS := "css/custom.css" | relURL }}
+<link rel="stylesheet" href="{{ $customCSS }}?v={{ now.Unix }}">
 {{ with .Site.Params.goatcounter.code }}
 <script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 {{ end }}
@@ -191,5 +192,4 @@
 {{- range .AlternativeOutputFormats }}
 {{- printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{- end }}
-
 
