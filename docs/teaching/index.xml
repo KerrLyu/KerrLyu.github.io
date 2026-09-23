@@ -6,8 +6,22 @@
     <description>Recent content in Teaching on Ke (Kerr) Lyu</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://KerrLyu.github.io/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contribution Game</title>
+      <link>https://KerrLyu.github.io/teaching/contribution-game/</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://KerrLyu.github.io/teaching/contribution-game/</guid>
+      <description>&lt;p&gt;A classroom public-goods activity for &lt;strong&gt;ECON 2103: Principles of Microeconomics&lt;/strong&gt;. Students make contributions, compare group outcomes, and discuss incentives and free riding.&lt;/p&gt;&#xA;&lt;h2 id=&#34;game-materials&#34;&gt;Game Materials&lt;/h2&gt;&#xA;&lt;div class=&#34;game-resource-list&#34;&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/contribution/ECON2103_ContributionGame_TeachingScript.docx&#34;&gt;Teaching Script &lt;span&gt;DOCX&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/contribution/ECON2103_ContributionGame_RunSheet.docx&#34;&gt;Run Sheet &lt;span&gt;DOCX&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/contribution/ECON2103_ContributionGame_StudentMaterials.docx&#34;&gt;Student Materials &lt;span&gt;DOCX&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/contribution/ECON2103_ContributionGame_Slides.pptx&#34;&gt;Slides &lt;span&gt;PPTX&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/contribution/ECON2103_ContributionGame_Tracker.html&#34;&gt;Open Live Contribution Tracker &lt;span&gt;HTML&lt;/span&gt;&lt;/a&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>EconGlider Factory</title>
+      <link>https://KerrLyu.github.io/teaching/econglider-factory/</link>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://KerrLyu.github.io/teaching/econglider-factory/</guid>
+      <description>&lt;p&gt;A classroom activity for &lt;strong&gt;ECON 2103: Principles of Microeconomics&lt;/strong&gt; that helps students connect production choices, total cost, and marginal cost.&lt;/p&gt;&#xA;&lt;h2 id=&#34;game-materials&#34;&gt;Game Materials&lt;/h2&gt;&#xA;&lt;div class=&#34;game-resource-list&#34;&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/econglider/EconGliderFactory_ClassScript.docx&#34;&gt;Class Script &lt;span&gt;DOCX&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/econglider/EconGliderFactory_ECON2103_Costs.docx&#34;&gt;Costs Worksheet &lt;span&gt;DOCX&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/econglider/EconGliderFactory_Instructions.pptx&#34;&gt;Instructions Slides &lt;span&gt;PPTX&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/econglider/EconGliderFactory_RecordingSheet.docx&#34;&gt;Recording Sheet &lt;span&gt;DOCX&lt;/span&gt;&lt;/a&gt;&#xA;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Credit Market Auction Game</title>
       <link>https://KerrLyu.github.io/teaching/credit_market_auction/</link>
@@ -16,18 +30,11 @@
       <description>&lt;p&gt;This game is designed to help freshmen university students understand the credit market and&#xA;game theory by engaging in a competitive auction for loan opportunities. Participants will take on the roles&#xA;of lenders, attempting to maximize their returns while considering their competitors&amp;rsquo; strategies.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Job Market Bingo Game</title>
-      <link>https://KerrLyu.github.io/teaching/job_market_bingo/</link>
-      <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://KerrLyu.github.io/teaching/job_market_bingo/</guid>
-      <description>&lt;p&gt;To help students understand the dynamics of employment and unemployment in the labor market through&#xA;a fun, interactive game that involves matching job-related factors with their consequences and discussing&#xA;their implications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Supply and Demand Game</title>
+      <title>Market Game</title>
       <link>https://KerrLyu.github.io/teaching/supply_and_demand/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://KerrLyu.github.io/teaching/supply_and_demand/</guid>
-      <description>&lt;p&gt;In this game, students will take on the role of buyers and sellers in a market for a particular product. The&#xA;goal of the game is to find the equilibrium price and quantity in the market by adjusting their buying and&#xA;selling behavior, taking into account their costs and available money.&lt;/p&gt;</description>
+      <description>&lt;p&gt;An interactive market experiment for &lt;strong&gt;ECON 2103: Principles of Microeconomics&lt;/strong&gt;. Students take the roles of buyers and sellers while the class tracks demand, supply, and price adjustment toward equilibrium.&lt;/p&gt;&#xA;&lt;h2 id=&#34;game-materials&#34;&gt;Game Materials&lt;/h2&gt;&#xA;&lt;div class=&#34;game-resource-list&#34;&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/market/Market_Game_Instructor_Guide.pdf&#34;&gt;Instructor Guide &lt;span&gt;PDF&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/market/Market_Game_Rules_Slides.pdf&#34;&gt;Rules Slides &lt;span&gt;PDF&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/market/Market_Game_Cards.pdf&#34;&gt;Market Game Cards &lt;span&gt;PDF&lt;/span&gt;&lt;/a&gt;&#xA;  &lt;a href=&#34;https://KerrLyu.github.io/teaching-games/market/Market_Game_Dashboard.html&#34;&gt;Open Live Market Dashboard &lt;span&gt;HTML&lt;/span&gt;&lt;/a&gt;&#xA;&lt;/div&gt;&#xA;&lt;h2 id=&#34;expected-pattern&#34;&gt;Expected Pattern&lt;/h2&gt;&#xA;&lt;figure class=&#34;game-preview&#34;&gt;&#xA;  &lt;img src=&#34;https://KerrLyu.github.io/teaching-games/market/expected_pattern.png&#34; alt=&#34;Expected market-game pattern&#34; loading=&#34;lazy&#34;&gt;&#xA;  &lt;figcaption&gt;Example pattern for the market-game dashboard.&lt;/figcaption&gt;&#xA;&lt;/figure&gt;</description>
     </item>
     <item>
       <title>Teaching with Technology - Mentimeter</title>

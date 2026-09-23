@@ -81,6 +81,478 @@
   line-height: 1.6;
 }
 
+.teaching-intro {
+  max-width: 760px;
+  color: #4b5563;
+  font-size: 1.03em;
+  line-height: 1.65;
+}
+
+.game-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  margin: 1.5rem 0 0.75rem;
+}
+
+.game-card {
+  display: flex;
+  min-height: 260px;
+  flex-direction: column;
+  padding: 24px;
+  border: 1px solid #d8e0e8;
+  border-top: 5px solid #6e8798;
+  border-radius: 12px;
+  background: linear-gradient(150deg, #ffffff 0%, #f5f8fa 100%);
+  box-shadow: 0 5px 18px rgba(15, 23, 42, 0.07);
+}
+
+.game-card-public {
+  border-top-color: #9c7c38;
+}
+
+.game-card-market {
+  border-top-color: #507b68;
+}
+
+.game-card-credit {
+  border-top-color: #755f94;
+}
+
+.game-grid-single {
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 560px;
+}
+
+.game-card-kicker {
+  margin: 0 0 0.65rem;
+  color: #6e8798;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.game-card h3 {
+  margin: 0;
+  color: #1f2937;
+}
+
+.game-card p:not(.game-card-kicker) {
+  margin: 0.8rem 0 1rem;
+  color: #4b5563;
+  line-height: 1.55;
+}
+
+.game-concept {
+  width: fit-content;
+  margin-top: auto;
+  padding: 0.3rem 0.55rem;
+  border-radius: 999px;
+  background: #e8eef3;
+  color: #42586a;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 600;
+}
+
+.game-card-link {
+  margin-top: 1.1rem;
+  color: #36566e;
+  font-family: "Segoe UI", sans-serif;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.game-card-link:hover {
+  color: #1f3d52;
+  text-decoration: underline;
+}
+
+.teaching-extra {
+  margin: 1rem 0 2.5rem;
+  font-size: 0.9em;
+}
+
+.teaching-course-list {
+  max-width: 920px;
+  margin: 0 0 2.2rem;
+  border-top: 1px solid #dbe2e8;
+}
+
+.teaching-role {
+  margin: -0.25rem 0 0.8rem;
+  color: #6b7280;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.84em;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.teaching-course {
+  display: grid;
+  grid-template-columns: 11.5rem 7rem minmax(0, 1fr);
+  gap: 1rem;
+  padding: 0.68rem 0.2rem;
+  border-bottom: 1px solid #dbe2e8;
+}
+
+.teaching-course > span:first-child {
+  color: #6b7280;
+}
+
+.teaching-course strong {
+  color: #36566e;
+}
+
+.game-resource-list {
+  display: grid;
+  max-width: 760px;
+  gap: 0.7rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.game-resource-list a {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.85rem 1rem;
+  border: 1px solid #d8e0e8;
+  border-radius: 8px;
+  background: #f8fafc;
+  color: #36566e;
+  font-family: "Segoe UI", sans-serif;
+  font-weight: 650;
+  text-decoration: none;
+}
+
+.game-resource-list a:hover {
+  border-color: #6e8798;
+  background: #eef4f8;
+}
+
+.game-resource-list span {
+  color: #6b7280;
+  font-size: 0.74rem;
+  letter-spacing: 0.06em;
+}
+
+.game-preview {
+  max-width: 900px;
+  margin: 1.2rem 0;
+}
+
+.game-preview img {
+  width: 100%;
+  border: 1px solid #d8e0e8;
+  border-radius: 10px;
+  display: block;
+}
+
+.game-preview figcaption {
+  margin-top: 0.5rem;
+  color: #6b7280;
+  font-size: 0.88em;
+  text-align: center;
+}
+
+/* Classroom games use an activity-studio treatment distinct from the course list. */
+.game-studio-heading {
+  position: relative;
+  max-width: 880px;
+  margin: 0.4rem 0 1.4rem;
+  padding: 1.25rem 1.35rem 1.3rem;
+  overflow: hidden;
+  border: 1px solid #d5e0e8;
+  border-radius: 16px;
+  background:
+    radial-gradient(circle at 92% 14%, rgba(83, 125, 104, 0.16), transparent 28%),
+    linear-gradient(135deg, #f8fbfd 0%, #eef4f8 100%);
+}
+
+.game-studio-heading::after {
+  position: absolute;
+  right: 1.15rem;
+  bottom: -1.7rem;
+  color: rgba(54, 86, 110, 0.08);
+  content: "ECON 2103";
+  font-family: Georgia, serif;
+  font-size: 3.2rem;
+  font-weight: 700;
+  pointer-events: none;
+}
+
+.game-studio-eyebrow {
+  margin: 0 0 0.45rem;
+  color: #486b82;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.game-studio-heading .teaching-intro {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+}
+
+.game-studio-count {
+  position: relative;
+  z-index: 1;
+  display: inline-flex;
+  margin-top: 0.9rem;
+  padding: 0.3rem 0.65rem;
+  border: 1px solid #c3d2dd;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.72);
+  color: #486b82;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.game-card {
+  --game-accent: #6e8798;
+  --game-soft: #edf3f7;
+  position: relative;
+  min-height: 300px;
+  overflow: hidden;
+  border: 1px solid color-mix(in srgb, var(--game-accent) 30%, #d8e0e8);
+  border-top: 0;
+  border-radius: 16px;
+  background:
+    linear-gradient(150deg, rgba(255, 255, 255, 0.96) 0%, var(--game-soft) 135%);
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+  transition: transform 220ms ease, box-shadow 220ms ease, border-color 220ms ease;
+  animation: game-card-enter 520ms both;
+}
+
+.game-card::before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 6px;
+  background: var(--game-accent);
+  content: "";
+}
+
+.game-card::after {
+  position: absolute;
+  top: -3.1rem;
+  right: -2.25rem;
+  width: 9rem;
+  height: 9rem;
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--game-accent) 11%, transparent);
+  content: "";
+  transition: transform 320ms ease;
+}
+
+.game-card:hover,
+.game-card:focus-within {
+  transform: translateY(-7px);
+  border-color: color-mix(in srgb, var(--game-accent) 68%, #d8e0e8);
+  box-shadow: 0 18px 34px rgba(15, 23, 42, 0.14);
+}
+
+.game-card:hover::after,
+.game-card:focus-within::after {
+  transform: scale(1.28);
+}
+
+.game-card-costs {
+  --game-accent: #52758b;
+  --game-soft: #edf4f8;
+}
+
+.game-card-public {
+  --game-accent: #9b7937;
+  --game-soft: #fbf6ea;
+}
+
+.game-card-market {
+  --game-accent: #4f7f68;
+  --game-soft: #edf6f1;
+}
+
+.game-card-credit {
+  --game-accent: #755f94;
+  --game-soft: #f3eff8;
+}
+
+.game-card:nth-child(2) {
+  animation-delay: 70ms;
+}
+
+.game-card:nth-child(3) {
+  animation-delay: 140ms;
+}
+
+.game-card-number {
+  position: absolute;
+  z-index: 1;
+  top: 1rem;
+  right: 1.15rem;
+  color: var(--game-accent);
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.game-card-kicker,
+.game-card h3,
+.game-card p,
+.game-card .game-concept,
+.game-card-actions {
+  position: relative;
+  z-index: 1;
+}
+
+.game-card-kicker {
+  color: var(--game-accent);
+}
+
+.game-card h3 {
+  font-size: 1.48rem;
+  letter-spacing: -0.02em;
+}
+
+.game-concept {
+  border: 1px solid color-mix(in srgb, var(--game-accent) 24%, transparent);
+  background: color-mix(in srgb, var(--game-accent) 10%, white);
+  color: color-mix(in srgb, var(--game-accent) 80%, #1f2937);
+}
+
+.game-card-actions {
+  margin-top: 1rem;
+}
+
+.game-card-details {
+  border-top: 1px solid color-mix(in srgb, var(--game-accent) 22%, #dbe2e8);
+}
+
+.game-card-details summary {
+  padding: 0.7rem 0 0.45rem;
+  color: #4b5563;
+  cursor: pointer;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  list-style: none;
+}
+
+.game-card-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.game-card-details summary::after {
+  float: right;
+  color: var(--game-accent);
+  content: "+";
+  font-size: 1.1rem;
+  line-height: 0.8;
+}
+
+.game-card-details[open] summary::after {
+  content: "−";
+}
+
+.game-card-details p {
+  margin: 0 0 0.65rem !important;
+  color: #5f6875 !important;
+  font-size: 0.88rem;
+  line-height: 1.5 !important;
+}
+
+.game-card-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 0.5rem;
+  padding: 0.62rem 0.82rem;
+  border-radius: 8px;
+  background: var(--game-accent);
+  color: #ffffff;
+  font-size: 0.88rem;
+  transition: gap 180ms ease, filter 180ms ease;
+}
+
+.game-card-link:hover,
+.game-card-link:focus-visible {
+  color: #ffffff;
+  filter: brightness(0.92);
+  gap: 0.65rem;
+  text-decoration: none;
+}
+
+.teaching-course {
+  transition: background-color 180ms ease, padding 180ms ease;
+}
+
+.teaching-course:hover {
+  padding-right: 0.7rem;
+  padding-left: 0.7rem;
+  background: #f4f7f9;
+}
+
+.teaching-course strong {
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.9em;
+}
+
+.game-resource-list a {
+  position: relative;
+  overflow: hidden;
+  transition: transform 180ms ease, border-color 180ms ease, background-color 180ms ease;
+}
+
+.game-resource-list a::before {
+  width: 0.35rem;
+  height: 100%;
+  margin: -0.85rem 0 -0.85rem -1rem;
+  background: #6e8798;
+  content: "";
+  transition: width 180ms ease;
+}
+
+.game-resource-list a:hover {
+  transform: translateX(5px);
+}
+
+.game-resource-list a:hover::before {
+  width: 0.5rem;
+}
+
+@keyframes game-card-enter {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .game-card,
+  .game-card:hover,
+  .game-card:focus-within,
+  .game-resource-list a,
+  .teaching-course {
+    animation: none;
+    transition: none;
+    transform: none;
+  }
+}
+
 .media-figure {
   width: min(60%, 100%);
   margin: 0 auto;
@@ -215,8 +687,14 @@
 
 @media (max-width: 768px) {
   .feedback-grid,
-  .research-panel-grid--wide {
+  .research-panel-grid--wide,
+  .game-grid {
     grid-template-columns: 1fr;
+  }
+
+  .teaching-course {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
   }
 }
 

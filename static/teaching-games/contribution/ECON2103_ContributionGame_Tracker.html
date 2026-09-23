@@ -1,0 +1,433 @@
+<title>Contribution Game Tracker</title>
+<style>
+  :root{
+    --navy:#002D62; --navy2:#0B3A6F; --gold:#F2A900; --goldd:#B9800B;
+    --slate:#5B6B7B; --ink:#1F2A37; --cream:#FBF1D9; --line:#E3E7EC;
+    --bg:#F4F6F9; --card:#FFFFFF; --good:#1E874B;
+  }
+  *{box-sizing:border-box}
+  body{background:var(--bg); color:var(--ink);
+    font-family:"Calibri","Segoe UI",system-ui,-apple-system,sans-serif;}
+  h1,h2,h3{font-family:"Cambria","Georgia",serif; color:var(--navy); margin:0;}
+  .wrap{max-width:1180px; margin:0 auto; padding:16px;}
+  header{background:var(--navy); color:#fff; padding:18px 16px; }
+  header .wrap{display:flex; align-items:center; justify-content:space-between; gap:16px; flex-wrap:wrap;}
+  header h1{color:#fff; font-size:26px; line-height:1.1;}
+  header .kick{color:var(--gold); font-weight:700; letter-spacing:2px; font-size:12px; text-transform:uppercase;}
+  .tabs{display:flex; gap:8px;}
+  .tab{background:transparent; color:#cfe0f2; border:1px solid #24568c; padding:8px 14px; border-radius:999px;
+    font-weight:700; font-size:14px; cursor:pointer;}
+  .tab.active{background:var(--gold); color:var(--navy); border-color:var(--gold);}
+  .card{background:var(--card); border:1px solid var(--line); border-radius:14px; padding:16px; margin:14px 0;
+    box-shadow:0 1px 2px rgba(16,40,80,.04);}
+  .card h2{font-size:19px; margin-bottom:4px;}
+  .card .sub{color:var(--slate); font-size:13.5px; margin-bottom:12px;}
+  label{font-size:13px; color:var(--slate); font-weight:700;}
+  input[type=number],input[type=text]{font:inherit; border:1px solid var(--line); border-radius:8px; padding:6px 8px;
+    background:#fff; color:var(--ink);}
+  input[type=number]{width:74px; text-align:center;}
+  input:focus{outline:2px solid var(--gold); outline-offset:0;}
+  .config{display:flex; gap:20px; flex-wrap:wrap; align-items:flex-end;}
+  .field{display:flex; flex-direction:column; gap:4px;}
+  button.btn{font:inherit; font-weight:700; border-radius:8px; padding:7px 12px; cursor:pointer; border:1px solid var(--navy);
+    background:var(--navy); color:#fff;}
+  button.ghost{background:#fff; color:var(--navy);}
+  button.mini{padding:2px 8px; font-size:13px; border-radius:6px;}
+  .tblwrap{overflow-x:auto;}
+  table{border-collapse:collapse; width:100%; font-size:14px;}
+  th,td{border:1px solid var(--line); padding:6px 8px; text-align:center;}
+  th{background:var(--navy); color:#fff; font-weight:700; font-size:13px; position:sticky; top:0;}
+  td.rlabel{text-align:left; white-space:nowrap;}
+  td.rlabel .rr{font-weight:700; color:var(--navy);}
+  td.rlabel .rule{display:block; color:var(--slate); font-size:12px;}
+  tr:nth-child(even) td{background:#FafbfC;}
+  td .cin{width:64px;}
+  td.avg{font-weight:800; color:var(--navy); background:var(--cream)!important;}
+  .muted{color:var(--slate); font-size:12.5px;}
+  .row{display:flex; gap:10px; flex-wrap:wrap; align-items:center;}
+  .spacer{flex:1;}
+  /* leaderboard */
+  .lb{display:flex; flex-direction:column; gap:8px;}
+  .lbrow{display:grid; grid-template-columns:26px 1fr auto; gap:10px; align-items:center;}
+  .bar{height:22px; border-radius:6px; background:linear-gradient(90deg,var(--navy),var(--navy2)); position:relative; min-width:6px;}
+  .bar.top{background:linear-gradient(90deg,var(--goldd),var(--gold));}
+  .lbrow .nm{font-weight:700; color:var(--ink);}
+  .lbrow .tot{font-weight:800; color:var(--navy); font-variant-numeric:tabular-nums;}
+  .lbrow .rank{font-weight:800; color:var(--slate); text-align:center;}
+  /* score calc */
+  .players{display:grid; grid-template-columns:repeat(auto-fill,minmax(210px,1fr)); gap:10px;}
+  .pcard{border:1px solid var(--line); border-radius:10px; padding:10px; background:#fff;}
+  .pcard input{width:100%;}
+  .pcard .lab{font-size:12px; color:var(--slate); font-weight:700; margin-top:6px; display:block;}
+  .calcout{display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:10px; margin-top:6px;}
+  .stat{background:var(--navy); color:#fff; border-radius:10px; padding:12px;}
+  .stat.cream{background:var(--cream); color:var(--navy);}
+  .stat .n{font-family:"Cambria",serif; font-size:28px; font-weight:700; line-height:1;}
+  .stat .l{font-size:12px; opacity:.85; margin-top:4px;}
+  .winner{color:var(--good); font-weight:800;}
+  textarea{width:100%; min-height:110px; font:13px/1.4 "Consolas",monospace; border:1px solid var(--line);
+    border-radius:8px; padding:10px; background:#fff; color:var(--ink);}
+  .note{background:var(--cream); border-left:4px solid var(--gold); padding:10px 12px; border-radius:6px;
+    font-size:13px; color:var(--ink);}
+  .hidden{display:none!important;}
+  svg text{font-family:"Calibri",sans-serif;}
+  @media (max-width:640px){ header h1{font-size:21px;} .stat .n{font-size:23px;} }
+</style>
+
+<header>
+  <div class="wrap">
+    <div>
+      <div class="kick">ECON 2103 · Class Activity</div>
+      <h1>The Contribution Game — Live Tracker</h1>
+    </div>
+    <div class="tabs">
+      <button class="tab active" id="tabClass" onclick="showTab('class')">Class Tracker</button>
+      <button class="tab" id="tabCalc" onclick="showTab('calc')">Score Calculator</button>
+    </div>
+  </div>
+</header>
+
+<div class="wrap">
+
+<!-- ================= CLASS TRACKER ================= -->
+<div id="view-class">
+
+  <div class="card">
+    <h2>Setup</h2>
+    <div class="sub">Set your class up once, then just type each group's contribution after every round.</div>
+    <div class="config">
+      <div class="field"><label>Groups</label><input type="number" id="cfgGroups" min="1" max="16" value="6"></div>
+      <div class="field"><label>Players / group</label><input type="number" id="cfgPlayers" min="2" max="8" value="4"></div>
+      <div class="field"><label>Fund multiplier</label><input type="number" id="cfgMult" min="1" max="5" step="0.5" value="2"></div>
+      <div class="field"><label>Tokens / group each round</label><input type="number" id="cfgEndow" min="1" value="80"></div>
+      <button class="btn ghost" onclick="applyConfig()">Apply</button>
+      <div class="spacer"></div>
+      <button class="btn ghost" onclick="resetAll()">Reset all</button>
+    </div>
+    <div class="muted" style="margin-top:8px">Default endowment 80 = a group of two Big Firms (25) + two Startups (15). Edit any group's endowment in the table header.</div>
+  </div>
+
+  <div class="card">
+    <div class="row">
+      <h2>Each round: type how many tokens each group put in the fund</h2>
+      <div class="spacer"></div>
+      <button class="btn mini ghost" onclick="addRound()">+ Add round</button>
+    </div>
+    <div class="sub">The last column is the whole class's average contribution rate — that's the number the chart below plots.</div>
+    <div class="tblwrap">
+      <table id="grid"></table>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Class average contribution by round</h2>
+    <div class="sub">Project this. Watch the line move as you enter each round — the pattern is the whole point of the debrief.</div>
+    <div id="chart"></div>
+  </div>
+
+  <div class="card">
+    <h2>Group leaderboard <span class="muted">(collective tokens earned so far)</span></h2>
+    <div class="sub">A group's round total = tokens kept + the doubled fund it gets back = endowment + contributed. Higher = the group cooperated more.</div>
+    <div class="lb" id="board"></div>
+  </div>
+
+  <div class="card">
+    <h2>Copy results</h2>
+    <div class="sub">This page doesn't save after a refresh — copy this if you want to keep the numbers.</div>
+    <textarea id="summary" readonly></textarea>
+    <div style="margin-top:8px"><button class="btn" onclick="copySummary()">Copy to clipboard</button> <span id="copied" class="muted"></span></div>
+  </div>
+</div>
+
+<!-- ================= SCORE CALCULATOR ================= -->
+<div id="view-calc" class="hidden">
+  <div class="card">
+    <h2>One-round score calculator</h2>
+    <div class="sub">Enter each player's tokens and how many they put in the fund. See who comes out ahead — great for demoing the individual incentive live.</div>
+    <div class="row" style="margin-bottom:10px">
+      <div class="field"><label>Players</label><input type="number" id="calcN" min="2" max="8" value="4" onchange="buildCalc()"></div>
+      <div class="field"><label>Fund multiplier</label><input type="number" id="calcMult" min="1" max="5" step="0.5" value="2" oninput="runCalc()"></div>
+    </div>
+    <div class="players" id="calcPlayers"></div>
+    <div class="calcout" id="calcStats" style="margin-top:12px"></div>
+    <div class="tblwrap" style="margin-top:12px"><table id="calcTable"></table></div>
+    <div class="note" style="margin-top:12px">Notice: every player gets the <b>same</b> share of the fund, no matter what they put in. Keeping tokens is worth 1 each to you; a token in the fund becomes 2 but is shared by everyone.</div>
+  </div>
+</div>
+
+</div>
+
+<script>
+"use strict";
+/* ---------------- state ---------------- */
+var DEFAULT_RULES = ["Anonymous","Anonymous","Talk it out first","Public + penalty","Public + penalty","Required (tax)","Rules off"];
+var state = null;
+
+function freshState(){
+  var nG = 6, endow = 80;
+  var groups = [];
+  for(var i=0;i<nG;i++) groups.push({name:"Group "+(i+1), endow:endow});
+  var rounds = [];
+  for(var r=0;r<DEFAULT_RULES.length;r++){
+    rounds.push({rule:DEFAULT_RULES[r], contrib:new Array(nG).fill(null)});
+  }
+  return {players:4, mult:2, groups:groups, rounds:rounds};
+}
+
+function resetAll(){
+  if(!confirm("Clear all rounds and start over?")) return;
+  state = freshState();
+  document.getElementById("cfgGroups").value = state.groups.length;
+  document.getElementById("cfgPlayers").value = state.players;
+  document.getElementById("cfgMult").value = state.mult;
+  document.getElementById("cfgEndow").value = 80;
+  renderAll();
+}
+
+function applyConfig(){
+  var nG = clampInt(document.getElementById("cfgGroups").value,1,16,6);
+  var players = clampInt(document.getElementById("cfgPlayers").value,2,8,4);
+  var mult = parseFloat(document.getElementById("cfgMult").value)||2;
+  var endow = clampInt(document.getElementById("cfgEndow").value,1,100000,40);
+  state.players = players; state.mult = mult;
+  // resize groups, preserving existing
+  var cur = state.groups.length;
+  if(nG>cur){ for(var i=cur;i<nG;i++) state.groups.push({name:"Group "+(i+1), endow:endow}); }
+  else if(nG<cur){ state.groups = state.groups.slice(0,nG); }
+  // resize each round's contrib array
+  state.rounds.forEach(function(rd){
+    if(rd.contrib.length>nG) rd.contrib = rd.contrib.slice(0,nG);
+    while(rd.contrib.length<nG) rd.contrib.push(null);
+  });
+  renderAll();
+}
+
+function addRound(){
+  state.rounds.push({rule:"", contrib:new Array(state.groups.length).fill(null)});
+  renderAll();
+}
+function removeRound(i){
+  state.rounds.splice(i,1); renderAll();
+}
+
+function clampInt(v,lo,hi,dflt){ v=parseInt(v,10); if(isNaN(v))return dflt; return Math.max(lo,Math.min(hi,v)); }
+
+/* ---------------- computed ---------------- */
+function roundAvgPct(ri){
+  var rd = state.rounds[ri]; var tc=0, ta=0, any=false;
+  for(var g=0; g<state.groups.length; g++){
+    var c = rd.contrib[g];
+    if(c!==null && c!=="" && !isNaN(c)){ tc += Number(c); ta += state.groups[g].endow; any=true; }
+  }
+  if(!any || ta===0) return null;
+  return 100*tc/ta;
+}
+function groupTotal(gi){
+  // collective tokens: sum over rounds of (endow + contributed) for rounds that group played
+  var tot=0;
+  for(var r=0;r<state.rounds.length;r++){
+    var c = state.rounds[r].contrib[gi];
+    if(c!==null && c!=="" && !isNaN(c)) tot += state.groups[gi].endow + Number(c);
+  }
+  return tot;
+}
+
+/* ---------------- render: grid ---------------- */
+function renderGrid(){
+  var t = document.getElementById("grid");
+  var nG = state.groups.length;
+  var html = "<thead><tr><th style='text-align:left'>Round · rule</th>";
+  for(var g=0; g<nG; g++){
+    html += "<th>"+esc(state.groups[g].name)+"<br><span style='font-weight:400;font-size:11px'>of <input type='number' min='1' value='"+state.groups[g].endow+"' style='width:48px' onchange='setEndow("+g+",this.value)'></span></th>";
+  }
+  html += "<th class='avg' style='background:#0B3A6F'>Class avg</th><th></th></tr></thead><tbody>";
+  for(var r=0; r<state.rounds.length; r++){
+    var rd = state.rounds[r];
+    html += "<tr><td class='rlabel'><span class='rr'>Round "+(r+1)+"</span>"
+          + "<input type='text' value='"+esc(rd.rule)+"' placeholder='rule this round' style='width:150px;margin-top:3px' oninput='setRule("+r+",this.value)'></td>";
+    for(var g=0; g<nG; g++){
+      var v = (rd.contrib[g]===null||rd.contrib[g]==="")?"":rd.contrib[g];
+      html += "<td><input class='cin' type='number' min='0' value='"+v+"' oninput='setContrib("+r+","+g+",this.value)'></td>";
+    }
+    var a = roundAvgPct(r);
+    html += "<td class='avg'>"+(a===null?"—":a.toFixed(0)+"%")+"</td>";
+    html += "<td><button class='btn mini ghost' title='remove round' onclick='removeRound("+r+")'>✕</button></td>";
+    html += "</tr>";
+  }
+  html += "</tbody>";
+  t.innerHTML = html;
+}
+function setEndow(g,v){ state.groups[g].endow = clampInt(v,1,100000,40); renderAll(); }
+function setRule(r,v){ state.rounds[r].rule = v; renderChart(); renderSummary(); }
+function setContrib(r,g,v){
+  state.rounds[r].contrib[g] = (v==="")?null:Number(v);
+  // update only avg cell + downstream (cheap: re-render lightweight parts)
+  refreshAvgCells(); renderChart(); renderBoard(); renderSummary();
+}
+function refreshAvgCells(){
+  var rows = document.querySelectorAll("#grid tbody tr");
+  for(var r=0;r<rows.length;r++){
+    var a = roundAvgPct(r);
+    var cell = rows[r].querySelector("td.avg");
+    if(cell) cell.textContent = (a===null?"—":a.toFixed(0)+"%");
+  }
+}
+
+/* ---------------- render: chart ---------------- */
+function renderChart(){
+  var W=920, H=340, padL=54, padR=20, padT=24, padB=64;
+  var n = state.rounds.length;
+  var plotW = W-padL-padR, plotH = H-padT-padB;
+  var xs = function(i){ return n<=1 ? padL+plotW/2 : padL + plotW*i/(n-1); };
+  var ys = function(p){ return padT + plotH*(1 - p/100); };
+  var svg = "<svg viewBox='0 0 "+W+" "+H+"' style='width:100%;height:auto;background:#fff;border-radius:10px'>";
+  // alternating round bands
+  for(var i=0;i<n;i++){
+    var bx0 = padL + plotW*(i-0.5)/(Math.max(1,n-1));
+    var bw = plotW/(Math.max(1,n-1));
+    if(n===1){ bx0=padL; bw=plotW; }
+    if(i%2===1) svg += "<rect x='"+Math.max(padL,bx0).toFixed(1)+"' y='"+padT+"' width='"+bw.toFixed(1)+"' height='"+plotH+"' fill='#F3F6FA'/>";
+  }
+  // y gridlines 0/25/50/75/100
+  [0,25,50,75,100].forEach(function(p){
+    var y=ys(p);
+    svg += "<line x1='"+padL+"' y1='"+y.toFixed(1)+"' x2='"+(W-padR)+"' y2='"+y.toFixed(1)+"' stroke='#E7ECF2'/>";
+    svg += "<text x='"+(padL-8)+"' y='"+(y+4).toFixed(1)+"' text-anchor='end' font-size='11' fill='#5B6B7B'>"+p+"%</text>";
+  });
+  // build point list from non-null rounds
+  var pts=[];
+  for(var i=0;i<n;i++){ var a=roundAvgPct(i); if(a!==null) pts.push({i:i,x:xs(i),y:ys(a),v:a}); }
+  // line
+  if(pts.length>1){
+    var d="M"+pts[0].x.toFixed(1)+" "+pts[0].y.toFixed(1);
+    for(var k=1;k<pts.length;k++) d+=" L"+pts[k].x.toFixed(1)+" "+pts[k].y.toFixed(1);
+    svg += "<path d='"+d+"' fill='none' stroke='#002D62' stroke-width='3' stroke-linejoin='round' stroke-linecap='round'/>";
+  }
+  // markers + value labels
+  pts.forEach(function(pt){
+    svg += "<circle cx='"+pt.x.toFixed(1)+"' cy='"+pt.y.toFixed(1)+"' r='5.5' fill='#F2A900' stroke='#002D62' stroke-width='2'/>";
+    svg += "<text x='"+pt.x.toFixed(1)+"' y='"+(pt.y-11).toFixed(1)+"' text-anchor='middle' font-size='12' font-weight='700' fill='#002D62'>"+pt.v.toFixed(0)+"%</text>";
+  });
+  // x labels: round # + rule
+  for(var i=0;i<n;i++){
+    var x=xs(i);
+    svg += "<text x='"+x.toFixed(1)+"' y='"+(H-padB+20)+"' text-anchor='middle' font-size='12' font-weight='700' fill='#1F2A37'>R"+(i+1)+"</text>";
+    var rule=state.rounds[i].rule||"";
+    if(rule) svg += "<text x='"+x.toFixed(1)+"' y='"+(H-padB+38)+"' text-anchor='middle' font-size='10.5' fill='#5B6B7B'>"+esc(shorten(rule,16))+"</text>";
+  }
+  // axis line
+  svg += "<line x1='"+padL+"' y1='"+(padT+plotH)+"' x2='"+(W-padR)+"' y2='"+(padT+plotH)+"' stroke='#C9D2DD'/>";
+  if(pts.length===0) svg += "<text x='"+(W/2)+"' y='"+(H/2)+"' text-anchor='middle' font-size='14' fill='#9AA6B2'>Enter a round below to start the chart</text>";
+  svg += "</svg>";
+  document.getElementById("chart").innerHTML = svg;
+}
+function shorten(s,n){ return s.length>n ? s.slice(0,n-1)+"…" : s; }
+
+/* ---------------- render: leaderboard ---------------- */
+function renderBoard(){
+  var arr = state.groups.map(function(g,i){ return {name:g.name, tot:groupTotal(i)}; });
+  var max = Math.max(1, Math.max.apply(null, arr.map(function(a){return a.tot;})));
+  var sorted = arr.slice().sort(function(a,b){ return b.tot-a.tot; });
+  var top = sorted[0] && sorted[0].tot>0 ? sorted[0].tot : -1;
+  var html="";
+  sorted.forEach(function(a,idx){
+    var w = Math.max(4, 100*a.tot/max);
+    var isTop = a.tot===top && a.tot>0;
+    html += "<div class='lbrow'>"
+      + "<div class='rank'>"+(idx+1)+"</div>"
+      + "<div><div class='nm'>"+esc(a.name)+"</div><div class='bar"+(isTop?" top":"")+"' style='width:"+w.toFixed(1)+"%'></div></div>"
+      + "<div class='tot'>"+a.tot+"</div></div>";
+  });
+  document.getElementById("board").innerHTML = html;
+}
+
+/* ---------------- render: summary ---------------- */
+function renderSummary(){
+  var lines=[];
+  lines.push("THE CONTRIBUTION GAME — CLASS RESULTS");
+  lines.push("Groups: "+state.groups.length+"  ·  Players/group: "+state.players+"  ·  Multiplier: "+state.mult);
+  lines.push("");
+  lines.push("Round  Rule                     Class avg contribution");
+  for(var r=0;r<state.rounds.length;r++){
+    var a=roundAvgPct(r);
+    lines.push(pad("R"+(r+1),6)+pad(state.rounds[r].rule||"—",25)+(a===null?"—":a.toFixed(0)+"%"));
+  }
+  lines.push("");
+  lines.push("Group totals (collective tokens):");
+  var arr = state.groups.map(function(g,i){ return {name:g.name, tot:groupTotal(i)}; }).sort(function(a,b){return b.tot-a.tot;});
+  arr.forEach(function(a,i){ lines.push("  "+(i+1)+". "+pad(a.name,12)+a.tot); });
+  document.getElementById("summary").value = lines.join("\n");
+}
+function pad(s,n){ s=String(s); while(s.length<n) s+=" "; return s; }
+function copySummary(){
+  var ta=document.getElementById("summary"); ta.select();
+  try{ document.execCommand("copy"); document.getElementById("copied").textContent="Copied!"; setTimeout(function(){document.getElementById("copied").textContent="";},1500);}catch(e){}
+}
+
+/* ---------------- score calculator ---------------- */
+function buildCalc(){
+  var n = clampInt(document.getElementById("calcN").value,2,8,4);
+  var host = document.getElementById("calcPlayers");
+  var existing = collectCalc();
+  var html="";
+  var demoEndow=[25,25,15,15], demoContrib=[10,5,5,0];
+  for(var i=0;i<n;i++){
+    var en = existing.endow[i]!==undefined?existing.endow[i]:(demoEndow[i]!==undefined?demoEndow[i]:10);
+    var co = existing.contrib[i]!==undefined?existing.contrib[i]:(demoContrib[i]!==undefined?demoContrib[i]:0);
+    html += "<div class='pcard'><b>Player "+(i+1)+"</b>"
+      + "<span class='lab'>Tokens this round</span><input type='number' min='0' class='calcEndow' value='"+en+"' oninput='runCalc()'>"
+      + "<span class='lab'>Puts in fund</span><input type='number' min='0' class='calcContrib' value='"+co+"' oninput='runCalc()'>"
+      + "</div>";
+  }
+  host.innerHTML = html;
+  runCalc();
+}
+function collectCalc(){
+  var e=[].map.call(document.querySelectorAll(".calcEndow"),function(x){return Number(x.value);});
+  var c=[].map.call(document.querySelectorAll(".calcContrib"),function(x){return Number(x.value);});
+  return {endow:e, contrib:c};
+}
+function runCalc(){
+  var d=collectCalc(); var mult=parseFloat(document.getElementById("calcMult").value)||2;
+  var n=d.endow.length;
+  var fund=0; for(var i=0;i<n;i++){ fund += Math.min(d.contrib[i]||0, d.endow[i]||0); }
+  var pool=fund*mult; var share= n? pool/n : 0;
+  var scores=[]; var best=-Infinity;
+  for(var i=0;i<n;i++){
+    var contrib=Math.min(d.contrib[i]||0, d.endow[i]||0);
+    var kept=(d.endow[i]||0)-contrib;
+    var sc=kept+share;
+    scores.push({i:i,kept:kept,contrib:contrib,share:share,score:sc});
+    if(sc>best) best=sc;
+  }
+  document.getElementById("calcStats").innerHTML =
+      stat(fund,"Total put in fund","cream")
+    + stat(fund+" × "+mult+" = "+round1(pool),"Fund doubled","")
+    + stat(round1(share),"Each player's share","cream");
+  var html="<thead><tr><th>Player</th><th>Kept</th><th>Put in</th><th>Share back</th><th>Score</th></tr></thead><tbody>";
+  scores.forEach(function(s){
+    var win = Math.abs(s.score-best)<1e-9;
+    html += "<tr><td>Player "+(s.i+1)+"</td><td>"+s.kept+"</td><td>"+s.contrib+"</td><td>"+round1(s.share)+"</td>"
+      + "<td class='"+(win?"winner":"")+"'>"+round1(s.score)+(win?" ★":"")+"</td></tr>";
+  });
+  var groupTot = scores.reduce(function(a,s){return a+s.score;},0);
+  html += "</tbody><tfoot><tr><td colspan='4' style='text-align:right;font-weight:700'>Group total</td><td style='font-weight:800;color:#002D62'>"+round1(groupTot)+"</td></tr></tfoot>";
+  document.getElementById("calcTable").innerHTML = html;
+}
+function stat(n,l,cls){ return "<div class='stat "+cls+"'><div class='n'>"+n+"</div><div class='l'>"+l+"</div></div>"; }
+function round1(x){ return (Math.round(x*10)/10).toString(); }
+
+/* ---------------- tabs + boot ---------------- */
+function showTab(which){
+  document.getElementById("view-class").classList.toggle("hidden", which!=="class");
+  document.getElementById("view-calc").classList.toggle("hidden", which!=="calc");
+  document.getElementById("tabClass").classList.toggle("active", which==="class");
+  document.getElementById("tabCalc").classList.toggle("active", which==="calc");
+}
+function renderAll(){ renderGrid(); renderChart(); renderBoard(); renderSummary(); }
+function esc(s){ return String(s).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];}); }
+
+state = freshState();
+renderAll();
+buildCalc();
+</script>

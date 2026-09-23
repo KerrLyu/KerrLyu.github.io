@@ -1,0 +1,619 @@
+<title>The Market Game</title>
+<meta name="description" content="A live classroom dashboard for the supply-and-demand market game.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@600;700;800&family=IBM+Plex+Mono:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root{
+  --bg:#f4f5f8; --panel:#ffffff; --panel-2:#fbfbfd; --edge:#e2e5ec; --edge-strong:#cfd4de;
+  --ink:#191c22; --ink-2:#4a5060; --ink-3:#8b93a3;
+  --demand:#2e6be6; --demand-soft:rgba(46,107,230,.12);
+  --supply:#db513a; --supply-soft:rgba(219,81,58,.12);
+  --gold:#b9801a; --gold-bg:rgba(185,128,26,.12);
+  --good:#2e9a63; --good-bg:rgba(46,154,99,.13);
+  --grid:rgba(25,28,34,.08); --shadow:0 1px 2px rgba(20,24,34,.05),0 8px 26px rgba(20,24,34,.07);
+  --focus:#2e6be6;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#101319; --panel:#191d26; --panel-2:#151922; --edge:#2a303c; --edge-strong:#3a4252;
+  --ink:#eceef4; --ink-2:#aab2c2; --ink-3:#6b7486;
+  --demand:#4c86ea; --demand-soft:rgba(76,134,234,.16);
+  --supply:#e4623e; --supply-soft:rgba(228,98,62,.16);
+  --gold:#e0a93a; --gold-bg:rgba(224,169,58,.15);
+  --good:#3fb57c; --good-bg:rgba(63,181,124,.16);
+  --grid:rgba(236,238,244,.09); --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 30px rgba(0,0,0,.4);
+  --focus:#4c86ea;
+}}
+:root[data-theme="dark"]{
+  --bg:#101319; --panel:#191d26; --panel-2:#151922; --edge:#2a303c; --edge-strong:#3a4252;
+  --ink:#eceef4; --ink-2:#aab2c2; --ink-3:#6b7486;
+  --demand:#4c86ea; --demand-soft:rgba(76,134,234,.16);
+  --supply:#e4623e; --supply-soft:rgba(228,98,62,.16);
+  --gold:#e0a93a; --gold-bg:rgba(224,169,58,.15);
+  --good:#3fb57c; --good-bg:rgba(63,181,124,.16);
+  --grid:rgba(236,238,244,.09); --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 30px rgba(0,0,0,.4);
+  --focus:#4c86ea;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);
+  font-family:"IBM Plex Sans",system-ui,-apple-system,sans-serif;
+  -webkit-font-smoothing:antialiased;line-height:1.5}
+.mono{font-family:"IBM Plex Mono",ui-monospace,monospace;font-variant-numeric:tabular-nums}
+h1,h2,h3{font-family:"Archivo","IBM Plex Sans",sans-serif;margin:0;text-wrap:balance}
+.wrap{max-width:1240px;margin:0 auto;padding:20px 22px 60px}
+.eyebrow{font-family:"Archivo",sans-serif;text-transform:uppercase;letter-spacing:.14em;
+  font-size:11px;font-weight:700;color:var(--ink-3)}
+
+/* top bar */
+.top{display:flex;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:18px}
+.brand{display:flex;flex-direction:column;gap:2px;margin-right:auto}
+.brand h1{font-size:23px;font-weight:800;letter-spacing:-.02em}
+.brand .sub{font-size:12.5px;color:var(--ink-2)}
+.chip{display:inline-flex;align-items:center;gap:7px;padding:6px 12px;border-radius:999px;
+  border:1px solid var(--edge);background:var(--panel);font-size:13px;font-weight:600;color:var(--ink-2)}
+.chip b{color:var(--ink);font-family:"IBM Plex Mono",monospace}
+.iconbtn{width:38px;height:38px;border-radius:10px;border:1px solid var(--edge);background:var(--panel);
+  color:var(--ink-2);cursor:pointer;font-size:16px;display:grid;place-items:center}
+.iconbtn:hover{color:var(--ink);border-color:var(--edge-strong)}
+
+/* grid */
+.stage{display:grid;grid-template-columns:minmax(320px,1fr) 1.35fr;gap:18px;align-items:start}
+@media(max-width:860px){.stage{grid-template-columns:1fr}}
+.panel{background:var(--panel);border:1px solid var(--edge);border-radius:16px;box-shadow:var(--shadow)}
+.pad{padding:20px}
+
+/* price hero */
+.hero{padding:22px 22px 18px;position:relative;overflow:hidden}
+.hero .eyebrow{margin-bottom:8px}
+.priceline{display:flex;align-items:baseline;gap:10px}
+.price{font-family:"IBM Plex Mono",monospace;font-weight:700;line-height:.9;
+  font-size:clamp(64px,11vw,104px);letter-spacing:-.03em;color:var(--gold)}
+.price .dollar{font-size:.5em;vertical-align:super;color:var(--gold);opacity:.85}
+.verdict{margin-top:14px;display:flex;align-items:center;gap:10px;padding:11px 14px;border-radius:12px;
+  font-weight:600;font-size:14.5px;border:1px solid var(--edge)}
+.verdict .tag{font-family:"Archivo",sans-serif;text-transform:uppercase;letter-spacing:.06em;
+  font-size:11px;font-weight:800;padding:3px 8px;border-radius:6px}
+.v-short{background:var(--demand-soft);border-color:transparent;color:var(--ink)}
+.v-short .tag{background:var(--demand);color:#fff}
+.v-surp{background:var(--supply-soft);border-color:transparent;color:var(--ink)}
+.v-surp .tag{background:var(--supply);color:#fff}
+.v-clear{background:var(--good-bg);border-color:transparent;color:var(--ink)}
+.v-clear .tag{background:var(--good);color:#fff}
+.v-idle{color:var(--ink-2)}
+.arrow{font-weight:800}
+.statrow{display:flex;gap:10px;margin-top:14px}
+.stat{flex:1;background:var(--panel-2);border:1px solid var(--edge);border-radius:11px;padding:9px 12px}
+.stat .sl{font-size:10.5px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-3)}
+.stat .sv{font-family:"IBM Plex Mono",monospace;font-weight:700;font-size:22px;color:var(--ink);margin-top:1px;font-variant-numeric:tabular-nums}
+.stat .sv.gold{color:var(--gold)}
+
+/* count entry */
+.counts{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:6px}
+.countbox{border:1.5px solid var(--edge);border-radius:13px;padding:12px 12px 13px;background:var(--panel-2)}
+.countbox.d{border-color:color-mix(in srgb,var(--demand) 40%,var(--edge))}
+.countbox.s{border-color:color-mix(in srgb,var(--supply) 40%,var(--edge))}
+.countbox .lbl{display:flex;align-items:center;gap:7px;font-size:12px;font-weight:600;color:var(--ink-2)}
+.dot{width:11px;height:11px;border-radius:50%}
+.dot.d{background:var(--demand)}.dot.s{background:var(--supply)}
+.stepper{display:flex;align-items:center;gap:8px;margin-top:9px}
+.stepper button{width:34px;height:38px;border-radius:9px;border:1px solid var(--edge-strong);
+  background:var(--panel);color:var(--ink);font-size:20px;font-weight:600;cursor:pointer;line-height:1}
+.stepper button:hover{background:var(--bg)}
+.stepper input{width:100%;text-align:center;font-family:"IBM Plex Mono",monospace;font-weight:700;
+  font-size:30px;border:none;background:transparent;color:var(--ink);padding:0;
+  font-variant-numeric:tabular-nums;-moz-appearance:textfield}
+.stepper input::-webkit-outer-spin-button,.stepper input::-webkit-inner-spin-button{-webkit-appearance:none;margin:0}
+.hint{font-size:11.5px;color:var(--ink-3);margin-top:6px}
+
+.actions{display:flex;gap:10px;margin-top:16px}
+.btn{border-radius:11px;border:1px solid var(--edge-strong);background:var(--panel);color:var(--ink);
+  font-family:"IBM Plex Sans",sans-serif;font-weight:600;font-size:14.5px;padding:12px 16px;cursor:pointer;
+  display:inline-flex;align-items:center;justify-content:center;gap:8px}
+.btn:hover{border-color:var(--ink-3)}
+.btn.primary{flex:1;background:var(--ink);color:var(--panel);border-color:var(--ink)}
+.btn.primary:hover{opacity:.92}
+.btn.primary:disabled{opacity:.4;cursor:not-allowed}
+
+/* controls row */
+.controls{display:flex;flex-direction:column;gap:14px}
+.ctl-row{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.seg{display:inline-flex;border:1px solid var(--edge);border-radius:10px;overflow:hidden;background:var(--panel-2)}
+.seg button{border:none;background:transparent;color:var(--ink-2);font-family:inherit;font-weight:600;
+  font-size:13px;padding:8px 13px;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--ink);color:var(--panel)}
+.shock{display:flex;gap:10px;flex-wrap:wrap}
+.shockbtn{flex:1;min-width:150px;text-align:left;border-radius:12px;border:1px dashed var(--edge-strong);
+  background:var(--panel-2);color:var(--ink);padding:11px 13px;cursor:pointer}
+.shockbtn:hover{border-style:solid}
+.shockbtn .st{font-family:"Archivo",sans-serif;font-weight:700;font-size:13px;display:flex;gap:7px;align-items:center}
+.shockbtn .sd{font-size:11.5px;color:var(--ink-2);margin-top:3px}
+.shockbtn.d .st b{color:var(--demand)} .shockbtn.s .st b{color:var(--supply)}
+
+/* chart */
+.charthead{display:flex;align-items:center;justify-content:space-between;gap:10px;margin-bottom:4px}
+.legend{display:flex;gap:14px;flex-wrap:wrap}
+.leg{display:inline-flex;align-items:center;gap:7px;font-size:12.5px;color:var(--ink-2);font-weight:500}
+.leg .sw{width:16px;height:3px;border-radius:2px}
+.chartbox{width:100%;overflow-x:auto}
+svg{display:block;width:100%;height:auto}
+.axis-lbl{font-family:"IBM Plex Sans",sans-serif;font-size:12px;fill:var(--ink-3)}
+.tick{font-family:"IBM Plex Mono",monospace;font-size:11px;fill:var(--ink-3)}
+.stair-d{fill:none;stroke:var(--demand);stroke-width:2.5;stroke-linejoin:round}
+.stair-s{fill:none;stroke:var(--supply);stroke-width:2.5;stroke-linejoin:round}
+.stair-ghost{fill:none;stroke-width:2;stroke-dasharray:4 5;opacity:.35}
+.pline{stroke:var(--gold);stroke-width:2;stroke-dasharray:6 5}
+.marker{stroke:var(--panel);stroke-width:2}
+.eqdot{fill:var(--good);stroke:var(--panel);stroke-width:2.5}
+.gaprect-short{fill:var(--demand-soft)} .gaprect-surp{fill:var(--supply-soft)}
+
+/* bottom row */
+.bottom{display:grid;grid-template-columns:1.3fr 1fr;gap:18px;margin-top:18px}
+@media(max-width:860px){.bottom{grid-template-columns:1fr}}
+table{width:100%;border-collapse:collapse;font-size:13.5px}
+th,td{text-align:right;padding:9px 10px;border-bottom:1px solid var(--edge)}
+th:first-child,td:first-child{text-align:left}
+th{font-family:"Archivo",sans-serif;text-transform:uppercase;letter-spacing:.06em;font-size:10.5px;
+  color:var(--ink-3);font-weight:700}
+td{font-family:"IBM Plex Mono",monospace;font-variant-numeric:tabular-nums;color:var(--ink-2)}
+td.pcell{color:var(--gold);font-weight:600}
+tr.shockrow td{background:var(--gold-bg);color:var(--ink);font-family:"IBM Plex Sans",sans-serif;
+  text-align:center;font-weight:600;font-size:12px;letter-spacing:.02em}
+.badge{display:inline-block;padding:2px 7px;border-radius:5px;font-size:10.5px;font-weight:700;
+  font-family:"Archivo",sans-serif}
+.badge.short{background:var(--demand-soft);color:var(--demand)}
+.badge.surp{background:var(--supply-soft);color:var(--supply)}
+.badge.clear{background:var(--good-bg);color:var(--good)}
+.empty{color:var(--ink-3);font-size:13px;text-align:center;padding:22px 0}
+
+.winners .w{display:flex;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid var(--edge)}
+.winners .w:last-child{border-bottom:none}
+.wmedal{width:40px;height:40px;border-radius:11px;display:grid;place-items:center;font-size:19px;flex:none}
+.wmedal.d{background:var(--demand-soft)} .wmedal.s{background:var(--supply-soft)}
+.wtxt{flex:1} .wtxt .wt{font-weight:600;font-size:14px} .wtxt .ws{font-size:12px;color:var(--ink-2)}
+.wval{font-family:"IBM Plex Mono",monospace;font-weight:700;font-size:19px}
+.wval.d{color:var(--demand)} .wval.s{color:var(--supply)}
+
+/* rules */
+details.rules{margin-top:18px;background:var(--panel);border:1px solid var(--edge);border-radius:14px}
+details.rules summary{cursor:pointer;padding:15px 18px;font-family:"Archivo",sans-serif;font-weight:700;
+  font-size:14px;list-style:none;display:flex;align-items:center;gap:9px}
+details.rules summary::-webkit-details-marker{display:none}
+details.rules[open] summary{border-bottom:1px solid var(--edge)}
+.rules-body{padding:6px 20px 20px;color:var(--ink-2);font-size:13.5px}
+.rules-body ol{padding-left:20px;margin:12px 0}
+.rules-body li{margin:7px 0}
+.rules-body code{font-family:"IBM Plex Mono",monospace;background:var(--panel-2);border:1px solid var(--edge);
+  padding:1px 6px;border-radius:5px;font-size:12.5px;color:var(--ink)}
+.eqnote{margin-top:2px;font-size:12.5px;color:var(--ink-3)}
+:focus-visible{outline:2.5px solid var(--focus);outline-offset:2px;border-radius:6px}
+@media(prefers-reduced-motion:no-preference){
+  .price,.stair-d,.stair-s{transition:all .45s cubic-bezier(.4,0,.2,1)}
+}
+/* ---- trade lottery ---- */
+.lot-status{font-size:13px;color:var(--ink-2);line-height:1.5;margin-bottom:11px}
+.lot-status b{color:var(--ink)}
+.lot-status .who.d{color:var(--demand);font-weight:800}
+.lot-status .who.s{color:var(--supply);font-weight:800}
+.chipgrid{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:12px}
+.chipgrid.empty{display:none}
+.lchip{font-family:"IBM Plex Mono",monospace;font-size:12.5px;font-weight:600;padding:6px 9px;border-radius:9px;
+  border:1.5px solid var(--edge);background:var(--panel-2);color:var(--ink-3);cursor:pointer;user-select:none;
+  min-width:40px;text-align:center;transition:background .12s,border-color .12s,color .12s,opacity .12s}
+.lchip.raised{border-color:var(--edge-strong);color:var(--ink);background:var(--panel)}
+.lchip.win{background:var(--good);border-color:var(--good);color:#fff}
+.lchip.out{opacity:.45;text-decoration:line-through;color:var(--ink-3);background:var(--panel-2)}
+.lchip.excl{opacity:.4;border-style:dashed;color:var(--ink-3);background:var(--panel-2)}
+.lot-sub{font-size:11.5px;color:var(--ink-3);margin-bottom:8px}
+.lot-drawrow{display:flex;align-items:center;gap:8px;margin-bottom:12px;font-size:13px;color:var(--ink-2)}
+.lot-drawrow input{width:56px;padding:6px 8px;border-radius:8px;border:1px solid var(--edge-strong);
+  background:var(--panel);color:var(--ink);font-family:"IBM Plex Mono",monospace;font-size:14px;text-align:center}
+#lotPoolInfo{color:var(--ink-3);font-size:12px}
+.lot-result{font-size:12.5px;line-height:1.55;color:var(--ink-2);min-height:1px}
+.lot-result b{color:var(--ink)}
+.lot-result .rwin{color:var(--good);font-weight:700}
+.lot-result .rout{color:var(--supply);font-weight:700}
+</style>
+
+<div class="wrap">
+  <div class="top">
+    <div class="brand">
+      <h1>The Market Game</h1>
+      <span class="sub">Post a price · count the cards · let the market find equilibrium</span>
+    </div>
+    <span class="chip">Scenario <b id="scenChip">Base market</b></span>
+    <span class="chip">Round <b id="roundChip">1</b></span>
+    <button class="iconbtn" id="themeBtn" title="Toggle light / dark" aria-label="Toggle theme">◐</button>
+  </div>
+
+  <div class="stage">
+    <!-- LEFT: control -->
+    <div style="display:flex;flex-direction:column;gap:18px">
+      <section class="panel hero">
+        <div class="eyebrow">Posted price this round</div>
+        <div class="priceline">
+          <div class="price" id="priceBig"><span class="dollar">$</span><span id="priceNum">6</span></div>
+        </div>
+        <div class="statrow">
+          <div class="stat"><div class="sl">Market avg price</div><div class="sv" id="avgStat">—</div></div>
+          <div class="stat"><div class="sl">Units traded</div><div class="sv" id="unitStat">0</div></div>
+        </div>
+        <div class="verdict v-idle" id="verdict">
+          <span>Count the raised cards, enter them below, then lock in the round.</span>
+        </div>
+      </section>
+
+      <section class="panel pad">
+        <div class="eyebrow" style="margin-bottom:10px">Cards raised at this price</div>
+        <div class="counts">
+          <div class="countbox d">
+            <div class="lbl"><span class="dot d"></span>Buyers — Demand</div>
+            <div class="stepper">
+              <button type="button" data-adj="d" data-dir="-1" aria-label="Demand minus one">–</button>
+              <input class="mono" id="dIn" type="number" min="0" max="15" value="13" inputmode="numeric" aria-label="Demand count">
+              <button type="button" data-adj="d" data-dir="1" aria-label="Demand plus one">+</button>
+            </div>
+          </div>
+          <div class="countbox s">
+            <div class="lbl"><span class="dot s"></span>Sellers — Supply</div>
+            <div class="stepper">
+              <button type="button" data-adj="s" data-dir="-1" aria-label="Supply minus one">–</button>
+              <input class="mono" id="sIn" type="number" min="0" max="15" value="5" inputmode="numeric" aria-label="Supply count">
+              <button type="button" data-adj="s" data-dir="1" aria-label="Supply plus one">+</button>
+            </div>
+          </div>
+        </div>
+        <div class="hint">Pre-filled with what the cards <em>should</em> show — adjust to the real count if the class plays it differently.</div>
+        <div class="actions">
+          <button class="btn primary" id="lockBtn">Lock in round →</button>
+          <button class="btn" id="undoBtn" title="Undo last round">Undo</button>
+        </div>
+      </section>
+
+      <section class="panel pad" id="lotteryPanel">
+        <div class="eyebrow" style="margin-bottom:8px">Trade lottery · who trades on the long side</div>
+        <div class="lot-status" id="lotStatus"></div>
+        <div class="lot-sub" id="lotSub">Draw pool — tap a card to leave it out of the draw</div>
+        <div class="chipgrid" id="lotGrid"></div>
+        <div class="lot-drawrow" id="lotDrawRow">
+          <span>Draw</span>
+          <input class="mono" id="lotN" type="number" min="1" value="1" inputmode="numeric" aria-label="How many to draw">
+          <span id="lotPoolInfo"></span>
+        </div>
+        <div class="actions" id="lotActions" style="margin-top:0">
+          <button class="btn primary" id="drawBtn">🎲 Draw</button>
+          <button class="btn" id="lotAllBtn" type="button" title="Reset the pool and clear the draw">Reset</button>
+        </div>
+        <div class="lot-result" id="lotResult" style="margin-top:11px"></div>
+      </section>
+
+      <section class="panel pad controls">
+        <div class="ctl-row">
+          <span class="eyebrow">Price sensitivity · k</span>
+          <div class="seg" id="paceSeg" role="group" aria-label="Price sensitivity">
+            <button data-k="0.15" aria-pressed="true">Gentle</button>
+            <button data-k="0.25">Quick</button>
+          </div>
+        </div>
+        <div class="ctl-row">
+          <span class="eyebrow">Restart the market</span>
+          <div style="display:flex;gap:8px;align-items:center">
+            <span class="hint" style="margin:0">Start price</span>
+            <div class="seg" id="startSeg" role="group" aria-label="Start price">
+              <button data-start="6" aria-pressed="true">$6</button>
+              <button data-start="8">$8</button>
+              <button data-start="13">$13</button>
+            </div>
+            <button class="btn" id="resetBtn">Reset</button>
+          </div>
+        </div>
+        <div class="hint" style="margin:0">The price moves <b>toward balance</b> each round: <code>next = price + k×(Demand−Supply)</code>. Values are packed close to $10, so nearly every card trades. From the $6 start the price climbs gently to equilibrium (e.g. $6 → $8 → $9 → $10) and settles. <b>Quick</b> (k=0.25) takes bigger steps if you're short on time.</div>
+      </section>
+    </div>
+
+    <!-- RIGHT: chart -->
+    <section class="panel pad">
+      <div class="charthead">
+        <div>
+          <div class="eyebrow">The market, live</div>
+          <h3 style="font-size:16px;margin-top:3px" id="chartTitle">Demand &amp; supply — where does the price sit?</h3>
+        </div>
+        <div class="legend">
+          <span class="leg"><span class="sw" style="background:var(--demand)"></span>Demand</span>
+          <span class="leg"><span class="sw" style="background:var(--supply)"></span>Supply</span>
+          <span class="leg"><span class="sw" style="background:var(--gold)"></span>Price</span>
+        </div>
+      </div>
+      <div class="chartbox"><svg id="chart" viewBox="0 0 640 460" role="img" aria-label="Supply and demand chart"></svg></div>
+    </section>
+  </div>
+
+  <div class="bottom">
+    <section class="panel pad">
+      <div class="eyebrow" style="margin-bottom:10px">Round history</div>
+      <div style="overflow-x:auto">
+        <table>
+          <thead><tr><th>Round</th><th>Price</th><th>Demand</th><th>Supply</th><th>Trades</th><th>Result</th></tr></thead>
+          <tbody id="histBody"><tr><td colspan="6" class="empty">No rounds yet — lock in the first one.</td></tr></tbody>
+        </table>
+      </div>
+    </section>
+    <section class="panel pad winners" id="winPanel">
+      <div class="eyebrow" style="margin-bottom:4px">Scoreboard</div>
+      <div class="empty" id="winEmpty">Trade a round and the market's average price appears here.</div>
+      <div id="winList" hidden></div>
+    </section>
+  </div>
+
+  <details class="rules">
+    <summary>▸ How to play &amp; the price rule</summary>
+    <div class="rules-body">
+      <p>Half the class are <b style="color:var(--demand)">buyers</b> (each holds a private <em>value</em> — the most they'll pay), half are <b style="color:var(--supply)">sellers</b> (each holds a <em>cost</em>). Everyone has <b>3 units</b> to trade, at most one per round. Each round:</p>
+      <ol>
+        <li>Read the <b>posted price</b>. If it's worth it, raise your card to trade a unit — <b>buyers</b> when price <b>≤ value</b>, <b>sellers</b> when price <b>≥ cost</b>. Holding out for a better price is allowed.</li>
+        <li>Count the raised cards — <b>Demand</b> and <b>Supply</b> — and type them in.</li>
+        <li><b>Pair up and deal</b> at the posted price; <b>min(Demand, Supply)</b> deals happen. Traders write the price on their card. Lock in the round.</li>
+      </ol>
+      <p>The price then moves <b>in proportion to the imbalance</b>:</p>
+      <p style="text-align:center;margin:12px 0"><code>next price = price + k × (Demand − Supply)</code></p>
+      <p>A shortage pushes the price up, a surplus pushes it down, and when Demand&nbsp;=&nbsp;Supply the price holds — its <b style="color:var(--good)">equilibrium</b>. Score by your <b>average price</b>: buyers want the <b>lowest</b>, sellers the <b>highest</b>. Watch the <b>market average</b> converge toward equilibrium even though trades happen at many prices.</p>
+      <p class="eqnote">Every card's value sits within a few dollars of <b>$10</b>, so almost everyone trades. From the $6 start the price climbs a step at a time (about $6 → $8 → $9 → $10) and settles once Demand = Supply. Early birds who buy at $6–$8 pay below normal, and late sellers who hold to $10 do best; that spread is the contest. Only the single most-marginal card on each side may sit out, and you can hand them a unit with the draw below.</p>
+    </div>
+  </details>
+</div>
+
+<script>
+"use strict";
+const BASE_BUYERS=[14,13,13,12,12,12,11,11,11,11,10,10,10,10,9];
+const BASE_SELLERS=[6,7,7,8,8,8,9,9,9,9,10,10,10,10,11];
+const PMAX=16, QMAX=15;
+
+let S={};
+function fresh(start){
+  S={
+    buyers:BASE_BUYERS.slice(), sellers:BASE_SELLERS.slice(),
+    scenario:"Base market", price:start, round:1, k:0.15,
+    history:[], settled:false, startPrice:start,
+    unitsTraded:0, volSum:0
+  };
+}
+fresh(6);
+
+const $=id=>document.getElementById(id);
+const demandAt=p=>S.buyers.filter(v=>v>=p).length;
+const supplyAt=p=>S.sellers.filter(c=>c<=p).length;
+function equilibrium(){
+  for(let p=0;p<=PMAX;p++) if(demandAt(p)===supplyAt(p)) return {p, q:demandAt(p)};
+  return null;
+}
+function nextPrice(p,D,Sup){
+  if(D===Sup) return p;
+  let step=Math.round(S.k*(D-Sup));   // proportional to the imbalance, up or down
+  if(step===0) step=D>Sup?1:-1;       // always move at least $1 while imbalanced
+  return Math.max(1,Math.min(PMAX,p+step));
+}
+
+/* ---------- chart ---------- */
+const PADL=52,PADR=18,PADT=18,PADB=44,VW=640,VH=460;
+const PW=VW-PADL-PADR, PH=VH-PADT-PADB;
+const X=q=>PADL+(q/QMAX)*PW;
+const Y=p=>PADT+(1-p/PMAX)*PH;
+function stairD(buyers){ // demand: q-th unit demanded up to value of q-th highest buyer
+  const v=buyers.slice().sort((a,b)=>b-a);
+  let d=`M ${X(0)} ${Y(v[0])}`;
+  for(let i=0;i<v.length;i++){ d+=` L ${X(i+1)} ${Y(v[i])}`; if(i+1<v.length) d+=` L ${X(i+1)} ${Y(v[i+1])}`; }
+  return d;
+}
+function stairS(sellers){
+  const c=sellers.slice().sort((a,b)=>a-b);
+  let d=`M ${X(0)} ${Y(c[0])}`;
+  for(let i=0;i<c.length;i++){ d+=` L ${X(i+1)} ${Y(c[i])}`; if(i+1<c.length) d+=` L ${X(i+1)} ${Y(c[i+1])}`; }
+  return d;
+}
+function drawChart(){
+  const eq=equilibrium();
+  const p=S.price, D=demandAt(p), Sup=supplyAt(p);
+  const svg=$("chart"); const NS="http://www.w3.org/2000/svg";
+  let g="";
+  // grid + y ticks (price)
+  for(let pr=0;pr<=PMAX;pr+=5){ const y=Y(pr);
+    g+=`<line x1="${PADL}" y1="${y}" x2="${VW-PADR}" y2="${y}" stroke="var(--grid)" stroke-width="1"/>`;
+    g+=`<text class="tick" x="${PADL-8}" y="${y+4}" text-anchor="end">$${pr}</text>`; }
+  // x ticks (quantity)
+  for(let q=0;q<=QMAX;q+=3){ const x=X(q);
+    g+=`<text class="tick" x="${x}" y="${VH-PADB+18}" text-anchor="middle">${q}</text>`; }
+  g+=`<text class="axis-lbl" x="${PADL+PW/2}" y="${VH-6}" text-anchor="middle">Quantity</text>`;
+  g+=`<text class="axis-lbl" transform="translate(14 ${PADT+PH/2}) rotate(-90)" text-anchor="middle">Price ($)</text>`;
+  // gap shading between Qs and Qd at price line
+  if(D!==Sup){ const x1=X(Math.min(D,Sup)),x2=X(Math.max(D,Sup)); const cls=D>Sup?"gaprect-short":"gaprect-surp";
+    g+=`<rect class="${cls}" x="${x1}" y="${Y(p)-9}" width="${x2-x1}" height="18" rx="3"/>`; }
+  // price line
+  g+=`<line class="pline" x1="${PADL}" y1="${Y(p)}" x2="${VW-PADR}" y2="${Y(p)}"/>`;
+  g+=`<text class="tick" x="${VW-PADR}" y="${Y(p)-6}" text-anchor="end" style="fill:var(--gold);font-weight:700">$${p}</text>`;
+  // curves
+  g+=`<path class="stair-d" d="${stairD(S.buyers)}"/>`;
+  g+=`<path class="stair-s" d="${stairS(S.sellers)}"/>`;
+  // markers at (Qd,p) and (Qs,p)
+  g+=`<circle class="marker" cx="${X(D)}" cy="${Y(p)}" r="6.5" fill="var(--demand)"/>`;
+  g+=`<circle class="marker" cx="${X(Sup)}" cy="${Y(p)}" r="6.5" fill="var(--supply)"/>`;
+  // equilibrium dot once settled
+  if(S.settled && eq){ g+=`<circle class="eqdot" cx="${X(eq.q)}" cy="${Y(eq.p)}" r="7"/>`;
+    g+=`<text class="tick" x="${X(eq.q)+11}" y="${Y(eq.p)-8}" style="fill:var(--good);font-weight:700">eq $${eq.p}</text>`; }
+  svg.innerHTML=g;
+}
+
+/* ---------- render ---------- */
+function fmtGap(D,Sup){ const g=D-Sup; if(g===0) return "0"; return (g>0?"+":"")+g; }
+function render(){
+  $("priceNum").textContent=S.price;
+  $("roundChip").textContent=S.round;
+  $("scenChip").textContent=S.scenario;
+  // prefill counts with the max willing at this price (edit down for strategic holding)
+  $("dIn").value=demandAt(S.price);
+  $("sIn").value=supplyAt(S.price);
+  const avg = S.unitsTraded>0 ? "$"+(S.volSum/S.unitsTraded).toFixed(1) : "—";
+  $("avgStat").textContent=avg; $("avgStat").className="sv"+(S.unitsTraded>0?" gold":"");
+  $("unitStat").textContent=S.unitsTraded;
+  const last=[...S.history].reverse().find(h=>!h.shock);
+  const v=$("verdict");
+  if(!last){
+    v.className="verdict v-idle";
+    v.innerHTML=`<span>Count the raised cards, enter them below, then lock in the round.</span>`;
+  }else{
+    const gap=last.D-last.S;
+    if(gap>0){ v.className="verdict v-short";
+      v.innerHTML=`<span class="tag">Shortage</span><span>${last.trades} deals at $${last.price}. Demand &gt; Supply → price rises to <b>$${S.price}</b>.</span>`; }
+    else if(gap<0){ v.className="verdict v-surp";
+      v.innerHTML=`<span class="tag">Surplus</span><span>${last.trades} deals at $${last.price}. Supply &gt; Demand → price falls to <b>$${S.price}</b>.</span>`; }
+    else{ v.className="verdict v-clear";
+      v.innerHTML=`<span class="tag">Settled</span><span>Demand = Supply at <b>$${last.price}</b> — the price has found its level. Poll the class for the winning averages.</span>`; }
+  }
+  drawChart(); renderHistory(); renderScore(); renderLottery();
+}
+function renderHistory(){
+  const tb=$("histBody");
+  if(!S.history.length){ tb.innerHTML=`<tr><td colspan="6" class="empty">No rounds yet — lock in the first one.</td></tr>`; return; }
+  tb.innerHTML=S.history.map(h=>{
+    if(h.shock) return `<tr class="shockrow"><td colspan="6">⚡ ${h.shock}</td></tr>`;
+    const gap=h.D-h.S;
+    const badge = gap>0?`<span class="badge short">Shortage</span>`
+      : gap<0?`<span class="badge surp">Surplus</span>`
+      : `<span class="badge clear">Settled</span>`;
+    return `<tr><td>${h.round}</td><td class="pcell">$${h.price}</td><td>${h.D}</td><td>${h.S}</td><td>${h.trades}</td><td style="text-align:right">${badge}</td></tr>`;
+  }).join("");
+}
+function renderScore(){
+  const eq=equilibrium();
+  if(S.unitsTraded===0){ $("winEmpty").hidden=false; $("winList").hidden=true; return; }
+  $("winEmpty").hidden=true; $("winList").hidden=false;
+  const avg=(S.volSum/S.unitsTraded);
+  $("winList").innerHTML=`
+    <div class="w"><div class="wmedal" style="background:var(--gold-bg)">📊</div>
+      <div class="wtxt"><div class="wt">Market average price</div>
+      <div class="ws">${S.unitsTraded} units traded · settles toward the equilibrium $${eq?eq.p:10}</div></div>
+      <div class="wval" style="color:var(--gold)">$${avg.toFixed(1)}</div></div>
+    <div class="eqnote" style="margin-top:14px"><b>Crown the champions from the cards:</b> buyers call out their average price — <b style="color:var(--demand)">lowest wins Top Buyer</b>. Then sellers — <b style="color:var(--supply)">highest wins Top Seller</b>. Beating the market average ($${avg.toFixed(1)}) means you out-traded the room.</div>`;
+}
+
+/* ---------- actions ---------- */
+function lockIn(){
+  const D=Math.max(0,parseInt($("dIn").value)||0);
+  const Sup=Math.max(0,parseInt($("sIn").value)||0);
+  const trades=Math.min(D,Sup);
+  S.volSum+=trades*S.price; S.unitsTraded+=trades;
+  S.history.push({round:S.round,price:S.price,D,S:Sup,trades});
+  S.settled=(D===Sup);
+  S.price=nextPrice(S.price,D,Sup);   // no move when balanced
+  S.round++;
+  render();
+}
+function undo(){
+  if(!S.history.length) return;
+  let last=S.history.pop();
+  while(last&&last.shock){ last=S.history.pop(); } // skip shock markers
+  if(!last){ render(); return; }
+  S.volSum-=(last.trades||0)*last.price; S.unitsTraded-=(last.trades||0);
+  S.price=last.price; S.round=last.round; S.settled=false;
+  render();
+}
+/* ---------- wire up ---------- */
+document.querySelectorAll('[data-adj]').forEach(b=>b.addEventListener('click',()=>{
+  const inp=$(b.dataset.adj==="d"?"dIn":"sIn");
+  inp.value=Math.max(0,Math.min(15,(parseInt(inp.value)||0)+ (+b.dataset.dir)));
+  renderLottery();
+}));
+$("lockBtn").addEventListener('click',lockIn);
+$("undoBtn").addEventListener('click',undo);
+$("resetBtn").addEventListener('click',()=>{ fresh(S.startPrice); S.k=currentK(); render(); });
+$("paceSeg").addEventListener('click',e=>{ const b=e.target.closest('button'); if(!b)return;
+  S.k=parseFloat(b.dataset.k); [...$("paceSeg").children].forEach(x=>x.setAttribute('aria-pressed', x===b));
+});
+$("startSeg").addEventListener('click',e=>{ const b=e.target.closest('button'); if(!b)return;
+  const sp=parseInt(b.dataset.start); [...$("startSeg").children].forEach(x=>x.setAttribute('aria-pressed', x===b));
+  fresh(sp); S.k=currentK(); render();
+});
+function currentK(){ const b=$("paceSeg").querySelector('[aria-pressed="true"]'); return b?parseFloat(b.dataset.k):0.15; }
+
+/* ---------- trade lottery: pick a pool + how many, then auto-draw ---------- */
+const LOT={ pool:new Set(), winners:new Set(), n:1, drawn:false, key:"" };
+function lotInfo(){
+  const D=Math.max(0,parseInt($("dIn").value)||0);
+  const Sup=Math.max(0,parseInt($("sIn").value)||0);
+  let side=null; if(D>Sup) side='d'; else if(Sup>D) side='s';
+  return {D,Sup,winners:Math.min(D,Sup),side,longCount:Math.max(D,Sup),sitOut:Math.abs(D-Sup)};
+}
+function renderLottery(){
+  const i=lotInfo();
+  const status=$("lotStatus"), sub=$("lotSub"), grid=$("lotGrid"), drawRow=$("lotDrawRow"),
+        nIn=$("lotN"), poolInfo=$("lotPoolInfo"), result=$("lotResult"),
+        drawBtn=$("drawBtn"), resetBtn=$("lotAllBtn");
+  if(i.side===null || i.sitOut===0){
+    status.innerHTML = (i.D===i.Sup && i.D>0)
+      ? `Demand = Supply — <b>everyone who raised trades</b>. No draw needed this round.`
+      : `Enter the raised counts above; when one side is larger, draw here who trades.`;
+    sub.style.display="none"; grid.className="chipgrid empty"; grid.innerHTML="";
+    drawRow.style.display="none"; result.innerHTML="";
+    drawBtn.disabled=true; resetBtn.disabled=true; LOT.key=""; LOT.drawn=false; return;
+  }
+  const L=i.side==='d'?'B':'S', longName=i.side==='d'?'Buyers':'Sellers', shortName=i.side==='d'?'Sellers':'Buyers';
+  const key=`${S.round}:${i.side}:${i.D}:${i.Sup}`;
+  if(key!==LOT.key){ LOT.key=key; LOT.drawn=false; LOT.winners=new Set();
+    LOT.pool=new Set(); for(let n=1;n<=i.longCount;n++) LOT.pool.add(n);
+    LOT.n=i.winners; nIn.value=i.winners; }
+  status.innerHTML=
+    `<b class="who ${i.side}">${longName}</b> are the long side: <b>${i.longCount}</b> raised, `+
+    `only <b>${i.winners}</b> can trade, so <b>${i.sitOut}</b> sit out. `+
+    `The short side (<b>${shortName}</b>) all trade.`;
+  sub.style.display=""; drawRow.style.display="flex";
+  grid.className="chipgrid"; let html="";
+  for(let n=1;n<=i.longCount;n++){
+    const inPool=LOT.pool.has(n); let cls="lchip";
+    if(!inPool) cls+=" excl";
+    else if(LOT.drawn) cls+= LOT.winners.has(n)?" win":" out";
+    else cls+=" raised";
+    html+=`<div class="${cls}" data-n="${n}">${L}${n}</div>`;
+  }
+  grid.innerHTML=html;
+  poolInfo.textContent=`of ${LOT.pool.size} in the pool`;
+  nIn.max=LOT.pool.size;
+  result.innerHTML=LOT.drawn?lotResultText(L):"";
+  drawBtn.disabled=false; resetBtn.disabled=false;
+}
+function lotResultText(L){
+  const wins=[...LOT.winners].sort((a,b)=>a-b).map(n=>L+n);
+  const outs=[...LOT.pool].filter(n=>!LOT.winners.has(n)).sort((a,b)=>a-b).map(n=>L+n);
+  return `<span class="rwin">Trade:</span> ${wins.join(", ")||"—"}<br><span class="rout">Sit out:</span> ${outs.join(", ")||"—"}`;
+}
+function drawLottery(){
+  const i=lotInfo(); if(i.side===null) return;
+  const pool=[...LOT.pool]; if(!pool.length) return;
+  const n=Math.max(1,Math.min(parseInt($("lotN").value)||1, pool.length)); LOT.n=n; $("lotN").value=n;
+  for(let j=pool.length-1;j>0;j--){ const r=Math.floor(Math.random()*(j+1)); [pool[j],pool[r]]=[pool[r],pool[j]]; }
+  LOT.winners=new Set(pool.slice(0,n)); LOT.drawn=true; renderLottery();
+}
+$("drawBtn").addEventListener('click',drawLottery);
+$("lotAllBtn").addEventListener('click',()=>{ const i=lotInfo(); LOT.pool=new Set();
+  for(let n=1;n<=i.longCount;n++) LOT.pool.add(n); LOT.winners=new Set(); LOT.drawn=false;
+  LOT.n=i.winners; $("lotN").value=i.winners; renderLottery(); });
+$("lotGrid").addEventListener('click',e=>{ const c=e.target.closest('.lchip'); if(!c) return;
+  const n=parseInt(c.dataset.n); LOT.pool.has(n)?LOT.pool.delete(n):LOT.pool.add(n);
+  LOT.drawn=false; LOT.winners=new Set(); renderLottery(); });
+$("lotN").addEventListener('input',()=>{ LOT.n=parseInt($("lotN").value)||1; });
+['dIn','sIn'].forEach(id=>$(id).addEventListener('input',renderLottery));
+
+// theme toggle
+const root=document.documentElement;
+$("themeBtn").addEventListener('click',()=>{
+  const cur=root.getAttribute('data-theme');
+  const sysDark=matchMedia('(prefers-color-scheme:dark)').matches;
+  const now = cur ? cur : (sysDark?'dark':'light');
+  root.setAttribute('data-theme', now==='dark'?'light':'dark');
+  drawChart();
+});
+
+// keyboard: Enter locks in
+document.addEventListener('keydown',e=>{ if(e.key==="Enter" && !e.target.closest('input')===false){} });
+$("dIn").addEventListener('keydown',e=>{ if(e.key==="Enter") lockIn(); });
+$("sIn").addEventListener('keydown',e=>{ if(e.key==="Enter") lockIn(); });
+
+render();
+</script>
