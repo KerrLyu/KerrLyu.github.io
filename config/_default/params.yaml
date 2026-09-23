@@ -12,7 +12,7 @@ titleSeparator:
 colorScheme:
 
 # Colors and fonts. Default style is data/styles/default.yaml/
-style:
+style: ink-and-sage
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person

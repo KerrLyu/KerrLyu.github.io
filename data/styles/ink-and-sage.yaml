@@ -1,0 +1,23 @@
+fonts:
+  - name: Lora
+    googleFonts: Lora:wght@400;600;700
+  - name: Noto Serif SC
+    googleFonts: Noto+Serif+SC:wght@400;600;700
+
+colors:
+  light:
+    theme: "#5A7E78"
+    primaryBackground: "#F7F6F0"
+    secondaryBackground: "#FFFFFF"
+    tertiaryBackground: "#EFEEE7"
+    primaryText: "#263C3A"
+    secondaryText: "#435552"
+    tertiaryText: "#6D7A73"
+  dark:
+    theme: "#A9C0B0"
+    primaryBackground: "#1E2D2B"
+    secondaryBackground: "#273936"
+    tertiaryBackground: "#314541"
+    primaryText: "#F4F2E9"
+    secondaryText: "#D0D9D1"
+    tertiaryText: "#A9B7AD"
