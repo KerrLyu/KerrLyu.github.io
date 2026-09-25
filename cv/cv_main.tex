@@ -32,9 +32,9 @@
 \addbibresource{biblio_cv.bib}
 \newcommand{\myname}{Ke Lyu}
 
-% select default typefaces
-\usepackage{ebgaramond} % document's serif typeface
-\usepackage{tgheros}    % document's sans serif typeface
+% Use a Times New Roman-style typeface throughout the CV.
+\usepackage{newtxtext}
+\usepackage{newtxmath}
 
 % how far to tab for list items with left-aligned date: different fonts need different widths
 \newcommand{\listtabwidth}{1.7cm}
@@ -43,12 +43,12 @@
 \newcommand{\namefont}[1]{{\normalfont\bfseries\Huge{#1}}}
 
 % set section heading fonts and before/after spacing
-\SetTracking{encoding=*, family=\sfdefault}{30} % increase sans serif headings tracking
-\titleformat{\section}{\lsstyle\sffamily\small\bfseries\uppercase}{}{}{}{}
+\SetTracking{encoding=*, family=\rmdefault}{30}
+\titleformat{\section}{\lsstyle\rmfamily\small\bfseries\uppercase}{}{}{}{}
 \titlespacing{\section}{0pt}{16pt plus 4pt minus 4pt}{8pt plus 2pt minus 2pt}
 
 % set subsection heading fonts and before/after spacing
-\titleformat{\subsection}{\lsstyle\sffamily\footnotesize\bfseries}{}{}{}{}
+\titleformat{\subsection}{\lsstyle\rmfamily\footnotesize\bfseries}{}{}{}{}
 \titlespacing{\subsection}{0pt}{16pt plus 4pt minus 4pt}{4pt plus 2pt minus 2pt}
 
 % set page margins (assumes letter paper)
