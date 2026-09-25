@@ -66,17 +66,17 @@ hideMeta: true
 ### Southern Arkansas University
 
 <div class="teaching-course-list">
-  <div class="teaching-course"><span>Spring 2027</span><strong>ECON 2103</strong><span>Principles of Microeconomics</span></div>
-  <div class="teaching-course"><span>Spring 2027</span><strong>ECON 2203</strong><span>Principles of Macroeconomics</span></div>
-  <div class="teaching-course"><span>Spring 2027</span><strong>ECON 3093</strong><span>Managerial Economics</span></div>
-  <div class="teaching-course"><span>Fall 2026</span><strong>ECON 2103</strong><span>Principles of Microeconomics</span></div>
-  <div class="teaching-course"><span>Fall 2026</span><strong>GBUS 3183</strong><span>Statistics and Analysis II</span></div>
+  <div class="teaching-course"><span>Spring 2027</span><strong>ECON 2103</strong><span>Principles of Microeconomics (In person and online)</span></div>
+  <div class="teaching-course"><span>Spring 2027</span><strong>ECON 2203</strong><span>Principles of Macroeconomics (Online)</span></div>
+  <div class="teaching-course"><span>Spring 2027</span><strong>ECON 3093</strong><span>Managerial Economics (Online)</span></div>
+  <div class="teaching-course"><span>Fall 2026</span><strong>ECON 2103</strong><span>Principles of Microeconomics (In person and online)</span></div>
+  <div class="teaching-course"><span>Fall 2026</span><strong>GBUS 3183</strong><span>Statistics and Analysis II (Online)</span></div>
 </div>
 
 ### University of Nevada, Reno
 
 <div class="teaching-course-list">
-  <div class="teaching-course"><span>Summer 2025</span><strong>ECON 303</strong><span>Intermediate Macroeconomics</span></div>
-  <div class="teaching-course"><span>Summer 2023, Fall 2022</span><strong>ECON 261</strong><span>Principles of Statistics</span></div>
-  <div class="teaching-course"><span>Spring 2023</span><strong>ECON 103</strong><span>Principles of Macroeconomics</span></div>
+  <div class="teaching-course"><span>Summer 2025</span><strong>ECON 303</strong><span>Intermediate Macroeconomics (In person)</span></div>
+  <div class="teaching-course"><span>Summer 2023, Fall 2022</span><strong>ECON 261</strong><span>Principles of Statistics (In person)</span></div>
+  <div class="teaching-course"><span>Spring 2023</span><strong>ECON 103</strong><span>Principles of Macroeconomics (In person)</span></div>
 </div>
