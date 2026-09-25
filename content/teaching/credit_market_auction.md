@@ -10,12 +10,12 @@ date: '2025-10-14'
 lastmod: '2025-10-14'
 draft: false
 hideDate: true
-showVisitCount: true
+showVisitCount: false
 aliases:
   - /teaching/econ_103/credit_market_auction/
 ---
 
-An auction activity for **ECON 103: Principles of Macroeconomics**. Students act as lenders who assess borrowers, price risk, and make lending decisions under uncertainty.
+An auction activity for **ECON 103: Principles of Macroeconomics**. In each round, students act as lenders who assess a borrower's project, weigh the risk of default, and compete by offering interest rates. The debrief connects their bidding strategies to credit allocation, risk pricing, and the way competition shapes outcomes in financial markets.
 
 <div class="game-core-concept">
   <span>Core concept</span>
@@ -41,7 +41,7 @@ An auction activity for **ECON 103: Principles of Macroeconomics**. Students act
   </a>
 </div>
 
-### Game Insturctions
+### Game Instructions
 
 
 1. Assign all 20 students the role of lenders by distributing "lender" role cards. Provide each student with a

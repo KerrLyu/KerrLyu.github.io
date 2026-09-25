@@ -5,12 +5,12 @@ date: '2025-10-14'
 lastmod: '2026-09-22'
 draft: false
 hideDate: true
-showVisitCount: true
+showVisitCount: false
 aliases:
   - /teaching/econ_103/supply_and_demand/
 ---
 
-An interactive market experiment for **ECON 2103: Principles of Microeconomics**. Students take the roles of buyers and sellers while the class observes supply, demand, and price adjustment toward equilibrium.
+An interactive market experiment for **ECON 2103: Principles of Microeconomics**. Students receive buyer-value or seller-cost cards and trade with one another over several rounds while the class records the resulting prices and quantities. The live dashboard makes it easy to see how supply and demand interact, why trades occur, and how competitive pressure moves the market toward equilibrium.
 
 <div class="game-core-concept">
   <span>Core concept</span>

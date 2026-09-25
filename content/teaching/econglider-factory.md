@@ -4,10 +4,10 @@ toc: true
 date: '2026-09-22'
 draft: false
 hideDate: true
-showVisitCount: true
+showVisitCount: false
 ---
 
-A hands-on factory activity for **ECON 2103: Principles of Microeconomics**. Students make production decisions, record outcomes, and use the results to connect total cost, marginal cost, and output.
+A hands-on factory activity for **ECON 2103: Principles of Microeconomics**. Working in small teams, students operate a simple factory across several rounds, make production decisions, and record the output and cost consequences of each choice. Their results become a shared cost schedule that supports discussion of total cost, marginal cost, and the relationship between production and firm behavior.
 
 <div class="game-core-concept">
   <span>Core concept</span>

@@ -4,10 +4,10 @@ toc: true
 date: '2026-09-22'
 draft: false
 hideDate: true
-showVisitCount: true
+showVisitCount: false
 ---
 
-A classroom public-goods activity for **ECON 2103: Principles of Microeconomics**. Students choose contributions, compare group outcomes, and discuss incentives, cooperation, and free riding.
+A classroom public-goods activity for **ECON 2103: Principles of Microeconomics**. Students privately decide how much to contribute to a shared account, then compare their individual incentives with the outcome for the whole group. The activity makes cooperation, free riding, and the tension between private and collective interests visible before the class discusses the results together.
 
 <div class="game-core-concept">
   <span>Core concept</span>

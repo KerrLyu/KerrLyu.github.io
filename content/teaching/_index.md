@@ -7,13 +7,7 @@ noBg: true
 hideMeta: true
 ---
 
-## Principles of Microeconomics
-
-<div class="game-studio-heading">
-  <p class="game-studio-eyebrow">Learning by Doing</p>
-  <p class="teaching-intro">Interactive activities for <strong>Principles of Microeconomics</strong>. Each game includes ready-to-use instructor and student materials.</p>
-  <span class="game-studio-count">3 microeconomics activities</span>
-</div>
+## Principles of Microeconomics - Classroom Games
 
 <div class="game-grid">
   <article class="game-card game-card-costs">
@@ -51,7 +45,7 @@ hideMeta: true
   </article>
 </div>
 
-## Principles of Macroeconomics
+## Principles of Macroeconomics - Classroom Games
 
 <div class="game-grid game-grid-single">
   <article class="game-card game-card-credit">
