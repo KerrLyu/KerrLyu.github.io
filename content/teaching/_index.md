@@ -71,7 +71,6 @@ hideMeta: true
 
 ### Southern Arkansas University
 
-<p class="teaching-role">Instructor</p>
 <div class="teaching-course-list">
   <div class="teaching-course"><span>Spring 2027</span><strong>ECON 2103</strong><span>Principles of Microeconomics</span></div>
   <div class="teaching-course"><span>Spring 2027</span><strong>ECON 2203</strong><span>Principles of Macroeconomics</span></div>
@@ -82,10 +81,8 @@ hideMeta: true
 
 ### University of Nevada, Reno
 
-<p class="teaching-role">Instructor</p>
 <div class="teaching-course-list">
   <div class="teaching-course"><span>Summer 2025</span><strong>ECON 303</strong><span>Intermediate Macroeconomics</span></div>
   <div class="teaching-course"><span>Summer 2023, Fall 2022</span><strong>ECON 261</strong><span>Principles of Statistics</span></div>
   <div class="teaching-course"><span>Spring 2023</span><strong>ECON 103</strong><span>Principles of Macroeconomics</span></div>
-  <div class="teaching-course"><span>Summer 2025, 2023, 2022</span><strong>Math Camp</strong><span>Incoming Master's and Ph.D. Students</span></div>
 </div>
