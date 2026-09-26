@@ -69,8 +69,8 @@ hideMeta: true
   <div class="teaching-course"><span>Spring 2027</span><strong>ECON 2103</strong><span>Principles of Microeconomics (In person and online)</span></div>
   <div class="teaching-course"><span>Spring 2027</span><strong>ECON 2203</strong><span>Principles of Macroeconomics (Online)</span></div>
   <div class="teaching-course"><span>Spring 2027</span><strong>ECON 3093</strong><span>Managerial Economics (Online)</span></div>
-  <div class="teaching-course"><span>Fall 2026</span><strong>ECON 2103</strong><span>Principles of Microeconomics (In person and online)</span></div>
-  <div class="teaching-course"><span>Fall 2026</span><strong>GBUS 3183</strong><span>Statistics and Analysis II (Online)</span></div>
+  <div class="teaching-course"><span>Fall 2026</span><strong>ECON 2103</strong><span>Principles of Microeconomics (In person and online; enrollment: sections 001/002/029: 34, 19, and 29 students; 82 total)</span></div>
+  <div class="teaching-course"><span>Fall 2026</span><strong>GBUS 3183</strong><span>Statistics and Analytics II (Online; enrollment: 47 students)</span></div>
 </div>
 
 ### University of Nevada, Reno
