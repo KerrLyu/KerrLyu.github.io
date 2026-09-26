@@ -1,11 +1,19 @@
 ---
 title: Teaching
+description: Teaching economics through active learning, classroom games, data, and policy applications.
 layout: single
 date: 2025-01-10
 read_time: false
 noBg: true
 hideMeta: true
 ---
+
+## Teaching Philosophy
+
+<div class="teaching-philosophy">
+  <p>I teach economics as a practical way of thinking about the choices made by people, firms, and governments. My courses pair clear conceptual foundations with active learning: classroom games, data, and policy examples help students test economic ideas and connect models to real decisions.</p>
+  <p>My goal is to create an inclusive, supportive classroom where students ask questions, build confidence, and leave with analytical tools they can use beyond the course.</p>
+</div>
 
 ## Principles of Microeconomics - Classroom Games
 

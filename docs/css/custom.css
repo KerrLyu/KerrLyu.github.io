@@ -88,6 +88,25 @@
   line-height: 1.65;
 }
 
+.teaching-philosophy {
+  max-width: 900px;
+  margin: 0.65rem 0 2.2rem;
+  padding: 1.25rem 1.4rem;
+  border-left: 4px solid #5a7e78;
+  border-radius: 0 12px 12px 0;
+  background: linear-gradient(135deg, #f7f9f6 0%, #fcfcfa 100%);
+  color: #435552;
+  line-height: 1.7;
+}
+
+.teaching-philosophy p {
+  margin: 0;
+}
+
+.teaching-philosophy p + p {
+  margin-top: 0.7rem;
+}
+
 .game-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
