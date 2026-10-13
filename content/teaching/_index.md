@@ -51,13 +51,24 @@ hideMeta: true
       <a class="game-card-link" href="/teaching/supply_and_demand/">Open materials <span aria-hidden="true">→</span></a>
     </div>
   </article>
+  <article class="game-card game-card-lrac">
+    <span class="game-card-number">04</span>
+    <p class="game-card-kicker">Core Concept</p>
+    <h3>Long-Run Average Cost</h3>
+    <p class="game-card-game">Coffee Shop Cost Builder</p>
+    <p>Students design coffee shops at different scales and build the long-run average cost envelope from short-run cost curves.</p>
+    <div class="game-card-actions">
+      <details class="game-card-details"><summary>Explore the activity</summary><p>Students compare fixed and variable costs, save alternative shop designs, and identify economies and diseconomies of scale along the LRAC curve.</p></details>
+      <a class="game-card-link" href="/teaching/coffee-shop-cost-builder/">Open materials <span aria-hidden="true">→</span></a>
+    </div>
+  </article>
 </div>
 
 ## Principles of Macroeconomics - Classroom Games
 
 <div class="game-grid game-grid-single">
   <article class="game-card game-card-credit">
-    <span class="game-card-number">04</span>
+    <span class="game-card-number">05</span>
     <p class="game-card-kicker">Core Concept</p>
     <h3>Credit Markets</h3>
     <p class="game-card-game">Credit Market Auction</p>

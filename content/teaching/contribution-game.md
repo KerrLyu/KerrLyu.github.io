@@ -17,10 +17,6 @@ A classroom public-goods activity for **ECON 2103: Principles of Microeconomics*
 ## Game Materials
 
 <div class="game-resource-list">
-  <a href="/teaching-games/contribution/ECON2103_ContributionGame_TeachingScript.docx" download>
-    <span class="game-resource-copy"><strong>Teaching Script</strong><small>A facilitation guide with the activity sequence and discussion prompts.</small></span>
-    <span class="game-resource-type">DOCX <b aria-hidden="true">↓</b></span>
-  </a>
   <a href="/teaching-games/contribution/ECON2103_ContributionGame_RunSheet.docx" download>
     <span class="game-resource-copy"><strong>Run Sheet</strong><small>A quick reference for timing, rounds, and classroom setup.</small></span>
     <span class="game-resource-type">DOCX <b aria-hidden="true">↓</b></span>
