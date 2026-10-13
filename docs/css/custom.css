@@ -431,6 +431,15 @@
   letter-spacing: -0.02em;
 }
 
+.game-card-game {
+  margin: 0.45rem 0 0 !important;
+  color: var(--game-accent) !important;
+  font-family: "Segoe UI", sans-serif;
+  font-size: 0.9rem;
+  font-weight: 800;
+  letter-spacing: 0.015em;
+}
+
 .game-concept {
   border: 1px solid color-mix(in srgb, var(--game-accent) 24%, transparent);
   background: color-mix(in srgb, var(--game-accent) 10%, white);
