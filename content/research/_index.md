@@ -154,6 +154,7 @@ The COVID-19 pandemic delivered an unprecedented shock to U.S. business entry, w
 </div>
 
 
+<!-- Work in Progress is temporarily hidden from the public Research page.
 <h2>Work in Progress</h2>
 
 <div class="research-list">
@@ -193,3 +194,4 @@ The COVID-19 pandemic delivered an unprecedented shock to U.S. business entry, w
 </div>
 </div>
 </div>
+-->
