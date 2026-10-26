@@ -37,9 +37,11 @@ title: Research
   <summary>Presentations and award</summary>
   <div><em>Presented at 29th SOLE Annual Meeting 2026, PhD-EVS 2026, GLO-JOPE 2025, Innovations in Data and Methods Applied to Institutions and Entrepreneurship Workshop (UW–La Crosse) 2025<sup>✚</sup>, WEAI 100th Annual Meeting 2025, 45th BCERC 2025, REGIS Summer School 2024, SEA 94th Annual Meeting 2024, SBEJ 3rd Online Conference 2024, University of Nevada, Reno 2024</em><br><em>Second Prize, Smart Economic Planning and Industrial Policy Conference 2025</em><br><span class="research-footnote">✚ coauthor presentation</span></div>
 </details>
+<details class="research-abstract-details">
+<summary>Abstract</summary>
 <div class="research-panel-grid research-panel-grid--wide">
 <div class="research-abstract">
-<p><strong>Abstract:</strong><br>
+<p>
 This paper investigates the impact of regional minimum wage increases on nonemployer business establishments in the United States. We develop a theoretical model of occupational choice motivating our empirical analysis. The effects of minimum wages are estimated using panel data analysis and an identification strategy that compares nonemployer establishments in contiguous counties across neighboring states. Our analysis employs data from the Nonemployer Statistics provided by the U.S. Census Bureau, spanning from 2001 to 2020. The findings indicate that a $1 increase in the minimum wage leads to a 0.5%–0.9% decrease in the number of nonemployer businesses, likely due to relatively more attractive wage employment. This shift is smaller in counties characterized by higher percentages of Hispanics, African Americans, Asians, and lower percentages of high school graduates. Conversely, higher minimum wages increase the number of nonemployers in the transportation sector as individuals are pushed into the gig economy, which is not covered by minimum wages. Further analysis based on various data sources from official statistics reveals that higher minimum wages discourage transitions from nonemployer to employer status and instead increase transitions from self-employment to wage employment and unemployment. Our findings add perspective to the debate on minimum wages by showing how this regulation affects nonemployers as an important part of their regional institutional environment.</p>
 </div>
 <div class="fig-wrap">
@@ -49,6 +51,7 @@ This paper investigates the impact of regional minimum wage increases on nonempl
 </figure>
 </div>
 </div>
+</details>
 </div>
 </div>
 
@@ -58,12 +61,15 @@ This paper investigates the impact of regional minimum wage increases on nonempl
 <p><strong>Local Credit Supply Shocks Discourage Startups from Loan Applications</strong><br>
 <span class="research-authors"><em>With <a href="https://www.unr.edu/business/faculty-and-staff/flanigan-rachel">Rachel M. Flanigan</a> and <a href="https://www.unr.edu/business/faculty-and-staff/fossen-frank">Frank Fossen</a></em></span></p>
 <div class="research-status-row"><span class="status-pill status-pill--accent">Revise and Resubmit at <em>Journal of Banking and Finance</em></span></div>
+<details class="research-abstract-details">
+<summary>Abstract</summary>
 <div class="research-panel-grid">
 <div class="research-abstract">
-<p><strong>Abstract:</strong><br>
+<p>
 Are entrepreneurs discouraged from applying for bank loans during a credit crunch? We study discouraged borrowing, loan applications, and loan approvals among young firms using the Kauffman Firm Survey, a cohort study of U.S. startups founded in 2004 and followed through the Financial Crisis of 2008–09 until 2012. Using an instrumental-variables approach, we estimate the causal effect of county-level credit supply on young firms’ access to bank loans. The results indicate that a large segment of startups is discouraged from applying for loans following a local credit-supply shock, controlling for the firms’ credit-risk scores. We also document that these adverse effects of credit-supply shocks on the financing of startups are obscured when only loan-application or approval rates are considered.</p>
 </div>
 </div>
+</details>
 </div>
 </div>
 
@@ -76,9 +82,11 @@ Are entrepreneurs discouraged from applying for bank loans during a credit crunc
   <summary>Presentations</summary>
   <div><em>Presented at NBER Place-Based Policies and Entrepreneurship Conference 2025<sup>✚</sup>, SEA 2025, NBER Economic Analysis of Business Taxation Workshop 2025<sup>✚</sup>, 20th EGSC (WashU) 2025; WEFI 2025, 6th SOLE–EALE–AASLE World Labor Conference 2025, 100th WEAI 2025<sup>✚</sup>, 5th UCLA Anderson Price Research Conference 2025, Georgia State University 2025<sup>✚</sup>, University of Michigan 2025<sup>✚</sup>, University of Nevada, Reno 2025</em><br><span class="research-footnote">✚ coauthor presentation</span></div>
 </details>
+<details class="research-abstract-details">
+<summary>Abstract</summary>
 <div class="research-panel-grid research-panel-grid--wide">
 <div class="research-abstract">
-<p><strong>Abstract:</strong><br>
+<p>
 Governments spend billions of dollars each year on tax cuts and incentives targeted at businesses, but are these tax policies effective? This study provides the first causal evidence on how a comprehensive set of local taxes and incentives influences startup activity and outcomes. Leveraging new restricted-access administrative panel data on the universe of U.S. startups, we employ difference-in-differences designs exploiting large policy changes. Key findings include: (1) Tax increases significantly reduce startup numbers and employment; tax cuts have nearly symmetric positive effects. (2) Corporate taxes have the most robust impact on startup activity. (3) Enacted incentives stimulate startup formation and reduce exits (notably R&amp;D tax credits); this stimulus is asymmetric, not equally reversed by incentive cuts. We do not find evidence that startups relocate to different states as state policies change, implying responses in total numbers of startups and corresponding broader welfare effects.</p>
 </div>
 <div class="fig-wrap thumb-2">
@@ -92,6 +100,7 @@ Governments spend billions of dollars each year on tax cuts and incentives targe
 </figure>
 </div>
 </div>
+</details>
 </div>
 </div>
 
@@ -104,9 +113,11 @@ Governments spend billions of dollars each year on tax cuts and incentives targe
   <summary>Presentations</summary>
   <div><em>Presented at CES NA Annual Conference 2026<sup>✚</sup>, 100th WEAI 2025</em><br><span class="research-footnote">✚ coauthor presentation</span></div>
 </details>
+<details class="research-abstract-details">
+<summary>Abstract</summary>
 <div class="research-panel-grid research-panel-grid--wide">
 <div class="research-abstract">
-<p><strong>Abstract:</strong><br>
+<p>
 Unincorporated businesses serve as economic lifelines for low-income households when formal jobs are scarce. This study provides the first causal evidence that a large-scale anti-poverty program can promote unincorporated entrepreneurship. We focus on China’s Targeted Poverty Alleviation program, a landmark initiative combining precision targeting with multi-sector interventions. Using a difference-in-differences approach, we examine county-level business registrations (2010–2022) and household survey data (2010–2020). The program significantly increased unincorporated business entry by 6.9% at the county level and raised household business ownership by 2.75 percentage points. Three mechanisms drive these gains: spillover from large enterprises, expanded access to credit, and infrastructure improvements. Effects concentrate in counties with stable leadership and moderate corruption and are strongest in agriculture and among poor households, showing that well-governed, targeted interventions can redirect business ownership toward disadvantaged groups. Overall, our findings offer lessons for other low- and middle-income economies seeking to empower marginalized populations through small-scale enterprise.</p>
 </div>
 <div class="fig-wrap">
@@ -116,6 +127,7 @@ Unincorporated businesses serve as economic lifelines for low-income households 
 </figure>
 </div>
 </div>
+</details>
 </div>
 </div>
 
@@ -124,12 +136,15 @@ Unincorporated businesses serve as economic lifelines for low-income households 
 <div class="research-entry-body">
 <p><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5264876" class="research-link-anchor">From Vice to Venture: Evaluating the Impact of Smoking and Drinking on Self-employment in China</a></strong><br>
 <span class="research-authors"><em>Solo-authored paper</em></span></p>
+<details class="research-abstract-details">
+<summary>Abstract</summary>
 <div class="research-panel-grid">
 <div class="research-abstract">
-<p><strong>Abstract:</strong><br>
+<p>
 Risky health behaviors, such as smoking and alcohol abuse, not only lead to preventable deaths but also affect workplace performance. Using data from the China Health and Nutrition Survey, this study examines how these behaviors influence the choice between solo self-employment, employer entrepreneurship, and paid employment. The study employs the instrumental variable approach, using cigarette and alcohol prices as instruments. The findings reveal that increased smoking and drinking behaviors reduce the likelihood of choosing self-employment, regardless of its type. Two primary channels of influence emerge from the analysis: the “individual channel,” which indicates that such behaviors adversely affect health and decrease the likelihood of becoming an employer, and the “group addiction channel,” which suggests that these behaviors boost social capital, thereby increasing the chances of business ownership.</p>
 </div>
 </div>
+</details>
 </div>
 </div>
 </div>
