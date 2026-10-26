@@ -22,7 +22,7 @@ hideMeta: true
     <span class="game-card-number">01</span>
     <p class="game-card-kicker">Core Concept</p>
     <h3>Cost and Production</h3>
-    <p class="game-card-game">EconGlider Factory</p>
+    <p class="game-card-game">Paper Plane Factory</p>
     <p>Students connect production decisions, costs, and marginal cost through a hands-on factory activity.</p>
     <div class="game-card-actions">
       <details class="game-card-details"><summary>Explore the activity</summary><p>Students choose output, compare cost schedules, and identify how marginal cost changes with production.</p></details>

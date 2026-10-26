@@ -1,5 +1,5 @@
 ---
-title: EconGlider Factory
+title: Paper Plane Factory
 toc: true
 date: '2026-09-22'
 draft: false
