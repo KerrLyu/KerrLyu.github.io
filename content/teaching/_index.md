@@ -62,13 +62,24 @@ hideMeta: true
       <a class="game-card-link" href="/teaching/coffee-shop-cost-builder/">Open materials <span aria-hidden="true">→</span></a>
     </div>
   </article>
+  <article class="game-card game-card-monopoly">
+    <span class="game-card-number">05</span>
+    <p class="game-card-kicker">Core Concept</p>
+    <h3>Monopoly and Price Discrimination</h3>
+    <p class="game-card-game">The Price Is Yours</p>
+    <p>Students set monopoly prices, compare single-price and group-pricing outcomes, and uncover when price discrimination can survive.</p>
+    <div class="game-card-actions">
+      <details class="game-card-details"><summary>Explore the activity</summary><p>Students take the roles of a monopoly firm's CEO and buyers with different willingness to pay, then test how pricing changes output, profit, and deadweight loss.</p></details>
+      <a class="game-card-link" href="/teaching/monopoly-game/">Open materials <span aria-hidden="true">→</span></a>
+    </div>
+  </article>
 </div>
 
 ## Principles of Macroeconomics - Classroom Games
 
 <div class="game-grid game-grid-single">
   <article class="game-card game-card-credit">
-    <span class="game-card-number">05</span>
+    <span class="game-card-number">06</span>
     <p class="game-card-kicker">Core Concept</p>
     <h3>Credit Markets</h3>
     <p class="game-card-game">Credit Market Auction</p>

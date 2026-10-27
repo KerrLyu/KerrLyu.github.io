@@ -397,6 +397,11 @@
   --game-soft: #f3eff8;
 }
 
+.game-card-monopoly {
+  --game-accent: #9a654d;
+  --game-soft: #fbf3ed;
+}
+
 .game-card:nth-child(2) {
   animation-delay: 70ms;
 }
@@ -976,6 +981,7 @@
 .game-card-public { --game-accent: #b7833f; --game-soft: #faf4e7; }
 .game-card-market { --game-accent: #5a7e78; --game-soft: #f4f7f3; }
 .game-card-credit { --game-accent: #718b84; --game-soft: #f5f7f3; }
+.game-card-monopoly { --game-accent: #9a654d; --game-soft: #fbf3ed; }
 .game-card-details { border-color: #d4e0d4; }
 .game-card-details p { color: #62736c !important; }
 .game-card-link { background: var(--game-accent); color: #ffffff; }

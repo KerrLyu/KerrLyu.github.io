@@ -6,8 +6,15 @@
     <description>Recent content on Ke (Kerr) Lyu</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://KerrLyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Price Is Yours</title>
+      <link>https://KerrLyu.github.io/teaching/monopoly-game/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://KerrLyu.github.io/teaching/monopoly-game/</guid>
+      <description>&lt;p&gt;A hands-on monopoly and price-discrimination activity for &lt;strong&gt;Principles of Microeconomics&lt;/strong&gt;. One student serves as the CEO of the town&amp;rsquo;s only medicine company, while other students are buyers with private willingness-to-pay cards. Across three stages, the class compares a single monopoly price, different prices for different buyer groups, and a setting in which resale is allowed.&lt;/p&gt;&#xA;&lt;p&gt;Students see why a single monopoly price can leave mutually beneficial trades unrealized, how group pricing can change output and profit, and why price discrimination requires firms to identify groups and prevent resale. The debrief connects the game to monopoly pricing, deadweight loss, third-degree price discrimination, and policy questions involving market power.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Coffee Shop Cost Builder</title>
       <link>https://KerrLyu.github.io/teaching/coffee-shop-cost-builder/</link>
