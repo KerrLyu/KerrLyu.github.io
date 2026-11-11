@@ -1,0 +1,52 @@
+{{/*
+  Override of themes/eureka/layouts/partials/widgets/about.html.
+  Changes from the theme version:
+  - the portrait gets a descriptive alt text and fixed width/height (no layout jump while it loads);
+  - each social icon link gets a text label (aria-label + hover tooltip) and a larger tap target.
+    The label comes from `label:` on the social entry in content/homepage/about.md.
+*/}}
+<div class="mb-12 flex flex-col items-center justify-center md:flex-row">
+  {{ $img := partial "utils/get-image" (dict "context" . "url" .Params.avatar "keyword" "*avatar*") }}
+  {{ with $img }}
+    <div class="md:ms-0 md:me-8 md:pe-8 md:border-e mx-auto w-48 flex-none">
+      <img src="{{ . }}" class="rounded-full" width="192" height="192" alt="Portrait of {{ $.Title }}" />
+    </div>
+  {{ end }}
+  <div class="mt-4 w-full grow md:mt-0">
+    <h1 class="py-4 text-3xl">{{ .Title }}</h1>
+    <div class="w-3/12 border-b xl:w-2/12"></div>
+
+    <div class="flex items-center pt-4">
+      {{ with or (.Params.role) (.Params.organizations) }}
+        <i class="fas fa-user"></i>
+      {{ end }}
+      <div class="flex flex-wrap">
+        {{ with .Params.role }}
+          <span class="ps-4">{{ . | markdownify }}</span>
+        {{ end }}
+
+        {{ with .Params.organization }}
+          <a href="{{ .url }}" class="ps-4">{{ .name | markdownify }}</a>
+        {{ end }}
+      </div>
+    </div>
+
+    {{ with .Params.bio }}
+      <div class="py-8 text-lg leading-normal">
+        {{ . | markdownify }}
+      </div>
+    {{ end }}
+  </div>
+  <div class="md:ms-8 flex items-end justify-center md:flex-col">
+    {{ range $.Param "social" }}
+      {{ $iconPack := .iconPack | default .icon_pack }}
+      {{ $label := .label | default (humanize .icon) }}
+      <div class="mx-1 mb-2 mt-4 md:mx-0 md:mt-1 md:mb-1">
+        <a href="{{ .url }}" class="social-link" aria-label="{{ $label }}" title="{{ $label }}"><i class="{{ $iconPack }} fa-{{ .icon }}" aria-hidden="true"></i></a>
+      </div>
+    {{ end }}
+  </div>
+</div>
+<div class="prose">
+  {{ .Content }}
+</div>

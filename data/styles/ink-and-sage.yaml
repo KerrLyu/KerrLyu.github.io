@@ -1,8 +1,6 @@
 fonts:
   - name: Lora
     googleFonts: Lora:wght@400;600;700
-  - name: Noto Serif SC
-    googleFonts: Noto+Serif+SC:wght@400;600;700
 
 colors:
   light:

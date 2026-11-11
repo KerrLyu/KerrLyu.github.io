@@ -1,3 +1,7 @@
-article p, .prose p, .prose li {
-    text-align: justify;
+/* Justified text looks tidy on wide screens but leaves large gaps between
+   words on narrow phone screens, so only justify from tablet width up. */
+@media (min-width: 768px) {
+    article p, .prose p, .prose li {
+        text-align: justify;
+    }
 }

@@ -19,10 +19,11 @@ siteType: Person
 icon: images/logo.png
 publisherName: Kerr Lyu
 publisherLogo: images/logo.png
-socialImage: jpg/portrait.jpg
+socialImage: jpg/portrait_480.jpg
 
 highlight:
-  handler: highlightjs
+  # Off: no page shows code. Set to highlightjs to turn code highlighting back on.
+  handler:
 
   highlightjs:
     # highlight.js doesn't bundle every language. So please specify additional languages you want here.
@@ -33,7 +34,8 @@ highlight:
     style: base16/solarized-light
 
 math:
-  handler: katex
+  # Off: no page uses formulas. Set to katex to turn LaTeX math back on.
+  handler:
 
   # katex:
   #   # Browse https://katex.org/docs/options.html to see the options available.
@@ -70,7 +72,8 @@ comment:
   #   app-Key:
 
 diagram:
-  handler: mermaid
+  # Off: no page uses diagrams. Set to mermaid to turn diagrams back on.
+  handler:
 
   # mermaid:
   #   # Browse https://mermaid-js.github.io/mermaid/#/Setup to see the options available.

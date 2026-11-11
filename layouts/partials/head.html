@@ -168,8 +168,11 @@
 </script>
 {{- end }}  */}}
 
+{{/* Version the stylesheet by its content, so pages only change when custom.css itself changes
+     (the old ?v=<build time> rewrote every page on every build). */}}
 {{ $customCSS := "css/custom.css" | relURL }}
-<link rel="stylesheet" href="{{ $customCSS }}?v={{ now.Unix }}">
+{{ $customCSSVersion := readFile "static/css/custom.css" | md5 | truncate 10 "" }}
+<link rel="stylesheet" href="{{ $customCSS }}?v={{ $customCSSVersion }}">
 {{ with .Site.Params.goatcounter.code }}
 <script data-goatcounter="https://{{ . }}.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
 {{ end }}

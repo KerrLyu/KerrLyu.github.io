@@ -46,7 +46,6 @@ article .collapse-title {
 }
 
 article .collapse-content {
-    text-align: justify;
     color: var(--color-tertiary-text);
     font-size: 0.9rem;
 }
@@ -60,4 +59,10 @@ article .collapse-content:not(.show) {
 article .collapse-content.show {
     max-height: 1000px;
     transition: .3s;
+}
+
+@media (min-width: 768px) {
+    article .collapse-content {
+        text-align: justify;
+    }
 }

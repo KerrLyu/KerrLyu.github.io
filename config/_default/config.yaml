@@ -1,4 +1,4 @@
-baseURL: https://KerrLyu.github.io/
+baseURL: https://kerrlyu.github.io/
 title: Ke (Kerr) Lyu
 
 # Uncomment when not installing with Hugo Modules
@@ -42,6 +42,12 @@ taxonomies:
   tag: tags
   series: series
   author: authors
+
+# The site has no tag, category, series or author pages, so don't generate
+# empty listing pages for them (they used to show up in Google).
+disableKinds:
+  - taxonomy
+  - term
 
 build:
   useResourceCacheWhen: fallback

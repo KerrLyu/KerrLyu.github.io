@@ -2,50 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://KerrLyu.github.io/</loc>
+    <loc>https://kerrlyu.github.io/</loc>
     <lastmod>2026-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/teaching/monopoly-game/</loc>
+    <loc>https://kerrlyu.github.io/teaching/monopoly-game/</loc>
     <lastmod>2026-10-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/teaching/coffee-shop-cost-builder/</loc>
+    <loc>https://kerrlyu.github.io/teaching/coffee-shop-cost-builder/</loc>
     <lastmod>2026-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/teaching/contribution-game/</loc>
+    <loc>https://kerrlyu.github.io/teaching/contribution-game/</loc>
     <lastmod>2026-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/teaching/econglider-factory/</loc>
+    <loc>https://kerrlyu.github.io/teaching/econglider-factory/</loc>
     <lastmod>2026-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/teaching/credit_market_auction/</loc>
+    <loc>https://kerrlyu.github.io/teaching/credit_market_auction/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/teaching/supply_and_demand/</loc>
+    <loc>https://kerrlyu.github.io/teaching/supply_and_demand/</loc>
     <lastmod>2026-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/teaching/</loc>
+    <loc>https://kerrlyu.github.io/teaching/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/teaching/tech-example/</loc>
+    <loc>https://kerrlyu.github.io/teaching/tech-example/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/teaching/tech-example2/</loc>
+    <loc>https://kerrlyu.github.io/teaching/tech-example2/</loc>
     <lastmod>2025-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://KerrLyu.github.io/authors/</loc>
+    <loc>https://kerrlyu.github.io/cv/</loc>
   </url><url>
-    <loc>https://KerrLyu.github.io/categories/</loc>
-  </url><url>
-    <loc>https://KerrLyu.github.io/cv/</loc>
-  </url><url>
-    <loc>https://KerrLyu.github.io/authors/example-author/</loc>
-  </url><url>
-    <loc>https://KerrLyu.github.io/authors/hugo-authors/</loc>
-  </url><url>
-    <loc>https://KerrLyu.github.io/research/</loc>
-  </url><url>
-    <loc>https://KerrLyu.github.io/series/</loc>
-  </url><url>
-    <loc>https://KerrLyu.github.io/tags/</loc>
+    <loc>https://kerrlyu.github.io/research/</loc>
   </url>
 </urlset>

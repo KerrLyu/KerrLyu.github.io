@@ -1011,3 +1011,20 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* Homepage social icons: at least 44x44px tap area (phone-friendly) and a
+   slightly larger icon. Markup lives in layouts/partials/widgets/about.html. */
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  font-size: 1.35rem;
+  border-radius: 9999px;
+  transition: background-color 0.15s ease;
+}
+.social-link:hover,
+.social-link:focus-visible {
+  background-color: var(--color-tertiary-bg);
+}

@@ -1,4 +1,6 @@
 {{/* Start custom-head.html */}}
-<link rel="stylesheet" href="/css/collapse.css">
-<link rel="stylesheet" href="/css/text-align.css">
+{{/* ?v= is a hash of the file, so browsers pick up a changed stylesheet right away. */}}
+{{ range slice "collapse.css" "text-align.css" }}
+<link rel="stylesheet" href="/css/{{ . }}?v={{ readFile (print "static/css/" .) | md5 | truncate 10 "" }}">
+{{ end }}
 {{/* End custom-head.html */}}
