@@ -3,7 +3,8 @@
   Changes from the theme version:
   - the portrait gets a descriptive alt text and fixed width/height (no layout jump while it loads);
   - each social icon link gets a text label (aria-label + hover tooltip) and a larger tap target.
-    The label comes from `label:` on the social entry in content/homepage/about.md.
+    The label comes from `label:` on the social entry in content/homepage/about.md;
+  - an optional `office:` address is shown in smaller text with an "Office" label.
 */}}
 <div class="mb-12 flex flex-col items-center justify-center md:flex-row">
   {{ $img := partial "utils/get-image" (dict "context" . "url" .Params.avatar "keyword" "*avatar*") }}
@@ -30,6 +31,10 @@
         {{ end }}
       </div>
     </div>
+
+    {{ with .Params.office }}
+      <p class="about-office"><span class="about-office-label">Office</span>{{ . }}</p>
+    {{ end }}
 
     {{ with .Params.bio }}
       <div class="py-8 text-lg leading-normal">

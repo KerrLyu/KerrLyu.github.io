@@ -1,5 +1,7 @@
 mainSections:
   - posts
+# Browser-tab and search-result title for the homepage only (other pages use "Page | Ke (Kerr) Lyu").
+homeTitle: Ke (Kerr) Lyu | Economist, Southern Arkansas University
 description: Ke (Kerr) Lyu is an Assistant Professor of Economics and Statistics in the David F. Rankin College of Business at Southern Arkansas University. Her research focuses on labor economics, entrepreneurship, and public economics.
 
 repoEditURL:

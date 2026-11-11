@@ -1,0 +1,35 @@
+{{/*
+  Structured "Person" data for search engines, on the homepage only.
+  It ties the site to the Google Scholar, ORCID and LinkedIn profiles so Google can tell they are the same person.
+  Role, organization, portrait and links are read from content/homepage/about.md, so they stay in sync.
+*/}}
+{{- with site.GetPage "/homepage" }}
+{{- with .Resources.GetMatch "about.md" }}
+{{- $p := .Params }}
+{{- $sameAs := slice }}
+{{- $email := "" }}
+{{- range $p.social }}
+  {{- if hasPrefix .url "mailto:" }}
+    {{- $email = strings.TrimPrefix "mailto:" .url }}
+  {{- else }}
+    {{- $sameAs = $sameAs | append .url }}
+  {{- end }}
+{{- end }}
+{{- $person := dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "name" "Ke Lyu"
+  "alternateName" (slice "Kerr Lyu" "Ke (Kerr) Lyu")
+  "url" site.Home.Permalink
+  "jobTitle" $p.role
+  "knowsAbout" (slice "Labor Economics" "Economics of Entrepreneurship" "Public Economics")
+  "sameAs" $sameAs
+}}
+{{- with $p.avatar }}{{ $person = merge $person (dict "image" (absURL .)) }}{{ end }}
+{{- with $email }}{{ $person = merge $person (dict "email" .) }}{{ end }}
+{{- with $p.organization }}
+  {{- $person = merge $person (dict "affiliation" (dict "@type" "CollegeOrUniversity" "name" .name "url" .url)) }}
+{{- end }}
+<script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>
+{{- end }}
+{{- end }}

@@ -18,7 +18,8 @@ The folder is deliberately kept **outside** `Documents`. `Documents` is synced t
 
 | What you want to change | File or folder |
 | --- | --- |
-| Homepage profile, address, social links, self-introduction | `content/homepage/about.md` |
+| Homepage profile, office address, social links, self-introduction, research questions, Selected Publications | `content/homepage/about.md` |
+| Homepage browser-tab / search-result title | `homeTitle` in `config/_default/params.yaml` |
 | Research page, publications, working papers | `content/research/_index.md` |
 | Teaching page, courses, and game cards | `content/teaching/_index.md` |
 | Individual game pages | `content/teaching/` |
@@ -80,6 +81,10 @@ Do not edit files inside `docs/` by hand. Hugo recreates that folder every time 
 ### Change the homepage text, address or social links
 
 Open `content/homepage/about.md`. Each social link has an `icon`, a `label` (what screen readers say and what shows on hover) and a `url`.
+
+### Update the homepage Selected Publications
+
+Open `content/homepage/about.md` and edit the `<ul class="home-pubs">` list near the bottom. Each `<li>` has a linked title and one line of authors, journal and year. Keep it to two or three papers; the full list lives on the Research page.
 
 ### Change the portrait
 

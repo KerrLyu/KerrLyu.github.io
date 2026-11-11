@@ -1028,3 +1028,88 @@
 .social-link:focus-visible {
   background-color: var(--color-tertiary-bg);
 }
+
+/* Homepage office address: smaller than the theme's bio text, with a label. */
+.about-office {
+  margin: 1.5rem 0 0;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--color-tertiary-text);
+}
+.about-office-label {
+  display: inline-block;
+  margin-right: 0.6em;
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--color-eureka);
+}
+
+/* Homepage research questions: numbered, with an accent bar instead of emoji. */
+.prose .research-questions {
+  counter-reset: rq;
+  margin: 1.25rem 0 1.5rem;
+}
+.prose .research-questions p {
+  counter-increment: rq;
+  position: relative;
+  margin: 0.75rem 0;
+  padding: 0.15rem 0 0.15rem 2.75rem;
+  border-left: 3px solid var(--color-eureka);
+  color: var(--color-primary-text);
+  font-style: italic;
+  text-align: left;
+}
+.prose .research-questions p::before {
+  content: counter(rq);
+  position: absolute;
+  left: 0.85rem;
+  top: 0.15rem;
+  font-style: normal;
+  font-weight: 700;
+  color: var(--color-eureka);
+}
+
+/* Homepage "Selected Publications" list. */
+.prose ul.home-pubs {
+  list-style: none;
+  padding-left: 0;
+  margin: 1rem 0;
+}
+.prose ul.home-pubs > li {
+  padding: 0.85rem 0;
+  margin: 0;
+  border-bottom: 1px solid var(--color-tertiary-bg);
+}
+.prose ul.home-pubs > li::marker { content: none; }
+.prose ul.home-pubs > li:first-child { padding-top: 0; }
+.prose ul.home-pubs a {
+  font-weight: 600;
+  color: var(--color-primary-text);
+  text-decoration: none;
+}
+.prose ul.home-pubs a:hover { color: var(--color-eureka); text-decoration: underline; }
+.home-pubs-meta {
+  display: block;
+  margin-top: 0.25rem;
+  font-size: 0.9rem;
+  color: var(--color-tertiary-text);
+}
+.home-pubs-meta strong { color: var(--color-secondary-text); font-weight: 600; }
+.prose p.home-more { margin-top: 1rem; }
+.prose p.home-more a {
+  margin-right: 1.5rem;
+  font-weight: 600;
+  color: var(--color-eureka);
+  text-decoration: none;
+}
+.prose p.home-more a:hover { text-decoration: underline; }
+
+/* Dark mode: the sage link and dark author colors above are too dim on the dark
+   background, so use the theme's light accent and text colors instead. */
+.dark .news-item a,
+.dark .research-link,
+.dark .research-link a,
+.dark .research-link-anchor { color: var(--color-eureka) !important; }
+.dark .research-authors { color: var(--color-primary-text); }

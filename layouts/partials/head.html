@@ -48,6 +48,10 @@
 {{ with $prefix }}
 {{ $title = print . " " $primarySep " " $title }}
 {{ end }}
+{{/*  Homepage: a more descriptive title for search results (params.homeTitle)  */}}
+{{ if and .IsHome .Site.Params.homeTitle }}
+{{ $title = .Site.Params.homeTitle }}
+{{ end }}
 {{ return $title }}
 {{ end }}
 <title>{{ partial "get-title" . }}</title>
@@ -191,6 +195,7 @@
 {{ end }}
 
 {{- partial "components/schema" . }}
+{{- if .IsHome }}{{ partial "components/schema-person" . }}{{ end }}
 {{- partial "components/opengraph" . }}
 {{- range .AlternativeOutputFormats }}
 {{- printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
