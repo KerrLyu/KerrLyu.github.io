@@ -6,8 +6,15 @@
     <description>Recent content on Ke (Kerr) Lyu</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://kerrlyu.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Quota Game</title>
+      <link>https://kerrlyu.github.io/teaching/quota-game/</link>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://kerrlyu.github.io/teaching/quota-game/</guid>
+      <description>&lt;p&gt;A live classroom cartel game for &lt;strong&gt;ECON 2103: Principles of Microeconomics&lt;/strong&gt;. Students join on their phones and are placed in small markets of three or four firms that have agreed to restrict output. Each round, every firm secretly chooses to HOLD (sell one unit) or CHEAT (sell two units), and its profit depends on how many firms in its market cheat. If everyone holds, each firm earns $100; if everyone cheats, each earns only $60.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The Price Is Yours</title>
       <link>https://kerrlyu.github.io/teaching/monopoly-game/</link>

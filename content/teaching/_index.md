@@ -73,13 +73,24 @@ hideMeta: true
       <a class="game-card-link" href="/teaching/monopoly-game/">Open materials <span aria-hidden="true">→</span></a>
     </div>
   </article>
+  <article class="game-card game-card-oligopoly">
+    <span class="game-card-number">06</span>
+    <p class="game-card-kicker">Core Concept</p>
+    <h3>Oligopoly and Cartels</h3>
+    <p class="game-card-game">The Quota Game</p>
+    <p>Students act as firms in a cartel, secretly choosing whether to hold to their output quota or cheat, and discover why cartels are hard to sustain.</p>
+    <div class="game-card-actions">
+      <details class="game-card-details"><summary>Explore the activity</summary><p>Students play on their phones across three stages: secret choices, meetings with promises and threats, and an antitrust regulator that rewards the first firm to report.</p></details>
+      <a class="game-card-link" href="/teaching/quota-game/">Open materials <span aria-hidden="true">→</span></a>
+    </div>
+  </article>
 </div>
 
 ## Principles of Macroeconomics - Classroom Games
 
 <div class="game-grid game-grid-single">
   <article class="game-card game-card-credit">
-    <span class="game-card-number">06</span>
+    <span class="game-card-number">07</span>
     <p class="game-card-kicker">Core Concept</p>
     <h3>Credit Markets</h3>
     <p class="game-card-game">Credit Market Auction</p>
